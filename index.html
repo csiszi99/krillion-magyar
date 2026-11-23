@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mélymerülés – ritka válaszok</title>
+<meta name="description" content="Magyar ritka-válasz kvízjáték egyedül vagy barátokkal, fiók nélkül.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=5">
+</head>
+<body>
+<div class="sea" aria-hidden="true">
+  <div class="rays"></div>
+  <div class="bubbles"></div>
+</div>
+
+<main id="app">
+  <!-- HOME -->
+  <section id="v-home" class="view">
+    <header class="brand">
+      <svg class="krill" viewBox="0 0 120 60" aria-hidden="true"><use href="#krill"/></svg>
+      <h1>Mélymerülés</h1>
+      <p class="tag">A ritka válaszok játéka. A nyilvánvaló válasz a felszínen ragad, a ritka a mélybe visz.</p>
+    </header>
+    <div class="card">
+      <label for="name">A neved</label>
+      <input id="name" maxlength="16" autocomplete="nickname" placeholder="pl. Dávid">
+      <div class="btns">
+        <button id="b-solo" class="btn primary">Egyedül játszom</button>
+        <button id="b-host" class="btn">Szoba létrehozása</button>
+      </div>
+      <div class="join">
+        <input id="joincode" maxlength="5" placeholder="Szobakód" autocapitalize="characters" aria-label="Szobakód">
+        <button id="b-join" class="btn">Csatlakozás</button>
+      </div>
+      <p id="home-msg" class="msg" role="status"></p>
+    </div>
+    <details class="card rules">
+      <summary>Hogyan működik?</summary>
+      <p>Egy kör 7 kérdés. Mindegyik egy kategória, például „Mondj egy európai fővárost!”. 25 másodperced van egy helyes válaszra. Ha nem fogadja el, próbálkozhatsz újra, amíg le nem jár az idő.</p>
+      <p>Minél ritkább a helyes válaszod, annál több pont jár érte, és 1 pont = 10 méter merülés.</p>
+      <ul class="tiers" id="tierlist"></ul>
+      <p>Szobában: ha senki más nem adta ugyanazt a helyes választ, <b>+20 pont</b> bónusz jár. A kérdések az eszközödön addig nem ismétlődnek, amíg az egész bank el nem fogy.</p>
+      <p>Az el nem fogadott tippeket (csak a kérdés és a tipp, név nélkül) a kör végén elküldjük. Naponta átnézzük őket, és ami mégis helyes, bekerül az elfogadott válaszok közé.</p>
+    </details>
+    <p class="foot" id="poolinfo"></p>
+  </section>
+
+  <!-- LOBBY -->
+  <section id="v-lobby" class="view" hidden>
+    <div class="card">
+      <h2>Szoba <span id="l-code" class="code"></span></h2>
+      <div id="l-share">
+        <p>Küldd el ezt a linket a többieknek (vagy mondd be a kódot):</p>
+        <div class="copyrow"><input id="l-link" readonly><button id="b-copy" class="btn small">Másolás</button></div>
+      </div>
+      <h3>Játékosok</h3>
+      <ul id="l-players" class="players"></ul>
+      <p id="l-msg" class="msg" role="status"></p>
+      <div class="btns">
+        <button id="b-start" class="btn primary" hidden>Kör indítása</button>
+        <button id="b-leave" class="btn ghost">Kilépés</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- GAME -->
+  <section id="v-game" class="view" hidden>
+    <div class="hud">
+      <span id="g-prog" class="pill"></span>
+      <span id="g-cat" class="pill soft"></span>
+      <span id="g-depth" class="pill depth"></span>
+    </div>
+    <div class="card qcard">
+      <div class="timer"><div id="g-bar"></div></div>
+      <div id="g-count" class="countdown" hidden></div>
+      <h2 id="g-q" class="question"></h2>
+      <p id="g-hint" class="hint"></p>
+      <form id="g-form" class="answer" autocomplete="off">
+        <input id="g-in" maxlength="60" placeholder="Írd be a válaszod…" aria-label="Válasz" enterkeyhint="send">
+        <button class="btn primary" id="g-send">Küld</button>
+      </form>
+      <div id="g-fb" class="feedback" role="status"></div>
+      <p id="g-wait" class="msg"></p>
+      <div class="btns"><button id="b-skip" class="btn ghost small" hidden>Tovább</button></div>
+    </div>
+    <ul id="g-who" class="who"></ul>
+  </section>
+
+  <!-- REVEAL -->
+  <section id="v-reveal" class="view" hidden>
+    <div class="card">
+      <p class="eyebrowless" id="r-prog"></p>
+      <h2 id="r-q"></h2>
+      <ul id="r-list" class="rlist"></ul>
+      <div class="rare">
+        <h3>Ezek vittek volna a legmélyebbre</h3>
+        <p id="r-rare"></p>
+        <h3>A legnyilvánvalóbbak</h3>
+        <p id="r-common"></p>
+      </div>
+      <div class="btns"><button id="b-next" class="btn primary" hidden>Tovább</button></div>
+      <p id="r-auto" class="msg"></p>
+    </div>
+  </section>
+
+  <!-- ROUND END -->
+  <section id="v-end" class="view" hidden>
+    <div class="card">
+      <h2 id="e-title">A kör eredménye</h2>
+      <div class="scroll"><table id="e-round" class="tbl"></table></div>
+      <h3 id="e-sess-h">A session összesítője</h3>
+      <div class="scroll"><table id="e-sess" class="tbl"></table></div>
+      <p id="e-msg" class="msg"></p>
+      <div class="btns">
+        <button id="b-again" class="btn primary">Új kör</button>
+        <button id="b-home" class="btn ghost">Főmenü</button>
+      </div>
+    </div>
+  </section>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+</main>
+
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <linearGradient id="kg" x1="0" x2="1"><stop offset="0" stop-color="#ff9a7a"/><stop offset="1" stop-color="#ff5d73"/></linearGradient>
+    <symbol id="krill" viewBox="0 0 120 60">
+      <path d="M14 34 C30 14 78 10 104 26 C110 30 110 36 104 38 C80 50 36 50 14 34 Z" fill="url(#kg)"/>
+      <path d="M40 22 C42 30 42 40 40 46 M54 18 C56 28 56 40 54 48 M68 18 C70 28 70 40 68 48 M82 20 C84 28 84 38 82 46" stroke="#c63b55" stroke-width="2.4" fill="none" opacity=".55"/>
+      <circle cx="98" cy="29" r="4.2" fill="#14213d"/><circle cx="99.4" cy="27.6" r="1.4" fill="#fff"/>
+      <path d="M104 26 C114 14 118 8 119 4 M104 28 C116 22 119 20 120 18" stroke="#ff8a7a" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      <path d="M14 34 L2 26 L5 36 L2 46 Z" fill="#ff7f86"/>
+      <path d="M44 46 l-3 9 M56 48 l-2 9 M68 48 l-1 9 M80 46 l0 9" stroke="#ff8a7a" stroke-width="2" stroke-linecap="round"/>
+    </symbol>
+  </defs>
+</svg>
+
+<script src="questions.js?v=6"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/peerjs/1.5.4/peerjs.min.js"></script>
+<script>window.Peer||document.write('<script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js"><\/script>')</script>
+<script src="app.js?v=6"></script>
+</body>
+</html>

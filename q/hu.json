@@ -1,0 +1,10726 @@
+[
+ {
+  "id": "HU001",
+  "cat": "Földrajz",
+  "q": "Mondj egy magyar megyét vagy a fővárost!",
+  "hint": "Budapest is elfogadott.",
+  "a": [
+   [
+    "Pest|Pest megye|Pest vármegye|Pest-Pilis-Solt-Kiskun|Pest-Pilis-Solt-Kiskun megye",
+    1
+   ],
+   [
+    "Baranya|Baranya megye|Baranya vármegye",
+    1
+   ],
+   [
+    "Somogy|Somogy megye|Somogy vármegye",
+    1
+   ],
+   [
+    "Zala|Zala megye|Zala vármegye",
+    1
+   ],
+   [
+    "Győr-Moson-Sopron|Győr-Sopron|Győr-Moson-Sopron megye|Győr|Győr-Moson-Sopron vármegye",
+    2
+   ],
+   [
+    "Fejér|Fejér megye|Fejér vármegye",
+    2
+   ],
+   [
+    "Heves|Heves megye|Heves vármegye",
+    2
+   ],
+   [
+    "Békés|Békés megye|Békés vármegye",
+    2
+   ],
+   [
+    "Hajdú-Bihar|Hajdú|Hajdú-Bihar megye|Hajdú-Bihar vármegye",
+    3
+   ],
+   [
+    "Bács-Kiskun|Bács|Bács-Kiskun megye|Bács-Kiskun vármegye",
+    3
+   ],
+   [
+    "Vas|Vas megye|Vas vármegye",
+    3
+   ],
+   [
+    "Veszprém|Veszprém megye|Veszprém vármegye",
+    3
+   ],
+   [
+    "Borsod-Abaúj-Zemplén|Borsod|BAZ|BAZ megye|Borsod-Abaúj-Zemplén megye|Borsod-Abaúj-Zemplén vármegye|Borsod megye|Borsod vármegye",
+    3
+   ],
+   [
+    "Budapest|Főváros|Budapest főváros",
+    2
+   ],
+   [
+    "Csongrád-Csanád|Csongrád|Csongrád-Csanád megye|Csanád|Csongrád-Csanád vármegye|Csongrád megye",
+    4
+   ],
+   [
+    "Tolna|Tolna megye|Tolna vármegye",
+    4
+   ],
+   [
+    "Komárom-Esztergom|Komárom-Esztergom megye|Komárom|Komárom-Esztergom vármegye",
+    5
+   ],
+   [
+    "Szabolcs-Szatmár-Bereg|Szabolcs|Szabolcs-Szatmár|Szabolcs-Szatmár-Bereg megye|Szabolcs-Szatmár-Bereg vármegye|Szabolcs megye",
+    5
+   ],
+   [
+    "Nógrád|Nógrád megye|Nógrád vármegye",
+    5
+   ],
+   [
+    "Jász-Nagykun-Szolnok|Jász-Nagykun|Jász-Nagykun-Szolnok megye|Jász-Nagykun-Szolnok vármegye",
+    5
+   ],
+   [
+    "Zemplén|Zemplén megye|Zemplén vármegye",
+    5
+   ],
+   [
+    "Abaúj-Torna|Abaúj|Abaúj megye",
+    6
+   ],
+   [
+    "Bihar|Bihar megye|Bihar vármegye",
+    6
+   ],
+   [
+    "Torontál|Torontál megye",
+    6
+   ],
+   [
+    "Temes|Temes megye|Temes vármegye",
+    6
+   ],
+   [
+    "Hont|Hont megye",
+    6
+   ],
+   [
+    "Bereg|Bereg megye",
+    6
+   ],
+   [
+    "Moson|Moson megye",
+    6
+   ],
+   [
+    "Esztergom|Esztergom megye",
+    6
+   ],
+   [
+    "Pozsony|Pozsony megye",
+    6
+   ],
+   [
+    "Nyitra|Nyitra megye",
+    6
+   ],
+   [
+    "Gömör-Kishont|Gömör|Gömör megye",
+    6
+   ],
+   [
+    "Kolozs|Kolozs megye",
+    6
+   ],
+   [
+    "Hunyad|Hunyad megye",
+    6
+   ],
+   [
+    "Ung|Ung megye",
+    6
+   ],
+   [
+    "Ugocsa|Ugocsa megye",
+    6
+   ],
+   [
+    "Máramaros|Máramaros megye",
+    6
+   ],
+   [
+    "Szatmár megye",
+    6
+   ],
+   [
+    "Szolnok-Doboka|Szolnok-Doboka megye",
+    6
+   ],
+   [
+    "Háromszék|Háromszék megye",
+    6
+   ],
+   [
+    "Csík|Csík megye",
+    6
+   ],
+   [
+    "Udvarhely|Udvarhely megye",
+    6
+   ],
+   [
+    "Maros-Torda|Maros-Torda megye",
+    6
+   ],
+   [
+    "Bács-Bodrog|Bács-Bodrog megye",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU002",
+  "cat": "Földrajz",
+  "q": "Mondj egy magyar várost!",
+  "hint": "",
+  "a": [
+   [
+    "Budapest",
+    1
+   ],
+   [
+    "Debrecen",
+    1
+   ],
+   [
+    "Szeged",
+    1
+   ],
+   [
+    "Pécs",
+    1
+   ],
+   [
+    "Miskolc",
+    2
+   ],
+   [
+    "Győr",
+    2
+   ],
+   [
+    "Eger",
+    2
+   ],
+   [
+    "Székesfehérvár|Fehérvár",
+    2
+   ],
+   [
+    "Kecskemét",
+    3
+   ],
+   [
+    "Nyíregyháza",
+    3
+   ],
+   [
+    "Szolnok",
+    3
+   ],
+   [
+    "Sopron",
+    3
+   ],
+   [
+    "Veszprém",
+    3
+   ],
+   [
+    "Szombathely",
+    3
+   ],
+   [
+    "Kaposvár",
+    3
+   ],
+   [
+    "Tatabánya",
+    3
+   ],
+   [
+    "Zalaegerszeg",
+    3
+   ],
+   [
+    "Békéscsaba",
+    3
+   ],
+   [
+    "Esztergom",
+    4
+   ],
+   [
+    "Szentendre",
+    4
+   ],
+   [
+    "Gödöllő",
+    4
+   ],
+   [
+    "Mohács",
+    4
+   ],
+   [
+    "Keszthely",
+    4
+   ],
+   [
+    "Baja",
+    4
+   ],
+   [
+    "Dunaújváros",
+    4
+   ],
+   [
+    "Hódmezővásárhely|Vásárhely",
+    4
+   ],
+   [
+    "Siófok",
+    4
+   ],
+   [
+    "Vác",
+    4
+   ],
+   [
+    "Kalocsa",
+    4
+   ],
+   [
+    "Gyöngyös",
+    4
+   ],
+   [
+    "Cegléd",
+    4
+   ],
+   [
+    "Mosonmagyaróvár|Magyaróvár",
+    4
+   ],
+   [
+    "Paks",
+    4
+   ],
+   [
+    "Szekszárd",
+    4
+   ],
+   [
+    "Tata",
+    4
+   ],
+   [
+    "Ózd",
+    4
+   ],
+   [
+    "Nagykanizsa",
+    4
+   ],
+   [
+    "Salgótarján",
+    4
+   ],
+   [
+    "Tokaj",
+    5
+   ],
+   [
+    "Kisvárda",
+    5
+   ],
+   [
+    "Mezőkövesd",
+    5
+   ],
+   [
+    "Jászberény",
+    5
+   ],
+   [
+    "Kőszeg",
+    5
+   ],
+   [
+    "Körmend",
+    5
+   ],
+   [
+    "Balassagyarmat",
+    5
+   ],
+   [
+    "Sárospatak",
+    5
+   ],
+   [
+    "Bonyhád",
+    5
+   ],
+   [
+    "Mór",
+    5
+   ],
+   [
+    "Várpalota",
+    5
+   ],
+   [
+    "Szarvas",
+    5
+   ],
+   [
+    "Karcag",
+    5
+   ],
+   [
+    "Tiszafüred",
+    5
+   ],
+   [
+    "Zirc",
+    6
+   ],
+   [
+    "Sellye",
+    6
+   ],
+   [
+    "Celldömölk",
+    6
+   ],
+   [
+    "Lenti",
+    6
+   ],
+   [
+    "Püspökladány",
+    6
+   ],
+   [
+    "Tab",
+    6
+   ],
+   [
+    "Érd",
+    4
+   ],
+   [
+    "Gyula",
+    4
+   ],
+   [
+    "Pápa",
+    4
+   ],
+   [
+    "Hajdúszoboszló",
+    4
+   ],
+   [
+    "Szigetvár",
+    5
+   ],
+   [
+    "Hatvan",
+    5
+   ],
+   [
+    "Makó",
+    5
+   ],
+   [
+    "Orosháza",
+    5
+   ],
+   [
+    "Kiskunhalas",
+    5
+   ],
+   [
+    "Kiskunfélegyháza|Félegyháza",
+    5
+   ],
+   [
+    "Szentes",
+    5
+   ],
+   [
+    "Komárom",
+    5
+   ],
+   [
+    "Tapolca",
+    5
+   ],
+   [
+    "Ajka",
+    5
+   ],
+   [
+    "Sárvár",
+    5
+   ],
+   [
+    "Budaörs",
+    3
+   ],
+   [
+    "Dunakeszi",
+    3
+   ],
+   [
+    "Szigetszentmiklós",
+    3
+   ],
+   [
+    "Sátoraljaújhely",
+    3
+   ],
+   [
+    "Kazincbarcika",
+    3
+   ],
+   [
+    "Mezőtúr",
+    5
+   ],
+   [
+    "Százhalombatta",
+    4
+   ],
+   [
+    "Vecsés",
+    4
+   ],
+   [
+    "Gyál",
+    4
+   ],
+   [
+    "Dabas",
+    4
+   ],
+   [
+    "Monor",
+    4
+   ],
+   [
+    "Ráckeve",
+    4
+   ],
+   [
+    "Nagykőrös",
+    4
+   ],
+   [
+    "Veresegyház",
+    4
+   ],
+   [
+    "Fót",
+    4
+   ],
+   [
+    "Dunaharaszti",
+    4
+   ],
+   [
+    "Göd",
+    4
+   ],
+   [
+    "Visegrád",
+    4
+   ],
+   [
+    "Szerencs",
+    4
+   ],
+   [
+    "Tiszaújváros",
+    4
+   ],
+   [
+    "Berettyóújfalu",
+    4
+   ],
+   [
+    "Hajdúböszörmény",
+    4
+   ],
+   [
+    "Mátészalka",
+    4
+   ],
+   [
+    "Nyírbátor",
+    4
+   ],
+   [
+    "Szentgotthárd",
+    4
+   ],
+   [
+    "Oroszlány",
+    4
+   ],
+   [
+    "Dorog",
+    4
+   ],
+   [
+    "Komló",
+    4
+   ],
+   [
+    "Dombóvár",
+    4
+   ],
+   [
+    "Fonyód",
+    4
+   ],
+   [
+    "Balatonfüred",
+    4
+   ],
+   [
+    "Balatonalmádi",
+    4
+   ],
+   [
+    "Hévíz",
+    4
+   ],
+   [
+    "Sümeg",
+    4
+   ],
+   [
+    "Bicske",
+    4
+   ],
+   [
+    "Siklós",
+    4
+   ],
+   [
+    "Csongrád",
+    4
+   ],
+   [
+    "Békés",
+    4
+   ],
+   [
+    "Csorna",
+    4
+   ],
+   [
+    "Pásztó",
+    5
+   ],
+   [
+    "Szécsény",
+    5
+   ],
+   [
+    "Bátonyterenye",
+    5
+   ],
+   [
+    "Heves",
+    5
+   ],
+   [
+    "Füzesabony",
+    5
+   ],
+   [
+    "Törökszentmiklós",
+    5
+   ],
+   [
+    "Kisújszállás",
+    5
+   ],
+   [
+    "Jászapáti",
+    5
+   ],
+   [
+    "Hajdúnánás",
+    5
+   ],
+   [
+    "Hajdúdorog",
+    5
+   ],
+   [
+    "Hajdúhadház",
+    5
+   ],
+   [
+    "Balmazújváros",
+    5
+   ],
+   [
+    "Derecske",
+    5
+   ],
+   [
+    "Létavértes",
+    5
+   ],
+   [
+    "Polgár",
+    5
+   ],
+   [
+    "Nyíradony",
+    5
+   ],
+   [
+    "Tiszavasvári",
+    5
+   ],
+   [
+    "Nagykálló",
+    5
+   ],
+   [
+    "Fehérgyarmat",
+    5
+   ],
+   [
+    "Vásárosnamény",
+    5
+   ],
+   [
+    "Záhony",
+    5
+   ],
+   [
+    "Újfehértó",
+    5
+   ],
+   [
+    "Szeghalom",
+    5
+   ],
+   [
+    "Mezőkovácsháza",
+    5
+   ],
+   [
+    "Gyomaendrőd",
+    5
+   ],
+   [
+    "Mezőberény",
+    5
+   ],
+   [
+    "Sarkad",
+    5
+   ],
+   [
+    "Battonya",
+    5
+   ],
+   [
+    "Tótkomlós",
+    5
+   ],
+   [
+    "Kiskunmajsa",
+    5
+   ],
+   [
+    "Kiskőrös",
+    5
+   ],
+   [
+    "Jánoshalma",
+    5
+   ],
+   [
+    "Kunszentmiklós",
+    5
+   ],
+   [
+    "Tiszakécske",
+    5
+   ],
+   [
+    "Lajosmizse",
+    5
+   ],
+   [
+    "Izsák",
+    5
+   ],
+   [
+    "Soltvadkert",
+    5
+   ],
+   [
+    "Bácsalmás",
+    5
+   ],
+   [
+    "Kistelek",
+    5
+   ],
+   [
+    "Mórahalom",
+    5
+   ],
+   [
+    "Edelény",
+    5
+   ],
+   [
+    "Encs",
+    5
+   ],
+   [
+    "Putnok",
+    5
+   ],
+   [
+    "Szikszó",
+    5
+   ],
+   [
+    "Felsőzsolca",
+    5
+   ],
+   [
+    "Sajószentpéter",
+    5
+   ],
+   [
+    "Zalaszentgrót",
+    5
+   ],
+   [
+    "Zalakaros",
+    5
+   ],
+   [
+    "Pécsvárad",
+    5
+   ],
+   [
+    "Harkány",
+    5
+   ],
+   [
+    "Villány",
+    5
+   ],
+   [
+    "Szentlőrinc",
+    5
+   ],
+   [
+    "Marcali",
+    5
+   ],
+   [
+    "Barcs",
+    5
+   ],
+   [
+    "Nagyatád",
+    5
+   ],
+   [
+    "Csurgó",
+    5
+   ],
+   [
+    "Balatonboglár",
+    4
+   ],
+   [
+    "Balatonlelle",
+    5
+   ],
+   [
+    "Balatonföldvár",
+    5
+   ],
+   [
+    "Badacsonytomaj",
+    5
+   ],
+   [
+    "Herend",
+    5
+   ],
+   [
+    "Devecser",
+    5
+   ],
+   [
+    "Fertőd",
+    5
+   ],
+   [
+    "Kapuvár",
+    5
+   ],
+   [
+    "Pannonhalma",
+    5
+   ],
+   [
+    "Bük",
+    5
+   ],
+   [
+    "Vasvár",
+    5
+   ],
+   [
+    "Gárdony",
+    5
+   ],
+   [
+    "Velence",
+    5
+   ],
+   [
+    "Martonvásár",
+    5
+   ],
+   [
+    "Ercsi",
+    5
+   ],
+   [
+    "Sárbogárd",
+    5
+   ],
+   [
+    "Bábolna",
+    5
+   ],
+   [
+    "Kisbér",
+    5
+   ],
+   [
+    "Nyergesújfalu",
+    5
+   ],
+   [
+    "Nagykáta",
+    5
+   ],
+   [
+    "Pomáz",
+    5
+   ],
+   [
+    "Budakeszi",
+    5
+   ],
+   [
+    "Budakalász",
+    5
+   ],
+   [
+    "Törökbálint",
+    5
+   ],
+   [
+    "Biatorbágy",
+    5
+   ],
+   [
+    "Pilisvörösvár",
+    5
+   ],
+   [
+    "Szob",
+    5
+   ],
+   [
+    "Nagymaros",
+    5
+   ],
+   [
+    "Aszód",
+    5
+   ],
+   [
+    "Pécel",
+    5
+   ],
+   [
+    "Üllő",
+    5
+   ],
+   [
+    "Maglód",
+    5
+   ],
+   [
+    "Gyömrő",
+    5
+   ],
+   [
+    "Albertirsa",
+    5
+   ],
+   [
+    "Abony",
+    5
+   ],
+   [
+    "Zsámbék",
+    5
+   ],
+   [
+    "Szigethalom",
+    5
+   ],
+   [
+    "Tamási",
+    5
+   ],
+   [
+    "Bátaszék",
+    5
+   ],
+   [
+    "Dunaföldvár",
+    5
+   ],
+   [
+    "Igal",
+    6
+   ],
+   [
+    "Sásd",
+    6
+   ],
+   [
+    "Kadarkút",
+    6
+   ],
+   [
+    "Lengyeltóti",
+    6
+   ],
+   [
+    "Letenye",
+    6
+   ],
+   [
+    "Zalalövő",
+    6
+   ],
+   [
+    "Berhida",
+    6
+   ],
+   [
+    "Balatonfűzfő",
+    6
+   ],
+   [
+    "Fertőszentmiklós",
+    6
+   ],
+   [
+    "Tét",
+    6
+   ],
+   [
+    "Jánossomorja",
+    6
+   ],
+   [
+    "Csepreg",
+    6
+   ],
+   [
+    "Répcelak",
+    6
+   ],
+   [
+    "Jánosháza",
+    6
+   ],
+   [
+    "Adony",
+    6
+   ],
+   [
+    "Enying",
+    6
+   ],
+   [
+    "Polgárdi",
+    6
+   ],
+   [
+    "Pusztaszabolcs",
+    6
+   ],
+   [
+    "Rácalmás",
+    6
+   ],
+   [
+    "Tát",
+    6
+   ],
+   [
+    "Lábatlan",
+    6
+   ],
+   [
+    "Rétság",
+    6
+   ],
+   [
+    "Pétervására",
+    6
+   ],
+   [
+    "Bélapátfalva",
+    6
+   ],
+   [
+    "Verpelét",
+    6
+   ],
+   [
+    "Kunhegyes",
+    6
+   ],
+   [
+    "Jászárokszállás",
+    6
+   ],
+   [
+    "Martfű",
+    6
+   ],
+   [
+    "Komádi",
+    6
+   ],
+   [
+    "Nádudvar",
+    6
+   ],
+   [
+    "Téglás",
+    6
+   ],
+   [
+    "Biharkeresztes",
+    6
+   ],
+   [
+    "Tiszacsege",
+    6
+   ],
+   [
+    "Vámospércs",
+    6
+   ],
+   [
+    "Ibrány",
+    6
+   ],
+   [
+    "Tiszalök",
+    6
+   ],
+   [
+    "Baktalórántháza",
+    6
+   ],
+   [
+    "Csenger",
+    6
+   ],
+   [
+    "Demecser",
+    6
+   ],
+   [
+    "Kemecse",
+    6
+   ],
+   [
+    "Nagyhalász",
+    6
+   ],
+   [
+    "Dombrád",
+    6
+   ],
+   [
+    "Rakamaz",
+    6
+   ],
+   [
+    "Füzesgyarmat",
+    6
+   ],
+   [
+    "Dévaványa",
+    6
+   ],
+   [
+    "Kondoros",
+    6
+   ],
+   [
+    "Csorvás",
+    6
+   ],
+   [
+    "Elek",
+    6
+   ],
+   [
+    "Vésztő",
+    6
+   ],
+   [
+    "Medgyesegyháza",
+    6
+   ],
+   [
+    "Körösladány",
+    6
+   ],
+   [
+    "Tompa",
+    6
+   ],
+   [
+    "Solt",
+    6
+   ],
+   [
+    "Kerekegyháza",
+    6
+   ],
+   [
+    "Dunavecse",
+    6
+   ],
+   [
+    "Szabadszállás",
+    6
+   ],
+   [
+    "Mindszent",
+    6
+   ],
+   [
+    "Sándorfalva",
+    6
+   ],
+   [
+    "Mezőcsát",
+    6
+   ],
+   [
+    "Abaújszántó",
+    6
+   ],
+   [
+    "Szendrő",
+    6
+   ],
+   [
+    "Cigánd",
+    6
+   ],
+   [
+    "Emőd",
+    6
+   ],
+   [
+    "Onga",
+    6
+   ],
+   [
+    "Sajóbábony",
+    6
+   ],
+   [
+    "Alsózsolca",
+    6
+   ],
+   [
+    "Tököl",
+    6
+   ],
+   [
+    "Halásztelek",
+    6
+   ],
+   [
+    "Diósd",
+    6
+   ],
+   [
+    "Ócsa",
+    6
+   ],
+   [
+    "Sülysáp",
+    6
+   ],
+   [
+    "Dunavarsány",
+    6
+   ],
+   [
+    "Tura",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU003",
+  "cat": "Földrajz",
+  "q": "Mondj egy folyót vagy patakot, ami Magyarországon is folyik!",
+  "hint": "",
+  "a": [
+   [
+    "Duna|Danube|Donau",
+    1
+   ],
+   [
+    "Tisza|Theiss",
+    1
+   ],
+   [
+    "Dráva|Drava",
+    2
+   ],
+   [
+    "Rába|Raab",
+    2
+   ],
+   [
+    "Zala",
+    3
+   ],
+   [
+    "Sió",
+    3
+   ],
+   [
+    "Körös|Kőrös",
+    3
+   ],
+   [
+    "Hernád",
+    3
+   ],
+   [
+    "Sajó",
+    3
+   ],
+   [
+    "Ipoly|Ipeľ|Eipel",
+    3
+   ],
+   [
+    "Szamos",
+    3
+   ],
+   [
+    "Bodrog",
+    3
+   ],
+   [
+    "Zagyva",
+    3
+   ],
+   [
+    "Kapos",
+    3
+   ],
+   [
+    "Maros",
+    3
+   ],
+   [
+    "Berettyó",
+    4
+   ],
+   [
+    "Marcal",
+    4
+   ],
+   [
+    "Répce",
+    4
+   ],
+   [
+    "Tarna",
+    4
+   ],
+   [
+    "Galga",
+    4
+   ],
+   [
+    "Kerka|Kerka-patak",
+    4
+   ],
+   [
+    "Mura|Mur",
+    4
+   ],
+   [
+    "Bódva",
+    4
+   ],
+   [
+    "Rákos-patak|Rákos patak",
+    4
+   ],
+   [
+    "Szinva",
+    4
+   ],
+   [
+    "Sárvíz|Sárvíz-csatorna",
+    5
+   ],
+   [
+    "Hangony",
+    5
+   ],
+   [
+    "Pinka",
+    5
+   ],
+   [
+    "Kraszna",
+    5
+   ],
+   [
+    "Túr",
+    5
+   ],
+   [
+    "Lajta|Leitha",
+    5
+   ],
+   [
+    "Tápió",
+    5
+   ],
+   [
+    "Sebes-Körös|Sebes Körös",
+    5
+   ],
+   [
+    "Hortobágy-Berettyó",
+    6
+   ],
+   [
+    "Karasica",
+    6
+   ],
+   [
+    "Eger-patak|Eger patak",
+    6
+   ],
+   [
+    "Cuha",
+    6
+   ],
+   [
+    "Concó",
+    6
+   ],
+   [
+    "Kis-Rába|Kis Rába",
+    6
+   ],
+   [
+    "Mosoni-Duna",
+    4
+   ],
+   [
+    "Fekete-Körös",
+    5
+   ],
+   [
+    "Fehér-Körös",
+    5
+   ],
+   [
+    "Hármas-Körös",
+    5
+   ],
+   [
+    "Ráckevei-Duna|Soroksári-Duna",
+    5
+   ],
+   [
+    "Lapincs|Lafnitz",
+    6
+   ],
+   [
+    "Szentendrei-Duna|Szentendrei Duna",
+    5
+   ],
+   [
+    "Kettős-Körös|Kettős Körös",
+    5
+   ],
+   [
+    "Koppány|Koppány-patak",
+    5
+   ],
+   [
+    "Séd|Séd-patak",
+    5
+   ],
+   [
+    "Szuha|Szuha-patak",
+    5
+   ],
+   [
+    "Hejő|Hejő-patak",
+    5
+   ],
+   [
+    "Takta|Takta-patak",
+    5
+   ],
+   [
+    "Ronyva|Ronyva-patak",
+    6
+   ],
+   [
+    "Laskó|Laskó-patak",
+    6
+   ],
+   [
+    "Gyöngyös-patak|Gyöngyös patak",
+    5
+   ],
+   [
+    "Toka-patak|Toka patak",
+    6
+   ],
+   [
+    "Kemence-patak|Kemence patak",
+    6
+   ],
+   [
+    "Szilas-patak|Szilas patak",
+    6
+   ],
+   [
+    "Benta-patak|Benta patak|Benta",
+    6
+   ],
+   [
+    "Hosszúréti-patak|Hosszúréti patak",
+    6
+   ],
+   [
+    "Ördög-árok|Ördög árok",
+    6
+   ],
+   [
+    "Gaja|Gaja-patak",
+    6
+   ],
+   [
+    "Váli-víz|Váli víz",
+    6
+   ],
+   [
+    "Völgységi-patak|Völgységi patak",
+    6
+   ],
+   [
+    "Pécsi-víz|Pécsi víz",
+    6
+   ],
+   [
+    "Ikva|Ikva-patak",
+    6
+   ],
+   [
+    "Torna-patak|Torna patak",
+    6
+   ],
+   [
+    "Bakonyér",
+    6
+   ],
+   [
+    "Hajta|Hajta-patak",
+    6
+   ],
+   [
+    "Hortobágy-folyó|Hortobágy folyó|Hortobágy",
+    5
+   ],
+   [
+    "Eger-víz|Eger víz",
+    6
+   ],
+   [
+    "Gerence|Gerence-patak",
+    6
+   ],
+   [
+    "Tapolca-patak|Tapolca patak",
+    6
+   ],
+   [
+    "Garadna|Garadna-patak",
+    6
+   ],
+   [
+    "Tarnóca|Tarnóca-patak",
+    6
+   ],
+   [
+    "Lator|Lator-patak",
+    6
+   ],
+   [
+    "Almás-patak|Almás patak",
+    6
+   ],
+   [
+    "Rábca",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU004",
+  "cat": "Földrajz",
+  "q": "Mondj egy magyarországi tavat!",
+  "hint": "",
+  "a": [
+   [
+    "Balaton|Magyar tenger|Plattensee",
+    1
+   ],
+   [
+    "Velencei-tó|Velencei tó|Velence|Velencei",
+    1
+   ],
+   [
+    "Tisza-tó|Tisza tó",
+    2
+   ],
+   [
+    "Fertő-tó|Fertő|Neusiedlersee",
+    2
+   ],
+   [
+    "Hévízi-tó|Hévíz",
+    3
+   ],
+   [
+    "Kis-Balaton",
+    3
+   ],
+   [
+    "Tatai Öreg-tó|Öreg-tó|Tatai-tó",
+    3
+   ],
+   [
+    "Orfűi-tó|Orfű",
+    3
+   ],
+   [
+    "Szelidi-tó|Szelid",
+    4
+   ],
+   [
+    "Fehér-tó|Szegedi Fehér-tó",
+    4
+   ],
+   [
+    "Sóstó|Sóstói-tó|Nyíregyházi Sóstó",
+    4
+   ],
+   [
+    "Hámori-tó|Lillafüredi-tó|Lillafüred",
+    4
+   ],
+   [
+    "Malom-tó|Tapolcai Malom-tó",
+    4
+   ],
+   [
+    "Sástó|Mátrai Sás-tó",
+    4
+   ],
+   [
+    "Baláta-tó|Baláta",
+    5
+   ],
+   [
+    "Kolon-tó|Izsáki Kolon-tó",
+    5
+   ],
+   [
+    "Dinnyési-Fertő|Dinnyési Fertő",
+    5
+   ],
+   [
+    "Gébárti-tó|Gébárti",
+    5
+   ],
+   [
+    "Zámolyi-tározó|Zámolyi-víztározó",
+    5
+   ],
+   [
+    "Böddi-szék|Böddi szék",
+    6
+   ],
+   [
+    "Zab-szék",
+    6
+   ],
+   [
+    "Desedai-tó|Deseda",
+    5
+   ],
+   [
+    "Városligeti-tó|Városligeti tó",
+    5
+   ],
+   [
+    "Bokodi-hűtőtó|Bokodi tó",
+    6
+   ],
+   [
+    "Belső-tó|Tihanyi Belső-tó|Belső tó",
+    4
+   ],
+   [
+    "Külső-tó|Tihanyi Külső-tó|Külső tó",
+    6
+   ],
+   [
+    "Feneketlen-tó|Feneketlen tó|Feneketlen",
+    4
+   ],
+   [
+    "Kunfehértói-tó|Kunfehértó|Kunfehértói tó",
+    5
+   ],
+   [
+    "Kardoskúti Fehér-tó|Kardoskúti-tó",
+    6
+   ],
+   [
+    "Hortobágyi halastavak|Hortobágyi halastó",
+    6
+   ],
+   [
+    "Kelemen-szék|Kelemen szék",
+    6
+   ],
+   [
+    "Büdös-szék|Büdös szék",
+    6
+   ],
+   [
+    "Hídvégi-tó|Hídvégi tó",
+    6
+   ],
+   [
+    "Pécsi-tó|Pécsi tó|Orfűi Pécsi-tó",
+    5
+   ],
+   [
+    "Cseke-tó|Tatai Cseke-tó|Cseke tó",
+    6
+   ],
+   [
+    "Herman Ottó-tó|Herman Ottó tó",
+    6
+   ],
+   [
+    "Kovácsszénájai-tó|Kovácsszénája",
+    6
+   ],
+   [
+    "Tavasbarlang|Tapolcai tavasbarlang",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU005",
+  "cat": "Földrajz",
+  "q": "Mondj egy magyarországi hegységet vagy hegyet!",
+  "hint": "",
+  "a": [
+   [
+    "Mátra|Mátra-hegység|Mátrai-hegység",
+    1
+   ],
+   [
+    "Bükk|Bükk-hegység|Bükki-hegység",
+    1
+   ],
+   [
+    "Mecsek|Mecsek-hegység|Mecsek hegység",
+    1
+   ],
+   [
+    "Kékes|Kékestető",
+    2
+   ],
+   [
+    "Bakony|Bakony-hegység|Bakonyi-hegység",
+    2
+   ],
+   [
+    "Börzsöny|Börzsöny-hegység|Börzsönyi-hegység",
+    2
+   ],
+   [
+    "Pilis|Pilis-hegység|Pilisi-hegység",
+    2
+   ],
+   [
+    "Gellért-hegy|Gellérthegy",
+    2
+   ],
+   [
+    "Badacsony",
+    3
+   ],
+   [
+    "Zemplén|Zempléni-hegység|Zempléni-hegyvidék",
+    3
+   ],
+   [
+    "Vértes|Vértes-hegység|Vértesi-hegység",
+    3
+   ],
+   [
+    "Cserhát|Cserhát-hegység|Cserhát hegység",
+    3
+   ],
+   [
+    "Gerecse|Gerecse-hegység",
+    3
+   ],
+   [
+    "Visegrádi-hegység|Visegrádi hegység",
+    3
+   ],
+   [
+    "Budai-hegység|Budai hegység",
+    3
+   ],
+   [
+    "Soproni-hegység|Soproni hegység",
+    3
+   ],
+   [
+    "Kőszegi-hegység|Kőszegi hegység",
+    4
+   ],
+   [
+    "Villányi-hegység|Villányi hegység",
+    4
+   ],
+   [
+    "Keszthelyi-hegység|Keszthelyi hegység",
+    4
+   ],
+   [
+    "Velencei-hegység|Velencei hegység",
+    4
+   ],
+   [
+    "Balaton-felvidék",
+    4
+   ],
+   [
+    "Somló|Somlói-hegy|Somlóhegy",
+    4
+   ],
+   [
+    "Dobogókő",
+    4
+   ],
+   [
+    "Csóványos",
+    4
+   ],
+   [
+    "Naszály",
+    5
+   ],
+   [
+    "Szent György-hegy",
+    5
+   ],
+   [
+    "Ság-hegy|Ság",
+    5
+   ],
+   [
+    "Zengő",
+    5
+   ],
+   [
+    "Kab-hegy",
+    5
+   ],
+   [
+    "Galyatető|Galya-tető",
+    5
+   ],
+   [
+    "Írott-kő|Írottkő",
+    5
+   ],
+   [
+    "Istállós-kő|Istállóskő",
+    5
+   ],
+   [
+    "Hármashatár-hegy",
+    6
+   ],
+   [
+    "Jakab-hegy",
+    6
+   ],
+   [
+    "Tubes",
+    6
+   ],
+   [
+    "János-hegy",
+    4
+   ],
+   [
+    "Karancs",
+    5
+   ],
+   [
+    "Cserehát",
+    5
+   ],
+   [
+    "Tokaji-hegy|Kopasz-hegy",
+    5
+   ],
+   [
+    "Medves",
+    6
+   ],
+   [
+    "Sas-hegy",
+    6
+   ],
+   [
+    "Aggteleki-karszt|Aggtelek|Aggteleki-hegység",
+    4
+   ],
+   [
+    "Misina",
+    5
+   ],
+   [
+    "Szársomlyó|Harsányi-hegy|Szársomlyó-hegy",
+    5
+   ],
+   [
+    "Tenkes|Tenkes-hegy",
+    5
+   ],
+   [
+    "Zselic|Zselici-dombság|Zselici-hegység",
+    4
+   ],
+   [
+    "Pilis-tető|Pilistető",
+    6
+   ],
+   [
+    "Nagy-Kevély|Nagykevély",
+    5
+   ],
+   [
+    "Kis-Kevély",
+    6
+   ],
+   [
+    "Nagy-Szénás|Nagyszénás",
+    5
+   ],
+   [
+    "Nagy-Hideg-hegy|Nagyhideg-hegy",
+    5
+   ],
+   [
+    "Széchenyi-hegy",
+    4
+   ],
+   [
+    "Szabadság-hegy|Szabadsághegy",
+    4
+   ],
+   [
+    "Mátyás-hegy",
+    5
+   ],
+   [
+    "Rózsadomb",
+    4
+   ],
+   [
+    "Várhegy",
+    5
+   ],
+   [
+    "Piszkéstető|Piszkés-tető",
+    5
+   ],
+   [
+    "Ágasvár",
+    5
+   ],
+   [
+    "Hegyes-tető|Hegyestető",
+    6
+   ],
+   [
+    "Bálvány",
+    5
+   ],
+   [
+    "Tar-kő|Tarkő",
+    5
+   ],
+   [
+    "Pes-kő|Peskő",
+    6
+   ],
+   [
+    "Bükk-fennsík|Bükki-fennsík|Nagy-fennsík",
+    5
+   ],
+   [
+    "Avas|Avas-hegy",
+    4
+   ],
+   [
+    "Csobánc|Csobánci-hegy",
+    5
+   ],
+   [
+    "Gulács|Gulács-hegy",
+    5
+   ],
+   [
+    "Tóti-hegy",
+    5
+   ],
+   [
+    "Hegyestű",
+    5
+   ],
+   [
+    "Kőris-hegy|Kőrishegy",
+    5
+   ],
+   [
+    "Papod|Papod-hegy",
+    6
+   ],
+   [
+    "Meleg-hegy|Meleg hegy",
+    6
+   ],
+   [
+    "Pogány-kő",
+    6
+   ],
+   [
+    "Bence-hegy",
+    6
+   ],
+   [
+    "Dunazug-hegység|Dunazug",
+    4
+   ],
+   [
+    "Északi-középhegység|Északi középhegység",
+    4
+   ],
+   [
+    "Dunántúli-középhegység|Dunántúli középhegység",
+    4
+   ],
+   [
+    "Salgó-hegy|Salgóhegy",
+    6
+   ],
+   [
+    "Tátika|Tátika-hegy",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU006",
+  "cat": "Földrajz",
+  "q": "Mondj egy magyar borvidéket!",
+  "hint": "",
+  "a": [
+   [
+    "Tokaj|Tokaji|Tokaj-Hegyalja|Tokaji borvidék|Tokaj-hegyaljai|Hegyalja|Tokaj-Hegyalja borvidék",
+    1
+   ],
+   [
+    "Eger|Egri|Egri borvidék",
+    1
+   ],
+   [
+    "Villány|Villányi|Villányi borvidék|Villány-Siklós|Villány-Siklósi borvidék",
+    2
+   ],
+   [
+    "Szekszárd|Szekszárdi|Szekszárdi borvidék",
+    2
+   ],
+   [
+    "Badacsony|Badacsonyi|Badacsonyi borvidék",
+    3
+   ],
+   [
+    "Somló|Somlói|Nagy-Somló|Nagy-Somlói borvidék|Somlói borvidék",
+    3
+   ],
+   [
+    "Sopron|Soproni|Soproni borvidék",
+    3
+   ],
+   [
+    "Balatonfüred-Csopak|Balatonfüred|Csopak|Balatonfüred-Csopaki borvidék|Csopaki borvidék",
+    3
+   ],
+   [
+    "Mátra|Mátrai|Mátrai borvidék",
+    3
+   ],
+   [
+    "Etyek-Buda|Etyek|Etyeki borvidék",
+    3
+   ],
+   [
+    "Mór|Móri|Móri borvidék",
+    3
+   ],
+   [
+    "Balaton-felvidék|Balaton-felvidéki borvidék",
+    4
+   ],
+   [
+    "Balatonboglár|Balatonboglári borvidék|Boglár|Déli-Balaton|Dél-Balaton",
+    4
+   ],
+   [
+    "Kunság|Kunsági borvidék",
+    4
+   ],
+   [
+    "Csongrád|Csongrádi borvidék",
+    4
+   ],
+   [
+    "Pannonhalma-Sokoró|Pannonhalma|Pannonhalmi borvidék",
+    4
+   ],
+   [
+    "Neszmély|Neszmélyi borvidék|Ászár-Neszmély",
+    4
+   ],
+   [
+    "Bükk|Bükki borvidék",
+    5
+   ],
+   [
+    "Pécs|Pécsi borvidék",
+    5
+   ],
+   [
+    "Hajós-Baja|Hajós|Hajós-Bajai borvidék",
+    6
+   ],
+   [
+    "Zala|Zalai borvidék",
+    6
+   ],
+   [
+    "Tolna|Tolnai borvidék",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU007",
+  "cat": "Földrajz",
+  "q": "Mondj egy magyar fürdővárost vagy gyógyfürdőhelyet!",
+  "hint": "",
+  "a": [
+   [
+    "Hévíz",
+    1
+   ],
+   [
+    "Hajdúszoboszló|Szoboszló",
+    1
+   ],
+   [
+    "Harkány",
+    2
+   ],
+   [
+    "Zalakaros",
+    2
+   ],
+   [
+    "Bük|Bükfürdő",
+    2
+   ],
+   [
+    "Sárvár",
+    3
+   ],
+   [
+    "Gyula",
+    3
+   ],
+   [
+    "Egerszalók",
+    3
+   ],
+   [
+    "Cserkeszőlő",
+    3
+   ],
+   [
+    "Balatonfüred",
+    3
+   ],
+   [
+    "Mezőkövesd|Zsóry",
+    4
+   ],
+   [
+    "Miskolctapolca|Tapolca",
+    4
+   ],
+   [
+    "Lenti",
+    4
+   ],
+   [
+    "Kehidakustány",
+    4
+   ],
+   [
+    "Hajdúnánás",
+    4
+   ],
+   [
+    "Berekfürdő",
+    4
+   ],
+   [
+    "Mórahalom",
+    4
+   ],
+   [
+    "Orosháza|Gyopárosfürdő",
+    4
+   ],
+   [
+    "Szentes",
+    4
+   ],
+   [
+    "Debrecen",
+    4
+   ],
+   [
+    "Szarvas",
+    5
+   ],
+   [
+    "Tiszafüred",
+    5
+   ],
+   [
+    "Püspökladány",
+    5
+   ],
+   [
+    "Hajdúböszörmény",
+    5
+   ],
+   [
+    "Igal",
+    5
+   ],
+   [
+    "Nagyatád",
+    5
+   ],
+   [
+    "Komárom",
+    5
+   ],
+   [
+    "Gárdony|Agárd",
+    5
+   ],
+   [
+    "Kisköre",
+    6
+   ],
+   [
+    "Mosonmagyaróvár",
+    6
+   ],
+   [
+    "Szigetvár",
+    6
+   ],
+   [
+    "Tata|Fényes-fürdő",
+    6
+   ],
+   [
+    "Budapest",
+    2
+   ],
+   [
+    "Eger",
+    4
+   ],
+   [
+    "Demjén",
+    5
+   ],
+   [
+    "Makó",
+    5
+   ],
+   [
+    "Parád|Parádfürdő",
+    5
+   ],
+   [
+    "Tiszakécske",
+    5
+   ],
+   [
+    "Szentgotthárd",
+    5
+   ],
+   [
+    "Balf",
+    6
+   ],
+   [
+    "Bogács|Bogácsi fürdő",
+    5
+   ],
+   [
+    "Sárospatak|Sárospataki fürdő",
+    5
+   ],
+   [
+    "Lipót|Lipóti fürdő",
+    5
+   ],
+   [
+    "Hegykő|Hegykői fürdő",
+    5
+   ],
+   [
+    "Gyomaendrőd|Gyomaendrődi fürdő",
+    5
+   ],
+   [
+    "Szeged|Szegedi fürdő",
+    4
+   ],
+   [
+    "Hódmezővásárhely|Vásárhely fürdő",
+    5
+   ],
+   [
+    "Csongrád|Csongrádi fürdő",
+    5
+   ],
+   [
+    "Kiskunmajsa|Jonathermál",
+    5
+   ],
+   [
+    "Kecskemét|Kecskeméti fürdő",
+    6
+   ],
+   [
+    "Kunszentmárton",
+    6
+   ],
+   [
+    "Jászberény|Aqua-Palace",
+    6
+   ],
+   [
+    "Jászapáti",
+    6
+   ],
+   [
+    "Szolnok|Aquarell",
+    5
+   ],
+   [
+    "Karcag",
+    5
+   ],
+   [
+    "Hajdúdorog",
+    6
+   ],
+   [
+    "Nyíregyháza|Sóstógyógyfürdő|Sóstófürdő",
+    4
+   ],
+   [
+    "Mátészalka",
+    5
+   ],
+   [
+    "Fehérgyarmat",
+    6
+   ],
+   [
+    "Esztergom",
+    5
+   ],
+   [
+    "Pápa|Pápai termálfürdő",
+    5
+   ],
+   [
+    "Siklós|Siklósi fürdő",
+    5
+   ],
+   [
+    "Pécs",
+    5
+   ],
+   [
+    "Tamási",
+    5
+   ],
+   [
+    "Szekszárd",
+    5
+   ],
+   [
+    "Dombóvár",
+    6
+   ],
+   [
+    "Szombathely",
+    5
+   ],
+   [
+    "Zalaegerszeg|Aquaparadicsom",
+    5
+   ],
+   [
+    "Mezőtúr",
+    6
+   ],
+   [
+    "Békéscsaba|Árpád-fürdő",
+    6
+   ],
+   [
+    "Levél|Levéli termál",
+    6
+   ],
+   [
+    "Sopron",
+    6
+   ],
+   [
+    "Tiszaújváros",
+    6
+   ],
+   [
+    "Csokonyavisonta",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU008",
+  "cat": "Földrajz",
+  "q": "Mondj egy budapesti nevezetességet vagy látnivalót!",
+  "hint": "",
+  "a": [
+   [
+    "Parlament|Országház",
+    1
+   ],
+   [
+    "Halászbástya",
+    1
+   ],
+   [
+    "Lánchíd|Széchenyi Lánchíd",
+    1
+   ],
+   [
+    "Hősök tere|Millenniumi emlékmű",
+    2
+   ],
+   [
+    "Budai Vár|Királyi Palota|Budavári Palota",
+    2
+   ],
+   [
+    "Mátyás-templom|Mátyás templom",
+    2
+   ],
+   [
+    "Szent István-bazilika|Bazilika",
+    2
+   ],
+   [
+    "Széchenyi fürdő|Széchenyi gyógyfürdő|Széchenyi-fürdő",
+    2
+   ],
+   [
+    "Gellért-hegy|Gellérthegy",
+    3
+   ],
+   [
+    "Citadella",
+    3
+   ],
+   [
+    "Operaház|Magyar Állami Operaház",
+    3
+   ],
+   [
+    "Nagy Vásárcsarnok|Vásárcsarnok|Központi Vásárcsarnok",
+    3
+   ],
+   [
+    "Vajdahunyad vára|Vajdahunyadvár",
+    3
+   ],
+   [
+    "Margitsziget",
+    3
+   ],
+   [
+    "Andrássy út",
+    3
+   ],
+   [
+    "Városliget",
+    3
+   ],
+   [
+    "Szabadság-híd|Szabadság híd",
+    3
+   ],
+   [
+    "Erzsébet-híd|Erzsébet híd",
+    3
+   ],
+   [
+    "Margit-híd|Margit híd",
+    3
+   ],
+   [
+    "Gellért fürdő",
+    3
+   ],
+   [
+    "Dohány utcai zsinagóga|Nagy Zsinagóga",
+    4
+   ],
+   [
+    "Terror Háza",
+    4
+   ],
+   [
+    "Rudas fürdő",
+    4
+   ],
+   [
+    "Vígszínház",
+    4
+   ],
+   [
+    "Nyugati pályaudvar|Nyugati",
+    4
+   ],
+   [
+    "Keleti pályaudvar|Keleti",
+    4
+   ],
+   [
+    "Szabadság tér",
+    4
+   ],
+   [
+    "Váci utca",
+    4
+   ],
+   [
+    "Szent Gellért-szobor|Gellért-szobor",
+    4
+   ],
+   [
+    "Kerepesi temető|Fiumei úti sírkert",
+    5
+   ],
+   [
+    "Gozsdu-udvar",
+    5
+   ],
+   [
+    "Szimpla Kert",
+    5
+   ],
+   [
+    "New York-palota|New York kávéház",
+    5
+   ],
+   [
+    "Ruszwurm",
+    5
+   ],
+   [
+    "Kopaszi-gát",
+    5
+   ],
+   [
+    "Tabán",
+    6
+   ],
+   [
+    "Fővám tér",
+    6
+   ],
+   [
+    "Kazinczy utca",
+    6
+   ],
+   [
+    "Néprajzi Múzeum",
+    6
+   ],
+   [
+    "Szabadság-szobor",
+    3
+   ],
+   [
+    "Fővárosi Állatkert|Állatkert|Állat- és Növénykert",
+    4
+   ],
+   [
+    "Szépművészeti Múzeum",
+    4
+   ],
+   [
+    "Magyar Nemzeti Múzeum|Nemzeti Múzeum",
+    4
+   ],
+   [
+    "Cipők a Duna-parton",
+    5
+   ],
+   [
+    "Zeneakadémia|Liszt Ferenc Zeneakadémia",
+    5
+   ],
+   [
+    "Sziklatemplom",
+    5
+   ],
+   [
+    "Bálna",
+    6
+   ],
+   [
+    "Magyar Tudományos Akadémia|MTA|Akadémia palota",
+    4
+   ],
+   [
+    "Gresham-palota|Gresham palota",
+    4
+   ],
+   [
+    "Vigadó|Pesti Vigadó",
+    4
+   ],
+   [
+    "Vörösmarty tér|Vörösmarty szobor",
+    4
+   ],
+   [
+    "Erzsébet tér",
+    4
+   ],
+   [
+    "Kossuth tér",
+    4
+   ],
+   [
+    "Deák Ferenc tér|Deák tér",
+    5
+   ],
+   [
+    "Oktogon",
+    4
+   ],
+   [
+    "Blaha Lujza tér",
+    5
+   ],
+   [
+    "Moszkva tér|Széll Kálmán tér",
+    5
+   ],
+   [
+    "Batthyány tér",
+    4
+   ],
+   [
+    "Clark Ádám tér|Clark Ádám tér és Alagút",
+    5
+   ],
+   [
+    "Alagút|Budai Alagút",
+    5
+   ],
+   [
+    "Lukács fürdő|Lukács gyógyfürdő",
+    5
+   ],
+   [
+    "Király fürdő|Király gyógyfürdő",
+    6
+   ],
+   [
+    "Császár fürdő|Császár gyógyfürdő",
+    6
+   ],
+   [
+    "Palatinus fürdő|Palatinus strand",
+    5
+   ],
+   [
+    "Dagály fürdő|Dagály strand",
+    6
+   ],
+   [
+    "Gyermekvasút|Széchenyi-hegyi Gyermekvasút",
+    5
+   ],
+   [
+    "Fogaskerekű|Fogaskerekű vasút",
+    5
+   ],
+   [
+    "Libegő|Zugligeti libegő",
+    5
+   ],
+   [
+    "Budapest Eye|Óriáskerék|Sziget óriáskerék",
+    6
+   ],
+   [
+    "Vidámpark|Budapesti Vidámpark",
+    4
+   ],
+   [
+    "Millenáris",
+    5
+   ],
+   [
+    "Népliget",
+    4
+   ],
+   [
+    "Puskás Aréna|Népstadion",
+    4
+   ],
+   [
+    "Papp László Budapest Sportaréna|Budapest Sportaréna|Sportcsarnok",
+    5
+   ],
+   [
+    "Groupama Aréna|Fradi-stadion",
+    5
+   ],
+   [
+    "Műcsarnok",
+    4
+   ],
+   [
+    "Anonymus-szobor|Anonymus",
+    5
+   ],
+   [
+    "Roosevelt tér",
+    5
+   ],
+   [
+    "Várkert Bazár",
+    5
+   ],
+   [
+    "Sándor-palota|Sándor palota",
+    5
+   ],
+   [
+    "Karmelita kolostor",
+    6
+   ],
+   [
+    "Sikló|Budavári Sikló",
+    4
+   ],
+   [
+    "Hadtörténeti Múzeum",
+    5
+   ],
+   [
+    "Budapesti Történeti Múzeum",
+    5
+   ],
+   [
+    "Magyar Nemzeti Galéria|Nemzeti Galéria",
+    4
+   ],
+   [
+    "Ludwig Múzeum",
+    5
+   ],
+   [
+    "Iparművészeti Múzeum",
+    5
+   ],
+   [
+    "Mezőgazdasági Múzeum",
+    5
+   ],
+   [
+    "Közlekedési Múzeum",
+    6
+   ],
+   [
+    "Természettudományi Múzeum",
+    5
+   ],
+   [
+    "Holokauszt Emlékközpont",
+    5
+   ],
+   [
+    "Kiscelli Múzeum",
+    6
+   ],
+   [
+    "Aquincum|Aquincumi Múzeum",
+    4
+   ],
+   [
+    "Hajógyári-sziget|Óbudai-sziget",
+    5
+   ],
+   [
+    "Nemzeti Színház",
+    4
+   ],
+   [
+    "Madách Színház",
+    5
+   ],
+   [
+    "Erkel Színház",
+    5
+   ],
+   [
+    "Művészetek Palotája|MüPa",
+    4
+   ],
+   [
+    "Operett Színház|Fővárosi Operettszínház",
+    5
+   ],
+   [
+    "Fővárosi Nagycirkusz|Nagycirkusz",
+    4
+   ],
+   [
+    "Gerbeaud|Gerbeaud cukrászda|Gerbeaud kávéház",
+    4
+   ],
+   [
+    "Gundel|Gundel étterem",
+    5
+   ],
+   [
+    "Központi Kávéház",
+    6
+   ],
+   [
+    "Országos Széchényi Könyvtár|Széchényi Könyvtár",
+    5
+   ],
+   [
+    "Farkasréti temető",
+    5
+   ],
+   [
+    "Déli pályaudvar",
+    4
+   ],
+   [
+    "Ferenciek tere",
+    5
+   ],
+   [
+    "Kálvin tér",
+    4
+   ],
+   [
+    "Westend|Westend bevásárlóközpont",
+    4
+   ],
+   [
+    "Mammut|Mammut bevásárlóközpont",
+    4
+   ],
+   [
+    "Arena Plaza",
+    5
+   ],
+   [
+    "Gül Baba türbéje|Gül Baba",
+    4
+   ],
+   [
+    "Petőfi híd|Petőfi-híd",
+    4
+   ],
+   [
+    "Rákóczi híd",
+    5
+   ],
+   [
+    "Árpád híd|Árpád-híd",
+    5
+   ],
+   [
+    "Megyeri híd",
+    5
+   ],
+   [
+    "Duna-korzó|Dunakorzó",
+    4
+   ],
+   [
+    "Batthyány-örökmécses",
+    5
+   ],
+   [
+    "Mátyás-kút",
+    5
+   ],
+   [
+    "Szentháromság-szobor|Szentháromság szobor",
+    5
+   ],
+   [
+    "Szentháromság tér",
+    5
+   ],
+   [
+    "Turul-szobor|Turul",
+    5
+   ],
+   [
+    "Pálvölgyi-barlang|Pálvölgyi-cseppkőbarlang",
+    5
+   ],
+   [
+    "Szemlő-hegyi-barlang|Szemlőhegyi-barlang",
+    5
+   ],
+   [
+    "Mátyás-hegyi-barlang",
+    6
+   ],
+   [
+    "Városmajor",
+    5
+   ],
+   [
+    "Rumbach utcai zsinagóga|Rumbach zsinagóga",
+    5
+   ],
+   [
+    "Kazinczy utcai zsinagóga",
+    5
+   ],
+   [
+    "Belvárosi templom|Belvárosi Nagyboldogasszony-főplébániatemplom",
+    5
+   ],
+   [
+    "Ferences templom",
+    6
+   ],
+   [
+    "Egyetemi templom",
+    6
+   ],
+   [
+    "Kozma utcai temető",
+    6
+   ],
+   [
+    "Kodály körönd",
+    5
+   ],
+   [
+    "Liszt Ferenc tér",
+    5
+   ],
+   [
+    "Ráday utca",
+    6
+   ],
+   [
+    "Szent István-szobor",
+    6
+   ],
+   [
+    "Budai Vigadó",
+    6
+   ],
+   [
+    "Corvin negyed|Corvin-negyed",
+    5
+   ],
+   [
+    "Corvin Áruház",
+    6
+   ],
+   [
+    "Duna Plaza",
+    5
+   ],
+   [
+    "Lehel csarnok",
+    6
+   ],
+   [
+    "Orczy-kert|Orczy-park",
+    6
+   ],
+   [
+    "Hősök temploma",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU009",
+  "cat": "Földrajz",
+  "q": "Mondj egy budapesti városrészt vagy kerületet!",
+  "hint": "",
+  "a": [
+   [
+    "Belváros",
+    1
+   ],
+   [
+    "Újpest",
+    1
+   ],
+   [
+    "Zugló",
+    1
+   ],
+   [
+    "Óbuda",
+    1
+   ],
+   [
+    "Csepel",
+    2
+   ],
+   [
+    "Angyalföld",
+    2
+   ],
+   [
+    "Józsefváros",
+    2
+   ],
+   [
+    "Ferencváros",
+    2
+   ],
+   [
+    "Kőbánya",
+    2
+   ],
+   [
+    "Erzsébetváros",
+    3
+   ],
+   [
+    "Terézváros",
+    3
+   ],
+   [
+    "Lipótváros",
+    3
+   ],
+   [
+    "Víziváros",
+    3
+   ],
+   [
+    "Krisztinaváros",
+    3
+   ],
+   [
+    "Kelenföld",
+    3
+   ],
+   [
+    "Soroksár",
+    3
+   ],
+   [
+    "Rákoshegy",
+    4
+   ],
+   [
+    "Mátyásföld",
+    4
+   ],
+   [
+    "Újlipótváros",
+    4
+   ],
+   [
+    "Pestszentlőrinc",
+    4
+   ],
+   [
+    "Pesterzsébet|Erzsébetfalva",
+    4
+   ],
+   [
+    "Budafok",
+    4
+   ],
+   [
+    "Albertfalva",
+    4
+   ],
+   [
+    "Békásmegyer",
+    4
+   ],
+   [
+    "Káposztásmegyer",
+    4
+   ],
+   [
+    "Rákospalota",
+    4
+   ],
+   [
+    "Cinkota",
+    4
+   ],
+   [
+    "Hűvösvölgy",
+    4
+   ],
+   [
+    "Tabán",
+    5
+   ],
+   [
+    "Rákoscsaba",
+    5
+   ],
+   [
+    "Sashalom",
+    5
+   ],
+   [
+    "Kispest",
+    3
+   ],
+   [
+    "Wekerle-telep|Wekerletelep",
+    5
+   ],
+   [
+    "Pestszentimre",
+    5
+   ],
+   [
+    "Rózsadomb",
+    4
+   ],
+   [
+    "Gazdagrét",
+    5
+   ],
+   [
+    "Csillaghegy",
+    6
+   ],
+   [
+    "Rákosliget",
+    6
+   ],
+   [
+    "Kamaraerdő",
+    6
+   ],
+   [
+    "Nagytétény",
+    6
+   ],
+   [
+    "Újbuda",
+    3
+   ],
+   [
+    "Hegyvidék",
+    4
+   ],
+   [
+    "Rákosmente",
+    4
+   ],
+   [
+    "Budai Vár|Várnegyed|Budavár",
+    4
+   ],
+   [
+    "Rákosszentmihály",
+    5
+   ],
+   [
+    "Rákoskeresztúr",
+    5
+   ],
+   [
+    "Pasarét",
+    5
+   ],
+   [
+    "Svábhegy|Sváb-hegy",
+    5
+   ],
+   [
+    "Lágymányos",
+    5
+   ],
+   [
+    "Pesthidegkút",
+    5
+   ],
+   [
+    "Budatétény",
+    6
+   ],
+   [
+    "Máriaremete",
+    6
+   ],
+   [
+    "Palotanegyed",
+    5
+   ],
+   [
+    "Naphegy",
+    5
+   ],
+   [
+    "Orbánhegy",
+    6
+   ],
+   [
+    "Kútvölgy",
+    6
+   ],
+   [
+    "Zugliget",
+    4
+   ],
+   [
+    "Virányos",
+    5
+   ],
+   [
+    "Törökvész",
+    6
+   ],
+   [
+    "Adyliget",
+    5
+   ],
+   [
+    "Csillebérc",
+    6
+   ],
+   [
+    "Farkasrét",
+    5
+   ],
+   [
+    "Sashegy",
+    5
+   ],
+   [
+    "Gellérthegy",
+    5
+   ],
+   [
+    "Kelenvölgy",
+    5
+   ],
+   [
+    "Őrmező",
+    5
+   ],
+   [
+    "Sasad",
+    5
+   ],
+   [
+    "Szabadsághegy",
+    5
+   ],
+   [
+    "Széchenyi-hegy",
+    5
+   ],
+   [
+    "Hosszúrét",
+    6
+   ],
+   [
+    "Ófalu|Pesthidegkút-Ófalu",
+    6
+   ],
+   [
+    "Remetekertváros",
+    6
+   ],
+   [
+    "Óhegy",
+    6
+   ],
+   [
+    "Újhegy",
+    6
+   ],
+   [
+    "Gyárdűlő",
+    6
+   ],
+   [
+    "Havanna-lakótelep|Havanna",
+    5
+   ],
+   [
+    "Törökőr",
+    5
+   ],
+   [
+    "Rákosfalva",
+    6
+   ],
+   [
+    "Alsórákos",
+    6
+   ],
+   [
+    "Árpádföld",
+    5
+   ],
+   [
+    "Herminamező",
+    5
+   ],
+   [
+    "Istvánmező",
+    6
+   ],
+   [
+    "Városliget",
+    5
+   ],
+   [
+    "Újpalota",
+    4
+   ],
+   [
+    "Pestújhely",
+    5
+   ],
+   [
+    "Megyer",
+    6
+   ],
+   [
+    "Vizafogó",
+    5
+   ],
+   [
+    "Magdolnanegyed",
+    5
+   ],
+   [
+    "Orczy-negyed",
+    6
+   ],
+   [
+    "Corvin-negyed|Corvin negyed",
+    5
+   ],
+   [
+    "Aquincum",
+    5
+   ],
+   [
+    "Római-part|Rómaifürdő",
+    5
+   ],
+   [
+    "I. kerület|1. kerület|I kerület|1 kerület",
+    3
+   ],
+   [
+    "II. kerület|2. kerület|II kerület|2 kerület",
+    3
+   ],
+   [
+    "III. kerület|3. kerület|III kerület|3 kerület",
+    3
+   ],
+   [
+    "IV. kerület|4. kerület|IV kerület|4 kerület",
+    3
+   ],
+   [
+    "V. kerület|5. kerület|V kerület|5 kerület",
+    3
+   ],
+   [
+    "VI. kerület|6. kerület|VI kerület|6 kerület",
+    3
+   ],
+   [
+    "VII. kerület|7. kerület|VII kerület|7 kerület",
+    3
+   ],
+   [
+    "VIII. kerület|8. kerület|VIII kerület|8 kerület",
+    3
+   ],
+   [
+    "IX. kerület|9. kerület|IX kerület|9 kerület",
+    3
+   ],
+   [
+    "X. kerület|10. kerület|X kerület|10 kerület",
+    3
+   ],
+   [
+    "XI. kerület|11. kerület|XI kerület|11 kerület",
+    3
+   ],
+   [
+    "XII. kerület|12. kerület|XII kerület|12 kerület",
+    3
+   ],
+   [
+    "XIII. kerület|13. kerület|XIII kerület|13 kerület",
+    3
+   ],
+   [
+    "XIV. kerület|14. kerület|XIV kerület|14 kerület",
+    3
+   ],
+   [
+    "XV. kerület|15. kerület|XV kerület|15 kerület",
+    3
+   ],
+   [
+    "XVI. kerület|16. kerület|XVI kerület|16 kerület",
+    3
+   ],
+   [
+    "XVII. kerület|17. kerület|XVII kerület|17 kerület",
+    3
+   ],
+   [
+    "XVIII. kerület|18. kerület|XVIII kerület|18 kerület",
+    3
+   ],
+   [
+    "XIX. kerület|19. kerület|XIX kerület|19 kerület",
+    3
+   ],
+   [
+    "XX. kerület|20. kerület|XX kerület|20 kerület",
+    3
+   ],
+   [
+    "XXI. kerület|21. kerület|XXI kerület|21 kerület",
+    3
+   ],
+   [
+    "XXII. kerület|22. kerület|XXII kerület|22 kerület",
+    3
+   ],
+   [
+    "XXIII. kerület|23. kerület|XXIII kerület|23 kerület",
+    3
+   ]
+  ]
+ },
+ {
+  "id": "HU010",
+  "cat": "Földrajz",
+  "q": "Mondj egy magyarországi várat!",
+  "hint": "",
+  "a": [
+   [
+    "Egri vár|Eger",
+    1
+   ],
+   [
+    "Visegrádi vár|Visegrád",
+    1
+   ],
+   [
+    "Diósgyőri vár|Diósgyőr|Diósgyőr vára",
+    2
+   ],
+   [
+    "Sümegi vár|Sümeg|Sümeg vára",
+    2
+   ],
+   [
+    "Szigligeti vár|Szigliget|Szigliget vára",
+    2
+   ],
+   [
+    "Hollókői vár|Hollókő|Hollókő vára",
+    2
+   ],
+   [
+    "Boldogkői vár|Boldogkő|Boldogkő vára",
+    3
+   ],
+   [
+    "Sárospataki vár|Sárospatak|Sárospatak vára|Rákóczi-vár Sárospatak",
+    3
+   ],
+   [
+    "Siklósi vár|Siklós|Siklós vára",
+    3
+   ],
+   [
+    "Szigetvári vár|Szigetvár|Szigetvár vára|Zrínyi-vár",
+    3
+   ],
+   [
+    "Füzéri vár|Füzér|Füzér vára",
+    3
+   ],
+   [
+    "Csesznek|Cseszneki vár|Csesznek vára",
+    3
+   ],
+   [
+    "Nagyvázsonyi vár|Nagyvázsony|Kinizsi vár",
+    3
+   ],
+   [
+    "Gyulai vár|Gyula|Gyula vára|Gyulavár",
+    3
+   ],
+   [
+    "Tatai vár|Tata|Tata vára|Tatai Öregvár|Öregvár",
+    3
+   ],
+   [
+    "Sirok|Siroki vár|Sirokvár",
+    4
+   ],
+   [
+    "Szarvaskő|Szarvaskői vár|Szarvaskő vára",
+    4
+   ],
+   [
+    "Regéc|Regéci vár|Regéc vára",
+    4
+   ],
+   [
+    "Simontornyai vár|Simontornya|Simontornya vára",
+    4
+   ],
+   [
+    "Ozora|Ozorai vár|Ozora vára",
+    4
+   ],
+   [
+    "Salgó|Salgói vár|Salgóvár|Salgó vára",
+    4
+   ],
+   [
+    "Cserépvár|Cserépi vár|Cserépváralja",
+    4
+   ],
+   [
+    "Somlyó vára|Somló vára|Somlóvár",
+    5
+   ],
+   [
+    "Szádvár",
+    6
+   ],
+   [
+    "Drégely|Drégelyvár|Drégely vára",
+    6
+   ],
+   [
+    "Kisvárda|Kisvárdai vár|Kisvárda vára",
+    5
+   ],
+   [
+    "Komáromi erődrendszer|Monostori erőd|Komáromi Monostori erőd",
+    6
+   ],
+   [
+    "Rezi vár|Rezi|Rezi vára",
+    6
+   ],
+   [
+    "Budai Vár|Budavári Palota|Budavár",
+    2
+   ],
+   [
+    "Kőszegi vár|Jurisics-vár|Kőszeg|Kőszeg vára",
+    3
+   ],
+   [
+    "Esztergomi vár",
+    4
+   ],
+   [
+    "Sárvári vár|Nádasdy-vár|Sárvár|Sárvár vára",
+    4
+   ],
+   [
+    "Várpalotai vár|Thury-vár|Várpalota|Várpalota vára",
+    5
+   ],
+   [
+    "Ónodi vár|Ónod|Ónodi várrom",
+    5
+   ],
+   [
+    "Csókakői vár|Csókakő",
+    5
+   ],
+   [
+    "Csobánc|Csobánci vár|Csobánc vára",
+    5
+   ],
+   [
+    "Döbrönte|Döbröntei vár|Döbrönte vára",
+    6
+   ],
+   [
+    "Szerencsi vár|Szerencs",
+    4
+   ],
+   [
+    "Nógrádi vár|Nógrád",
+    5
+   ],
+   [
+    "Somoskői vár|Somoskő",
+    5
+   ],
+   [
+    "Tátikai vár|Tátika",
+    5
+   ],
+   [
+    "Veszprémi vár|Veszprém",
+    5
+   ],
+   [
+    "Pécsváradi vár|Pécsvárad",
+    4
+   ],
+   [
+    "Szendrői vár|Szendrő",
+    5
+   ],
+   [
+    "Kisnánai vár|Kisnána",
+    5
+   ],
+   [
+    "Gesztesi vár|Gesztes|Várgesztes",
+    5
+   ],
+   [
+    "Szolnoki vár",
+    6
+   ],
+   [
+    "Putnoki vár|Putnok",
+    6
+   ],
+   [
+    "Egervári vár|Egervár",
+    5
+   ],
+   [
+    "Bajcsavár",
+    6
+   ],
+   [
+    "Hegyesdi vár|Hegyesd",
+    6
+   ],
+   [
+    "Csővári vár|Csővár",
+    6
+   ],
+   [
+    "Szandavár|Szanda",
+    6
+   ],
+   [
+    "Szabolcsi vár|Szabolcs-földvár",
+    6
+   ],
+   [
+    "Pápai vár",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU011",
+  "cat": "Történelem",
+  "q": "Nevezz meg egy magyar királyt vagy uralkodót!",
+  "hint": "Sorszámmal együtt, ha van.",
+  "a": [
+   [
+    "I. István|Szent István|Első István",
+    1
+   ],
+   [
+    "Mátyás|Hunyadi Mátyás|Mátyás király|I. Mátyás|Corvin Mátyás|Mátyás Corvin|Hollós Mátyás",
+    1
+   ],
+   [
+    "Ferenc József|I. Ferenc József|Ferenc József király",
+    1
+   ],
+   [
+    "IV. Béla|Negyedik Béla",
+    2
+   ],
+   [
+    "Szent László|I. László",
+    2
+   ],
+   [
+    "Nagy Lajos|I. Lajos|Anjou Lajos",
+    2
+   ],
+   [
+    "Mária Terézia",
+    2
+   ],
+   [
+    "Károly Róbert|I. Károly|Anjou Károly|Károly Róbert király",
+    3
+   ],
+   [
+    "Könyves Kálmán|I. Kálmán|Kálmán király|Kálmán",
+    3
+   ],
+   [
+    "II. András|Jeruzsálemi András",
+    3
+   ],
+   [
+    "Zsigmond|Luxemburgi Zsigmond|Zsigmond király",
+    3
+   ],
+   [
+    "III. Béla",
+    3
+   ],
+   [
+    "IV. Károly|Utolsó király",
+    3
+   ],
+   [
+    "II. József|Kalapos király",
+    3
+   ],
+   [
+    "I. András",
+    4
+   ],
+   [
+    "I. Béla",
+    4
+   ],
+   [
+    "I. Géza",
+    4
+   ],
+   [
+    "Salamon",
+    4
+   ],
+   [
+    "II. Béla|Vak Béla",
+    4
+   ],
+   [
+    "III. András|Utolsó Árpád-házi király",
+    4
+   ],
+   [
+    "IV. László|Kun László",
+    4
+   ],
+   [
+    "V. István",
+    4
+   ],
+   [
+    "I. Imre|Imre király",
+    4
+   ],
+   [
+    "II. Lajos",
+    4
+   ],
+   [
+    "Szapolyai János|János király|I. János",
+    4
+   ],
+   [
+    "I. Ferdinánd",
+    4
+   ],
+   [
+    "I. Ulászló|Varnai Ulászló",
+    4
+   ],
+   [
+    "II. Ulászló|Dobzse László",
+    4
+   ],
+   [
+    "V. László|Utószülött László",
+    4
+   ],
+   [
+    "Aba Sámuel|Sámuel",
+    5
+   ],
+   [
+    "Orseolo Péter|I. Péter|Péter|Péter király",
+    5
+   ],
+   [
+    "II. Géza",
+    5
+   ],
+   [
+    "II. István",
+    5
+   ],
+   [
+    "III. István",
+    5
+   ],
+   [
+    "Vencel|Cseh Vencel",
+    5
+   ],
+   [
+    "Ottó|Wittelsbach Ottó",
+    5
+   ],
+   [
+    "Albert|I. Albert|Habsburg Albert|Albert király",
+    5
+   ],
+   [
+    "I. Lipót",
+    5
+   ],
+   [
+    "III. Károly",
+    5
+   ],
+   [
+    "V. Ferdinánd|Jó Ferdinánd",
+    6
+   ],
+   [
+    "II. Mátyás|Habsburg Mátyás",
+    6
+   ],
+   [
+    "Miksa|I. Miksa|II. Miksa|Miksa király",
+    6
+   ],
+   [
+    "Árpád|Árpád fejedelem",
+    2
+   ],
+   [
+    "Géza fejedelem",
+    4
+   ],
+   [
+    "Mária királynő|Anjou Mária|I. Mária",
+    5
+   ],
+   [
+    "Rudolf|I. Rudolf|II. Rudolf|Rudolf király",
+    6
+   ],
+   [
+    "II. Lipót",
+    6
+   ],
+   [
+    "I. Ferenc|Ferenc király",
+    6
+   ],
+   [
+    "I. József",
+    6
+   ],
+   [
+    "II. Ferdinánd",
+    6
+   ],
+   [
+    "III. Ferdinánd",
+    6
+   ],
+   [
+    "II. László",
+    6
+   ],
+   [
+    "III. László",
+    6
+   ],
+   [
+    "IV. István|Negyedik István",
+    6
+   ],
+   [
+    "János Zsigmond|II. János|Szapolyai János Zsigmond",
+    6
+   ],
+   [
+    "IV. Ferdinánd",
+    6
+   ],
+   [
+    "Taksony|Taksony fejedelem",
+    5
+   ],
+   [
+    "Fajsz|Fajsz fejedelem",
+    6
+   ],
+   [
+    "Zoltán fejedelem|Zsolt fejedelem",
+    6
+   ],
+   [
+    "Horthy Miklós|Horthy|Horthy kormányzó",
+    4
+   ],
+   [
+    "Kossuth Lajos|Kossuth|Kossuth kormányzó",
+    5
+   ],
+   [
+    "Rákóczi Ferenc|II. Rákóczi Ferenc|Rákóczi|Vezérlő fejedelem",
+    4
+   ],
+   [
+    "Bethlen Gábor|Bethlen|Bethlen fejedelem",
+    5
+   ],
+   [
+    "Bocskai István|Bocskai|Bocskai fejedelem",
+    5
+   ],
+   [
+    "Apafi Mihály|Apafi",
+    6
+   ],
+   [
+    "I. Rákóczi György|Rákóczi György",
+    6
+   ],
+   [
+    "Báthory István|Báthory István erdélyi fejedelem",
+    6
+   ],
+   [
+    "Hunyadi János|Hunyadi|Kormányzó Hunyadi",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU012",
+  "cat": "Történelem",
+  "q": "Mondj egy magyar csatát vagy ostromot!",
+  "hint": "",
+  "a": [
+   [
+    "Mohács|Mohácsi csata|Mohácsi vész|Mohács 1526|Mohács ostroma",
+    1
+   ],
+   [
+    "Eger ostroma|Egri ostrom|Egri vár ostroma",
+    1
+   ],
+   [
+    "Muhi|Muhi csata|Mohi|Mohi puszta|Sajó-menti csata",
+    1
+   ],
+   [
+    "Nándorfehérvár|Nándorfehérvári diadal",
+    2
+   ],
+   [
+    "Szigetvár|Szigetvár ostroma|Szigeti vész",
+    2
+   ],
+   [
+    "Pákozd|Pákozdi csata",
+    2
+   ],
+   [
+    "Isaszeg|Isaszegi csata",
+    2
+   ],
+   [
+    "Mezőkeresztes|Mezőkeresztesi csata",
+    3
+   ],
+   [
+    "Várna|Várnai csata",
+    3
+   ],
+   [
+    "Ménfő|Ménfői csata|Ménfőcsanak|Ménfőcsanaki csata",
+    3
+   ],
+   [
+    "Segesvár|Segesvári csata",
+    3
+   ],
+   [
+    "Temesvár|Temesvári csata",
+    3
+   ],
+   [
+    "Zenta|Zentai csata",
+    3
+   ],
+   [
+    "Szentgotthárd|Szentgotthárdi csata",
+    3
+   ],
+   [
+    "Kerlés|Kerlési csata",
+    3
+   ],
+   [
+    "Szikszó|Szikszói csata",
+    3
+   ],
+   [
+    "Kápolna|Kápolnai csata",
+    3
+   ],
+   [
+    "Schwechat|Schwechati csata",
+    3
+   ],
+   [
+    "Buda ostroma|Budavár ostroma|Budapest ostroma",
+    3
+   ],
+   [
+    "Morvamező|Marchfeld|Morvamezei csata",
+    4
+   ],
+   [
+    "Augsburg|Lech-mező|Lechfeld",
+    4
+   ],
+   [
+    "Rigómező|Rigómezei csata",
+    4
+   ],
+   [
+    "Kenyérmező|Kenyérmezei csata",
+    4
+   ],
+   [
+    "Nikápoly|Nikápolyi csata",
+    4
+   ],
+   [
+    "Tápióbicske|Tápióbicskei csata",
+    4
+   ],
+   [
+    "Hatvan|Hatvani csata",
+    4
+   ],
+   [
+    "Nagysalló|Sallói csata",
+    4
+   ],
+   [
+    "Szolnok|Szolnoki csata",
+    4
+   ],
+   [
+    "Komárom|Komáromi csata",
+    4
+   ],
+   [
+    "Rozgony|Rozgonyi csata",
+    5
+   ],
+   [
+    "Pozsony|Pozsonyi csata|Pozsony ostroma|Pozsony 907|Pozsonyi csata 907",
+    5
+   ],
+   [
+    "Drégely|Drégely ostroma",
+    5
+   ],
+   [
+    "Merseburg|Merseburgi csata",
+    6
+   ],
+   [
+    "Szalánkemén|Szalánkeméni csata|Zalánkemén|Zalánkeméni csata",
+    5
+   ],
+   [
+    "Nagyszeben|Nagyszebeni csata",
+    6
+   ],
+   [
+    "Kőszeg ostroma|Kőszeg",
+    3
+   ],
+   [
+    "Piski|Piski csata",
+    4
+   ],
+   [
+    "Branyiszkó|Branyiszkói csata",
+    4
+   ],
+   [
+    "Doni áttörés|Don-kanyar|Doni katasztrófa",
+    4
+   ],
+   [
+    "Doberdó|Isonzói csaták",
+    5
+   ],
+   [
+    "Ozora|Ozorai csata",
+    5
+   ],
+   [
+    "Brenta|Brentai csata",
+    6
+   ],
+   [
+    "Nagyharsány|Nagyharsányi csata|Második mohácsi csata|Mohács 1687",
+    5
+   ],
+   [
+    "Gyula ostroma|Gyulai ostrom",
+    5
+   ],
+   [
+    "Temesvár ostroma",
+    5
+   ],
+   [
+    "Győr ostroma|Győr|Győri csata",
+    5
+   ],
+   [
+    "Esztergom ostroma|Esztergom",
+    5
+   ],
+   [
+    "Székesfehérvár ostroma|Székesfehérvár",
+    5
+   ],
+   [
+    "Érsekújvár ostroma|Érsekújvár",
+    5
+   ],
+   [
+    "Nagyvárad ostroma|Nagyvárad",
+    5
+   ],
+   [
+    "Jenő ostroma|Jenő",
+    6
+   ],
+   [
+    "Lippa ostroma|Lippa",
+    6
+   ],
+   [
+    "Kanizsa ostroma|Nagykanizsa ostroma",
+    6
+   ],
+   [
+    "Bécs ostroma",
+    5
+   ],
+   [
+    "Szabács ostroma|Szabács",
+    6
+   ],
+   [
+    "Mogyoród|Mogyoródi csata",
+    4
+   ],
+   [
+    "Cserhalom|Cserhalmi csata",
+    6
+   ],
+   [
+    "Riade|Riadei csata",
+    6
+   ],
+   [
+    "Szőreg|Szőregi csata",
+    5
+   ],
+   [
+    "Vác|Váci csata",
+    4
+   ],
+   [
+    "Mór|Móri csata",
+    5
+   ],
+   [
+    "Dolha|Dolhai csata",
+    6
+   ],
+   [
+    "Trencsén|Trencséni csata",
+    5
+   ],
+   [
+    "Romhány|Romhányi csata",
+    5
+   ],
+   [
+    "Corvin köz|Corvin közi harc|Corvin köz csata",
+    4
+   ],
+   [
+    "Széna tér|Széna téri harc",
+    5
+   ],
+   [
+    "Voronyezs|Voronyezsi csata",
+    5
+   ],
+   [
+    "Uriv|Urivi hídfő|Urivi csata",
+    6
+   ],
+   [
+    "Piave|Piavei csata",
+    5
+   ],
+   [
+    "Vaskapu|Vaskapui csata",
+    6
+   ],
+   [
+    "Szolnok ostroma",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU013",
+  "cat": "Történelem",
+  "q": "Nevezz meg egy híres magyar történelmi személyt (nem királyt)!",
+  "hint": "Elég a vezetéknév.",
+  "a": [
+   [
+    "Kossuth Lajos|Kossuth",
+    1
+   ],
+   [
+    "Széchenyi István|Széchenyi",
+    1
+   ],
+   [
+    "Rákóczi Ferenc|II. Rákóczi Ferenc|Rákóczi",
+    1
+   ],
+   [
+    "Hunyadi János|Hunyadi",
+    1
+   ],
+   [
+    "Árpád|Árpád fejedelem",
+    1
+   ],
+   [
+    "Deák Ferenc|Deák",
+    2
+   ],
+   [
+    "Zrínyi Miklós|Zrínyi",
+    2
+   ],
+   [
+    "Dózsa György|Dózsa",
+    2
+   ],
+   [
+    "Batthyány Lajos|Batthyány",
+    2
+   ],
+   [
+    "Bethlen Gábor|Bethlen",
+    2
+   ],
+   [
+    "Görgei Artúr|Görgey Artúr|Görgei",
+    2
+   ],
+   [
+    "Horthy Miklós|Horthy",
+    3
+   ],
+   [
+    "Bocskai István|Bocskai",
+    3
+   ],
+   [
+    "Thököly Imre|Thököly",
+    3
+   ],
+   [
+    "Bem József|Bem apó|Bem",
+    3
+   ],
+   [
+    "Kinizsi Pál|Kinizsi",
+    3
+   ],
+   [
+    "Nagy Imre",
+    3
+   ],
+   [
+    "Kádár János|Kádár",
+    3
+   ],
+   [
+    "Rákosi Mátyás|Rákosi",
+    3
+   ],
+   [
+    "Tisza István",
+    3
+   ],
+   [
+    "Károlyi Mihály",
+    3
+   ],
+   [
+    "Kun Béla",
+    3
+   ],
+   [
+    "Zrínyi Ilona",
+    3
+   ],
+   [
+    "Damjanich János|Damjanich",
+    4
+   ],
+   [
+    "Klapka György|Klapka",
+    4
+   ],
+   [
+    "Werbőczy István|Werbőczy",
+    4
+   ],
+   [
+    "Báthory István|Báthory",
+    4
+   ],
+   [
+    "Wesselényi Miklós|Wesselényi",
+    4
+   ],
+   [
+    "Antall József|Antall",
+    4
+   ],
+   [
+    "Göncz Árpád|Göncz",
+    4
+   ],
+   [
+    "Szent Imre|Imre herceg",
+    4
+   ],
+   [
+    "Lehel|Lél",
+    5
+   ],
+   [
+    "Bulcsú",
+    5
+   ],
+   [
+    "Kurszán|Kurszán kende",
+    5
+   ],
+   [
+    "Álmos|Álmos fejedelem",
+    5
+   ],
+   [
+    "Gyula vezér|Gyula horka",
+    5
+   ],
+   [
+    "Szálasi Ferenc|Szálasi",
+    5
+   ],
+   [
+    "Vazul",
+    6
+   ],
+   [
+    "Szabolcs vezér|Szabolcs",
+    6
+   ],
+   [
+    "Lónyay Menyhért",
+    6
+   ],
+   [
+    "Perczel Mór|Perczel",
+    6
+   ],
+   [
+    "Aulich Lajos|Aulich",
+    6
+   ],
+   [
+    "Kmety György|Kmety",
+    6
+   ],
+   [
+    "Dobó István|Dobó",
+    2
+   ],
+   [
+    "Andrássy Gyula|Andrássy",
+    3
+   ],
+   [
+    "Táncsics Mihály|Táncsics",
+    4
+   ],
+   [
+    "Mindszenty József|Mindszenty",
+    4
+   ],
+   [
+    "Dugovics Titusz|Dugovics",
+    4
+   ],
+   [
+    "Jurisics Miklós|Jurisics",
+    4
+   ],
+   [
+    "Szondi György|Szondi",
+    5
+   ],
+   [
+    "Mikes Kelemen|Mikes",
+    5
+   ],
+   [
+    "Martinovics Ignác|Martinovics",
+    5
+   ],
+   [
+    "Petőfi Sándor|Petőfi",
+    1
+   ],
+   [
+    "Arany János|Arany",
+    5
+   ],
+   [
+    "Jókai Mór|Jókai",
+    5
+   ],
+   [
+    "Kölcsey Ferenc|Kölcsey",
+    4
+   ],
+   [
+    "Kazinczy Ferenc|Kazinczy",
+    5
+   ],
+   [
+    "Vörösmarty Mihály|Vörösmarty",
+    4
+   ],
+   [
+    "Koppány|Koppány vezér",
+    4
+   ],
+   [
+    "Ajtony|Ajtony vezér",
+    5
+   ],
+   [
+    "Ond|Ond vezér",
+    6
+   ],
+   [
+    "Előd|Előd vezér",
+    6
+   ],
+   [
+    "Kond|Kond vezér",
+    6
+   ],
+   [
+    "Tas|Tas vezér",
+    6
+   ],
+   [
+    "Huba|Huba vezér",
+    6
+   ],
+   [
+    "Tétény|Tétény vezér",
+    6
+   ],
+   [
+    "Zoltán fejedelem",
+    5
+   ],
+   [
+    "Taksony|Taksony fejedelem",
+    5
+   ],
+   [
+    "Szent Gellért|Gellért püspök|Gellért",
+    4
+   ],
+   [
+    "Szent Erzsébet|Árpád-házi Szent Erzsébet",
+    4
+   ],
+   [
+    "Szent Margit|Margit hercegnő",
+    4
+   ],
+   [
+    "Gizella|Gizella királyné|Boldog Gizella",
+    4
+   ],
+   [
+    "Anonymus|Névtelen jegyző|P. mester",
+    4
+   ],
+   [
+    "Kézai Simon|Kézai",
+    5
+   ],
+   [
+    "Julianus barát|Julianus",
+    5
+   ],
+   [
+    "Kálti Márk|Kálti",
+    6
+   ],
+   [
+    "Thuróczy János|Thuróczy",
+    6
+   ],
+   [
+    "Janus Pannonius|Janus",
+    3
+   ],
+   [
+    "Vitéz János|Vitéz",
+    4
+   ],
+   [
+    "Hunyadi László",
+    4
+   ],
+   [
+    "Szilágyi Erzsébet",
+    4
+   ],
+   [
+    "Szilágyi Mihály",
+    6
+   ],
+   [
+    "Magyar Bálint",
+    6
+   ],
+   [
+    "Bakócz Tamás|Bakócz",
+    5
+   ],
+   [
+    "Szapolyai István",
+    6
+   ],
+   [
+    "Brodarics István|Brodarics",
+    6
+   ],
+   [
+    "Verancsics Antal|Verancsics",
+    6
+   ],
+   [
+    "Tinódi Lantos Sebestyén|Tinódi",
+    4
+   ],
+   [
+    "Balassi Bálint|Balassi",
+    3
+   ],
+   [
+    "Pázmány Péter|Pázmány",
+    3
+   ],
+   [
+    "Zrínyi Péter",
+    4
+   ],
+   [
+    "Wesselényi Ferenc",
+    5
+   ],
+   [
+    "Nádasdy Ferenc",
+    5
+   ],
+   [
+    "Nádasdy Tamás|Nádasdy",
+    5
+   ],
+   [
+    "Bercsényi Miklós|Bercsényi",
+    4
+   ],
+   [
+    "Károlyi Sándor",
+    4
+   ],
+   [
+    "Ocskay László|Ocskay",
+    5
+   ],
+   [
+    "Esze Tamás|Esze",
+    4
+   ],
+   [
+    "Bottyán János|Vak Bottyán|Bottyán",
+    4
+   ],
+   [
+    "Bethlen Miklós",
+    5
+   ],
+   [
+    "Losonczy István|Losonczy",
+    5
+   ],
+   [
+    "Bornemissza Gergely|Bornemissza",
+    5
+   ],
+   [
+    "Aragóniai Beatrix|Beatrix királyné|Beatrix",
+    4
+   ],
+   [
+    "Báthory Erzsébet|Vérgrófnő|Báthory Erzsébet grófnő",
+    3
+   ],
+   [
+    "Gyöngyösi István",
+    5
+   ],
+   [
+    "Teleki László",
+    5
+   ],
+   [
+    "Teleki Sámuel",
+    5
+   ],
+   [
+    "Széchenyi Ferenc",
+    5
+   ],
+   [
+    "Vasvári Pál|Vasvári",
+    5
+   ],
+   [
+    "Irinyi József",
+    5
+   ],
+   [
+    "Nyáry Pál",
+    6
+   ],
+   [
+    "Mészáros Lázár|Mészáros",
+    4
+   ],
+   [
+    "Csány László|Csány",
+    5
+   ],
+   [
+    "Guyon Richárd|Guyon",
+    5
+   ],
+   [
+    "Gáspár András|Gáspár",
+    5
+   ],
+   [
+    "Vécsey Károly|Vécsey",
+    5
+   ],
+   [
+    "Leiningen-Westerburg Károly|Leiningen",
+    5
+   ],
+   [
+    "Nagysándor József|Nagysándor",
+    5
+   ],
+   [
+    "Pöltenberg Ernő|Poeltenberg Ernő|Pöltenberg",
+    5
+   ],
+   [
+    "Török Ignác",
+    5
+   ],
+   [
+    "Schweidel József|Schweidel",
+    5
+   ],
+   [
+    "Lahner György|Lahner",
+    5
+   ],
+   [
+    "Knezić Károly|Knezić",
+    5
+   ],
+   [
+    "Lázár Vilmos",
+    5
+   ],
+   [
+    "Kiss Ernő",
+    5
+   ],
+   [
+    "Maléter Pál|Maléter",
+    4
+   ],
+   [
+    "Gimes Miklós",
+    6
+   ],
+   [
+    "Losonczy Géza",
+    6
+   ],
+   [
+    "Szilágyi József",
+    6
+   ],
+   [
+    "Tóth Ilona",
+    5
+   ],
+   [
+    "Mansfeld Péter",
+    5
+   ],
+   [
+    "Pongrátz Gergely|Pongrátz",
+    5
+   ],
+   [
+    "Bibó István|Bibó",
+    5
+   ],
+   [
+    "Jászi Oszkár|Jászi",
+    5
+   ],
+   [
+    "Apponyi Albert|Apponyi",
+    4
+   ],
+   [
+    "Klebelsberg Kuno|Klebelsberg",
+    4
+   ],
+   [
+    "Prohászka Ottokár|Prohászka",
+    5
+   ],
+   [
+    "Szamuely Tibor|Szamuely",
+    5
+   ],
+   [
+    "Böhm Vilmos",
+    5
+   ],
+   [
+    "Garbai Sándor|Garbai",
+    6
+   ],
+   [
+    "Kéthly Anna|Kéthly",
+    5
+   ],
+   [
+    "Slachta Margit|Slachta",
+    5
+   ],
+   [
+    "Szekfű Gyula|Szekfű",
+    5
+   ],
+   [
+    "Bajcsy-Zsilinszky Endre|Bajcsy-Zsilinszky",
+    4
+   ],
+   [
+    "Rajk László|Rajk",
+    4
+   ],
+   [
+    "Gerő Ernő|Gerő",
+    4
+   ],
+   [
+    "Szakasits Árpád|Szakasits",
+    5
+   ],
+   [
+    "Farkas Mihály",
+    5
+   ],
+   [
+    "Apró Antal",
+    5
+   ],
+   [
+    "Biszku Béla|Biszku",
+    5
+   ],
+   [
+    "Pozsgay Imre|Pozsgay",
+    4
+   ],
+   [
+    "Nyers Rezső|Nyers",
+    5
+   ],
+   [
+    "Szűrös Mátyás|Szűrös",
+    5
+   ],
+   [
+    "Orbán Viktor|Orbán",
+    3
+   ],
+   [
+    "Horn Gyula|Horn",
+    4
+   ],
+   [
+    "Gyurcsány Ferenc|Gyurcsány",
+    4
+   ],
+   [
+    "Mádl Ferenc|Mádl",
+    4
+   ],
+   [
+    "Sólyom László|Sólyom",
+    4
+   ],
+   [
+    "Schmitt Pál|Schmitt",
+    4
+   ],
+   [
+    "Áder János|Áder",
+    4
+   ],
+   [
+    "Novák Katalin",
+    4
+   ],
+   [
+    "Sulyok Tamás|Sulyok",
+    4
+   ],
+   [
+    "Tisza Kálmán",
+    4
+   ],
+   [
+    "Eötvös József",
+    4
+   ],
+   [
+    "Szilágyi Dezső",
+    5
+   ],
+   [
+    "Trefort Ágoston|Trefort",
+    6
+   ],
+   [
+    "Kossuth Zsuzsanna|Kossuth Zsuzsa",
+    5
+   ],
+   [
+    "Lorántffy Zsuzsanna|Lorántffy",
+    5
+   ],
+   [
+    "Kőrösi Csoma Sándor|Kőrösi Csoma",
+    3
+   ],
+   [
+    "Almásy László|Almásy",
+    4
+   ],
+   [
+    "Széchenyi Béla",
+    6
+   ],
+   [
+    "Bethlen Kata|Bethlen Kata",
+    6
+   ],
+   [
+    "Hadik András|Hadik",
+    5
+   ],
+   [
+    "Esterházy Pál",
+    5
+   ],
+   [
+    "Esterházy Miklós|Esterházy Miklós nádor",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU014",
+  "cat": "Történelem",
+  "q": "Mondj egy magyar miniszterelnököt!",
+  "hint": "",
+  "a": [
+   [
+    "Orbán Viktor|Orbán",
+    1
+   ],
+   [
+    "Horn Gyula|Horn",
+    1
+   ],
+   [
+    "Gyurcsány Ferenc|Gyurcsány",
+    1
+   ],
+   [
+    "Antall József|Antall",
+    1
+   ],
+   [
+    "Kádár János|Kádár",
+    2
+   ],
+   [
+    "Nagy Imre",
+    2
+   ],
+   [
+    "Bajnai Gordon|Bajnai",
+    2
+   ],
+   [
+    "Medgyessy Péter|Medgyessy",
+    2
+   ],
+   [
+    "Batthyány Lajos|Batthyány",
+    3
+   ],
+   [
+    "Tisza István",
+    3
+   ],
+   [
+    "Bethlen István|Bethlen",
+    3
+   ],
+   [
+    "Teleki Pál|Teleki",
+    3
+   ],
+   [
+    "Gömbös Gyula|Gömbös",
+    3
+   ],
+   [
+    "Andrássy Gyula|Andrássy",
+    3
+   ],
+   [
+    "Tisza Kálmán",
+    3
+   ],
+   [
+    "Boross Péter|Boross",
+    3
+   ],
+   [
+    "Wekerle Sándor|Wekerle",
+    4
+   ],
+   [
+    "Bárdossy László|Bárdossy",
+    4
+   ],
+   [
+    "Kállay Miklós|Kállay",
+    4
+   ],
+   [
+    "Rákosi Mátyás|Rákosi",
+    4
+   ],
+   [
+    "Lázár György|Lázár",
+    4
+   ],
+   [
+    "Grósz Károly|Grósz",
+    4
+   ],
+   [
+    "Németh Miklós|Németh",
+    4
+   ],
+   [
+    "Fock Jenő|Fock",
+    4
+   ],
+   [
+    "Münnich Ferenc|Münnich",
+    4
+   ],
+   [
+    "Hegedüs András|Hegedüs",
+    4
+   ],
+   [
+    "Tildy Zoltán|Tildy",
+    4
+   ],
+   [
+    "Nagy Ferenc",
+    4
+   ],
+   [
+    "Széll Kálmán|Széll",
+    5
+   ],
+   [
+    "Szapáry Gyula|Szapáry",
+    5
+   ],
+   [
+    "Sztójay Döme|Sztójay",
+    5
+   ],
+   [
+    "Károlyi Gyula",
+    5
+   ],
+   [
+    "Károlyi Mihály",
+    5
+   ],
+   [
+    "Bánffy Dezső|Bánffy",
+    5
+   ],
+   [
+    "Szemere Bertalan|Szemere",
+    5
+   ],
+   [
+    "Dinnyés Lajos|Dinnyés",
+    5
+   ],
+   [
+    "Dobi István|Dobi",
+    5
+   ],
+   [
+    "Kállai Gyula|Kállai",
+    5
+   ],
+   [
+    "Khuen-Héderváry Károly|Khuen-Héderváry",
+    6
+   ],
+   [
+    "Fejérváry Géza|Fejérváry",
+    6
+   ],
+   [
+    "Lukács László",
+    6
+   ],
+   [
+    "Lakatos Géza|Lakatos",
+    6
+   ],
+   [
+    "Dálnoki Miklós Béla|Dálnoki",
+    6
+   ],
+   [
+    "Magyar Péter",
+    1
+   ],
+   [
+    "Imrédy Béla|Imrédy",
+    4
+   ],
+   [
+    "Darányi Kálmán|Darányi",
+    5
+   ],
+   [
+    "Szálasi Ferenc|Szálasi",
+    5
+   ],
+   [
+    "Lónyay Menyhért|Lónyay",
+    6
+   ],
+   [
+    "Szlávy József|Szlávy",
+    6
+   ],
+   [
+    "Bittó István|Bittó",
+    6
+   ],
+   [
+    "Friedrich István|Friedrich",
+    6
+   ],
+   [
+    "Huszár Károly",
+    6
+   ],
+   [
+    "Wenckheim Béla|Wenckheim",
+    6
+   ],
+   [
+    "Esterházy Móric|Esterházy",
+    6
+   ],
+   [
+    "Hadik János|Hadik",
+    6
+   ],
+   [
+    "Berinkey Dénes|Berinkey",
+    6
+   ],
+   [
+    "Peidl Gyula|Peidl",
+    6
+   ],
+   [
+    "Simonyi-Semadam Sándor|Simonyi-Semadam|Semadam",
+    6
+   ],
+   [
+    "Garbai Sándor|Garbai",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU015",
+  "cat": "Történelem",
+  "q": "Mondj egy magyar főúri vagy nemesi családot!",
+  "hint": "",
+  "a": [
+   [
+    "Esterházy|Eszterházy",
+    1
+   ],
+   [
+    "Rákóczi",
+    1
+   ],
+   [
+    "Hunyadi",
+    1
+   ],
+   [
+    "Zrínyi",
+    1
+   ],
+   [
+    "Batthyány",
+    2
+   ],
+   [
+    "Széchenyi",
+    2
+   ],
+   [
+    "Andrássy",
+    2
+   ],
+   [
+    "Báthory",
+    2
+   ],
+   [
+    "Festetics",
+    3
+   ],
+   [
+    "Károlyi",
+    3
+   ],
+   [
+    "Apponyi",
+    3
+   ],
+   [
+    "Bethlen",
+    3
+   ],
+   [
+    "Teleki",
+    3
+   ],
+   [
+    "Nádasdy",
+    3
+   ],
+   [
+    "Pálffy",
+    4
+   ],
+   [
+    "Erdődy",
+    4
+   ],
+   [
+    "Wesselényi",
+    4
+   ],
+   [
+    "Thurzó",
+    4
+   ],
+   [
+    "Zichy",
+    4
+   ],
+   [
+    "Forgách",
+    4
+   ],
+   [
+    "Csáky",
+    4
+   ],
+   [
+    "Draskovich",
+    4
+   ],
+   [
+    "Grassalkovich",
+    4
+   ],
+   [
+    "Szapáry",
+    4
+   ],
+   [
+    "Wenckheim",
+    5
+   ],
+   [
+    "Hadik",
+    5
+   ],
+   [
+    "Balassa",
+    5
+   ],
+   [
+    "Perényi",
+    5
+   ],
+   [
+    "Ráday",
+    5
+   ],
+   [
+    "Podmaniczky",
+    5
+   ],
+   [
+    "Lónyay",
+    5
+   ],
+   [
+    "Pejácsevich",
+    5
+   ],
+   [
+    "Koháry",
+    5
+   ],
+   [
+    "Sztáray",
+    5
+   ],
+   [
+    "Aba nemzetség|Aba",
+    6
+   ],
+   [
+    "Csák nemzetség|Csák",
+    6
+   ],
+   [
+    "Gutkeled|Gutkeled nemzetség",
+    6
+   ],
+   [
+    "Héder|Héder nemzetség",
+    6
+   ],
+   [
+    "Hont-Pázmány|Hont-Pázmány nemzetség",
+    6
+   ],
+   [
+    "Kőszegi",
+    6
+   ],
+   [
+    "Garai",
+    5
+   ],
+   [
+    "Rozgonyi",
+    5
+   ],
+   [
+    "Bánffy",
+    5
+   ],
+   [
+    "Dessewffy",
+    5
+   ],
+   [
+    "Ujlaki|Újlaki",
+    6
+   ],
+   [
+    "Rhédey",
+    6
+   ],
+   [
+    "Vay",
+    6
+   ],
+   [
+    "Révay",
+    5
+   ],
+   [
+    "Illésházy",
+    5
+   ],
+   [
+    "Bocskai",
+    5
+   ],
+   [
+    "Bercsényi",
+    5
+   ],
+   [
+    "Barkóczy",
+    6
+   ],
+   [
+    "Nyáry",
+    6
+   ],
+   [
+    "Pongrácz",
+    6
+   ],
+   [
+    "Majláth",
+    5
+   ],
+   [
+    "Jósika",
+    5
+   ],
+   [
+    "Kemény",
+    5
+   ],
+   [
+    "Mikes",
+    5
+   ],
+   [
+    "Wass",
+    5
+   ],
+   [
+    "Haller",
+    5
+   ],
+   [
+    "Kornis",
+    6
+   ],
+   [
+    "Apafi",
+    5
+   ],
+   [
+    "Lorántffy",
+    6
+   ],
+   [
+    "Berchtold",
+    5
+   ],
+   [
+    "Pallavicini",
+    5
+   ],
+   [
+    "Odescalchi",
+    5
+   ],
+   [
+    "Orczy",
+    5
+   ],
+   [
+    "Almásy",
+    6
+   ],
+   [
+    "Jankovich",
+    6
+   ],
+   [
+    "Keglevich",
+    5
+   ],
+   [
+    "Lázár",
+    6
+   ],
+   [
+    "Csekonics",
+    6
+   ],
+   [
+    "Karátsonyi",
+    6
+   ],
+   [
+    "Zay",
+    6
+   ],
+   [
+    "Szirmay",
+    6
+   ],
+   [
+    "Török",
+    6
+   ],
+   [
+    "Sennyey",
+    6
+   ],
+   [
+    "Tisza",
+    5
+   ],
+   [
+    "Radvánszky",
+    6
+   ],
+   [
+    "Prónay",
+    6
+   ],
+   [
+    "Kapy",
+    6
+   ],
+   [
+    "Kállay",
+    5
+   ],
+   [
+    "Széchy",
+    6
+   ],
+   [
+    "Szapolyai|Zápolya|Szapolyai család",
+    5
+   ],
+   [
+    "Hédervári",
+    6
+   ],
+   [
+    "Bor-Kalán|Bár-Kalán|Borkalán",
+    6
+   ],
+   [
+    "Borsa",
+    6
+   ],
+   [
+    "Kán|Kán nemzetség",
+    6
+   ],
+   [
+    "Lackfi",
+    6
+   ],
+   [
+    "Losonczi",
+    6
+   ],
+   [
+    "Dobó",
+    6
+   ],
+   [
+    "Frangepán|Frankopán",
+    5
+   ],
+   [
+    "Tomaj|Tomaj nemzetség",
+    6
+   ],
+   [
+    "Hahót|Hahót nemzetség",
+    6
+   ],
+   [
+    "Miskolc nemzetség|Miskolc",
+    6
+   ],
+   [
+    "Káta|Káta nemzetség",
+    6
+   ],
+   [
+    "Ákos|Ákos nemzetség",
+    6
+   ],
+   [
+    "Ják|Ják nemzetség",
+    6
+   ],
+   [
+    "Bogát-Radvány|Bogát-Radvány nemzetség",
+    6
+   ],
+   [
+    "Rátót|Rátót nemzetség",
+    6
+   ],
+   [
+    "Kacsics|Kacsics nemzetség",
+    6
+   ],
+   [
+    "Szécsi",
+    6
+   ],
+   [
+    "Kanizsai",
+    5
+   ],
+   [
+    "Kisfaludy",
+    6
+   ],
+   [
+    "Thököly",
+    5
+   ],
+   [
+    "Fejérváry",
+    6
+   ],
+   [
+    "Ghyczy",
+    6
+   ],
+   [
+    "Ebergényi",
+    6
+   ],
+   [
+    "Bossányi",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU016",
+  "cat": "Híres magyarok",
+  "q": "Nevezz meg egy híres magyar tudóst vagy feltalálót!",
+  "hint": "Elég a vezetéknév.",
+  "a": [
+   [
+    "Semmelweis Ignác|Semmelweis",
+    1
+   ],
+   [
+    "Rubik Ernő|Rubik",
+    1
+   ],
+   [
+    "Bolyai János|Bolyai",
+    1
+   ],
+   [
+    "Szent-Györgyi Albert|Szent-Györgyi",
+    1
+   ],
+   [
+    "Neumann János|Neumann",
+    2
+   ],
+   [
+    "Eötvös Loránd|Eötvös",
+    2
+   ],
+   [
+    "Jedlik Ányos|Jedlik",
+    2
+   ],
+   [
+    "Karikó Katalin|Karikó",
+    2
+   ],
+   [
+    "Teller Ede|Teller",
+    3
+   ],
+   [
+    "Wigner Jenő|Wigner|Wigner Jenő Pál",
+    3
+   ],
+   [
+    "Szilárd Leó|Szilárd",
+    3
+   ],
+   [
+    "Gábor Dénes|Gábor",
+    3
+   ],
+   [
+    "Békésy György|Békésy",
+    3
+   ],
+   [
+    "Bay Zoltán|Bay",
+    3
+   ],
+   [
+    "Hevesy György|Hevesy",
+    3
+   ],
+   [
+    "Erdős Pál|Erdős",
+    3
+   ],
+   [
+    "Selye János|Selye",
+    3
+   ],
+   [
+    "Kármán Tódor|Kármán",
+    3
+   ],
+   [
+    "Puskás Tivadar|Puskás",
+    3
+   ],
+   [
+    "Kandó Kálmán|Kandó",
+    3
+   ],
+   [
+    "Bláthy Ottó|Bláthy",
+    3
+   ],
+   [
+    "Bíró László|Bíró",
+    3
+   ],
+   [
+    "Bolyai Farkas",
+    4
+   ],
+   [
+    "Zsigmondy Richárd|Zsigmondy",
+    4
+   ],
+   [
+    "Lénárd Fülöp|Lénárd",
+    4
+   ],
+   [
+    "Bárány Róbert|Bárány",
+    4
+   ],
+   [
+    "Harsányi János|Harsányi",
+    4
+   ],
+   [
+    "Oláh György|Oláh",
+    4
+   ],
+   [
+    "Krausz Ferenc|Krausz",
+    4
+   ],
+   [
+    "Lovász László|Lovász",
+    4
+   ],
+   [
+    "Pólya György|Pólya",
+    4
+   ],
+   [
+    "Riesz Frigyes|Riesz",
+    4
+   ],
+   [
+    "Fejér Lipót|Fejér",
+    4
+   ],
+   [
+    "Kemény János|Kemény",
+    4
+   ],
+   [
+    "Hell Miksa|Hell",
+    4
+   ],
+   [
+    "Irinyi János|Irinyi",
+    4
+   ],
+   [
+    "Kitaibel Pál|Kitaibel",
+    4
+   ],
+   [
+    "Zipernowsky Károly|Zipernowsky",
+    4
+   ],
+   [
+    "Déri Miksa|Déri",
+    4
+   ],
+   [
+    "Ganz Ábrahám|Ganz",
+    4
+   ],
+   [
+    "Tihanyi Kálmán|Tihanyi",
+    4
+   ],
+   [
+    "Asbóth Oszkár|Asbóth",
+    5
+   ],
+   [
+    "Bánki Donát|Bánki",
+    5
+   ],
+   [
+    "Csonka János|Csonka",
+    5
+   ],
+   [
+    "Rényi Alfréd|Rényi",
+    5
+   ],
+   [
+    "Szemerédi Endre|Szemerédi",
+    5
+   ],
+   [
+    "Hershko Avram|Hershko",
+    5
+   ],
+   [
+    "Segner János András|Segner",
+    5
+   ],
+   [
+    "Dallos József|Dallos",
+    5
+   ],
+   [
+    "Mechwart András|Mechwart",
+    5
+   ],
+   [
+    "Kaposi Mór|Kaposi",
+    6
+   ],
+   [
+    "Than Károly|Than",
+    6
+   ],
+   [
+    "Kövesligethy Radó|Kövesligethy",
+    6
+   ],
+   [
+    "Zemplén Győző|Zemplén",
+    6
+   ],
+   [
+    "Basch Sámuel|Basch",
+    6
+   ],
+   [
+    "Selényi Pál|Selényi",
+    6
+   ],
+   [
+    "Kempelen Farkas|Kempelen",
+    4
+   ],
+   [
+    "Galamb József|Galamb",
+    5
+   ],
+   [
+    "Simonyi Károly|Charles Simonyi|Simonyi",
+    5
+   ],
+   [
+    "Petzval József|Petzval",
+    5
+   ],
+   [
+    "Jendrassik György|Jendrassik",
+    5
+   ],
+   [
+    "Goldmark Péter",
+    6
+   ],
+   [
+    "Turán Pál|Turán",
+    4
+   ],
+   [
+    "Haar Alfréd|Haar",
+    5
+   ],
+   [
+    "Szegő Gábor|Szegő",
+    5
+   ],
+   [
+    "Rado Tibor|Radó Tibor",
+    6
+   ],
+   [
+    "Lax Péter|Lax",
+    5
+   ],
+   [
+    "Halmos Pál|Halmos",
+    5
+   ],
+   [
+    "Rózsa Péter",
+    5
+   ],
+   [
+    "Bollobás Béla|Bollobás",
+    5
+   ],
+   [
+    "Lánczos Kornél|Lánczos",
+    5
+   ],
+   [
+    "Kürschák József|Kürschák",
+    6
+   ],
+   [
+    "Kőnig Dénes|Kőnig",
+    6
+   ],
+   [
+    "Egerváry Jenő|Egerváry",
+    6
+   ],
+   [
+    "Konkoly-Thege Miklós|Konkoly-Thege|Konkoly",
+    4
+   ],
+   [
+    "Polányi Mihály|Polányi",
+    5
+   ],
+   [
+    "Polányi János",
+    5
+   ],
+   [
+    "Marx György",
+    5
+   ],
+   [
+    "Bródy Imre|Bródy",
+    5
+   ],
+   [
+    "Hőgyes Endre|Hőgyes",
+    5
+   ],
+   [
+    "Szentágothai János|Szentágothai",
+    5
+   ],
+   [
+    "Vámbéry Ármin|Vámbéry",
+    5
+   ],
+   [
+    "Kőrösi Csoma Sándor|Kőrösi Csoma|Csoma",
+    3
+   ],
+   [
+    "Reguly Antal|Reguly",
+    5
+   ],
+   [
+    "Xántus János|Xántus",
+    5
+   ],
+   [
+    "Schwarz Dávid|Schwarz",
+    5
+   ],
+   [
+    "Kozma László|Kozma",
+    5
+   ],
+   [
+    "Mihály Dénes",
+    5
+   ],
+   [
+    "Fonó Albert|Fonó",
+    6
+   ],
+   [
+    "Pattantyús-Ábrahám Géza|Pattantyús",
+    6
+   ],
+   [
+    "Kalmár László",
+    6
+   ],
+   [
+    "Bugát Pál|Bugát",
+    6
+   ],
+   [
+    "Balassa János",
+    6
+   ],
+   [
+    "Korányi Frigyes|Korányi",
+    6
+   ],
+   [
+    "Bókay János|Bókay",
+    6
+   ],
+   [
+    "Jendrassik Ernő",
+    6
+   ],
+   [
+    "Lenhossék Mihály|Lenhossék",
+    6
+   ],
+   [
+    "Tangl Károly|Tangl",
+    6
+   ],
+   [
+    "Pogány Béla|Pogány",
+    6
+   ],
+   [
+    "Rybár István|Rybár",
+    6
+   ],
+   [
+    "Jánossy Lajos|Jánossy",
+    6
+   ],
+   [
+    "Gombás Pál|Gombás",
+    6
+   ],
+   [
+    "Novobátzky Károly|Novobátzky",
+    6
+   ],
+   [
+    "Náray-Szabó István|Náray-Szabó",
+    6
+   ],
+   [
+    "Kosutány Tamás",
+    6
+   ],
+   [
+    "Zechmeister László|Zechmeister",
+    6
+   ],
+   [
+    "Szabadváry Ferenc",
+    6
+   ],
+   [
+    "Fejes Tóth László|Fejes Tóth",
+    6
+   ],
+   [
+    "Szebehely Győző|Szebehely",
+    6
+   ],
+   [
+    "Pungor Ernő|Pungor",
+    6
+   ],
+   [
+    "Freund Tamás|Freund",
+    5
+   ],
+   [
+    "Buzsáki György|Buzsáki",
+    5
+   ],
+   [
+    "Pálinkás József|Pálinkás",
+    6
+   ],
+   [
+    "Ruzsa Imre|Ruzsa",
+    6
+   ],
+   [
+    "Sárközy András",
+    6
+   ],
+   [
+    "Gallai Tibor|Gallai",
+    6
+   ],
+   [
+    "Hajnal András|Hajnal",
+    6
+   ],
+   [
+    "Szőkefalvi-Nagy Béla|Szőkefalvi-Nagy",
+    6
+   ],
+   [
+    "Kálmán Rudolf|Kalman Rudolf|Rudolf Kálmán",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU017",
+  "cat": "Híres magyarok",
+  "q": "Mondj egy magyar találmányt vagy magyar felfedezést!",
+  "hint": "",
+  "a": [
+   [
+    "Rubik-kocka|Bűvös kocka|Rubik kocka",
+    1
+   ],
+   [
+    "Golyóstoll",
+    1
+   ],
+   [
+    "Szódavíz|Szikvíz|Szóda",
+    2
+   ],
+   [
+    "Holográfia|Hologram",
+    2
+   ],
+   [
+    "Dinamó",
+    3
+   ],
+   [
+    "Villanymotor|Elektromotor",
+    3
+   ],
+   [
+    "Zajtalan gyufa|Gyufa",
+    3
+   ],
+   [
+    "Transzformátor|Zárt vasmagú transzformátor|ZBD-transzformátor|ZBD transzformátor",
+    3
+   ],
+   [
+    "Telefonhírmondó",
+    3
+   ],
+   [
+    "C-vitamin",
+    3
+   ],
+   [
+    "Telefonközpont|Puskás-féle telefonközpont",
+    4
+   ],
+   [
+    "Porlasztó|Karburátor",
+    4
+   ],
+   [
+    "Helikopter",
+    4
+   ],
+   [
+    "Kontaktlencse",
+    4
+   ],
+   [
+    "BASIC programnyelv|BASIC",
+    4
+   ],
+   [
+    "Kriptonizzó|Krypton izzó|Kriptontöltésű izzó|Bródy-féle kriptonizzó",
+    4
+   ],
+   [
+    "Bánki-turbina|Michell-Bánki turbina",
+    5
+   ],
+   [
+    "Vérnyomásmérő",
+    5
+   ],
+   [
+    "Eozinmáz|Eozin mázas kerámia",
+    5
+   ],
+   [
+    "Kandó-mozdony|Fázisváltós mozdony",
+    5
+   ],
+   [
+    "Televíziós kamera|Tévékamera|Töltéstárolós képcső",
+    5
+   ],
+   [
+    "Rubik-kígyó|Rubik kígyó",
+    6
+   ],
+   [
+    "Segner-kerék",
+    6
+   ],
+   [
+    "Jedlik-csőtekercs|Egypólusú generátor",
+    6
+   ],
+   [
+    "Tungsram izzó|Wolframszálas izzó",
+    5
+   ],
+   [
+    "Gömböc",
+    3
+   ],
+   [
+    "Prezi",
+    5
+   ],
+   [
+    "Sakkautomata|Sakkozógép|Török sakkozó",
+    5
+   ],
+   [
+    "Beszélőgép",
+    6
+   ],
+   [
+    "Mikrobarázdás hanglemez|LP lemez|Mikrobarázdás lemez",
+    6
+   ],
+   [
+    "Kálmán-szűrő|Kalman-szűrő|Kalman filter|Kálmán szűrő",
+    5
+   ],
+   [
+    "Neumann-elv|Neumann-architektúra|Neumann-féle számítógép-architektúra|Neumann elv",
+    4
+   ],
+   [
+    "Eötvös-inga|Torziós inga|Eötvös inga",
+    4
+   ],
+   [
+    "Hafnium",
+    5
+   ],
+   [
+    "Ultramikroszkóp|Ultramikroszkópia",
+    5
+   ],
+   [
+    "Villanyóra|Fogyasztásmérő|Villamosenergia-fogyasztásmérő",
+    5
+   ],
+   [
+    "Merev léghajó|Schwarz-féle léghajó|Fémléghajó",
+    5
+   ],
+   [
+    "Tárogató|Schunda tárogató",
+    6
+   ],
+   [
+    "Cimbalom|Koncertcimbalom|Schunda cimbalom",
+    6
+   ],
+   [
+    "mRNS-vakcina|Karikó-féle mRNS|mRNS vakcina|nukleozid-módosítás",
+    3
+   ],
+   [
+    "Semmelweis-módszer|Kézfertőtlenítés|Gyermekágyi láz megelőzése",
+    3
+   ],
+   [
+    "Stresszelmélet|Selye-féle stresszelmélet|Általános adaptációs szindróma",
+    5
+   ],
+   [
+    "Ikonoszkóp|Tihanyi-féle ikonoszkóp",
+    5
+   ],
+   [
+    "Éjjellátó|Infravörös éjjellátó",
+    6
+   ],
+   [
+    "Holdradar|Radarvisszhang|Holdvisszhang",
+    5
+   ],
+   [
+    "Attoszekundumos lézerimpulzus|Attoszekundum|Attoszekundumos fizika",
+    6
+   ],
+   [
+    "Ubiquitin|Ubiquitin-rendszer",
+    6
+   ],
+   [
+    "Szupersav|Mágikus sav",
+    6
+   ],
+   [
+    "Nemeuklideszi geometria|Hiperbolikus geometria|Bolyai-geometria",
+    4
+   ],
+   [
+    "Hengerszék|Hengermalom|Hengerszékes őrlés",
+    5
+   ],
+   [
+    "Kéregöntés|Kéregöntésű vasúti kerék",
+    6
+   ],
+   [
+    "Dobostorta|Dobos-torta|Dobos torta",
+    5
+   ],
+   [
+    "LogMeIn",
+    6
+   ],
+   [
+    "Atomreaktor|Neutronreaktor|Láncreakció|Szilárd-féle láncreakció",
+    5
+   ],
+   [
+    "Aktin-miozin|Aktin|Miozin",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU018",
+  "cat": "Híres magyarok",
+  "q": "Nevezz meg egy magyar írót!",
+  "hint": "Elég a vezetéknév.",
+  "a": [
+   [
+    "Jókai Mór|Jókai",
+    1
+   ],
+   [
+    "Mikszáth Kálmán|Mikszáth",
+    1
+   ],
+   [
+    "Móricz Zsigmond|Móricz",
+    1
+   ],
+   [
+    "Gárdonyi Géza|Gárdonyi",
+    1
+   ],
+   [
+    "Móra Ferenc|Móra",
+    2
+   ],
+   [
+    "Karinthy Frigyes|Karinthy",
+    2
+   ],
+   [
+    "Molnár Ferenc|Molnár",
+    2
+   ],
+   [
+    "Kosztolányi Dezső|Kosztolányi",
+    2
+   ],
+   [
+    "Krúdy Gyula|Krúdy",
+    3
+   ],
+   [
+    "Örkény István|Örkény",
+    3
+   ],
+   [
+    "Esterházy Péter|Esterházy",
+    3
+   ],
+   [
+    "Szabó Magda|Szabó",
+    3
+   ],
+   [
+    "Márai Sándor|Márai",
+    3
+   ],
+   [
+    "Kertész Imre|Kertész",
+    3
+   ],
+   [
+    "Rejtő Jenő|Rejtő",
+    3
+   ],
+   [
+    "Fekete István|Fekete",
+    3
+   ],
+   [
+    "Lázár Ervin|Lázár",
+    3
+   ],
+   [
+    "Nádas Péter|Nádas",
+    3
+   ],
+   [
+    "Németh László|Németh",
+    4
+   ],
+   [
+    "Déry Tibor|Déry",
+    4
+   ],
+   [
+    "Tamási Áron|Tamási",
+    4
+   ],
+   [
+    "Wass Albert|Wass",
+    4
+   ],
+   [
+    "Szerb Antal|Szerb",
+    4
+   ],
+   [
+    "Bródy Sándor|Bródy",
+    4
+   ],
+   [
+    "Mándy Iván|Mándy",
+    4
+   ],
+   [
+    "Sütő András|Sütő",
+    4
+   ],
+   [
+    "Ottlik Géza|Ottlik",
+    4
+   ],
+   [
+    "Konrád György|Konrád",
+    4
+   ],
+   [
+    "Spiró György|Spiró",
+    4
+   ],
+   [
+    "Hunyady Sándor|Hunyady",
+    4
+   ],
+   [
+    "Tersánszky Józsi Jenő|Tersánszky",
+    5
+   ],
+   [
+    "Szentkuthy Miklós|Szentkuthy",
+    5
+   ],
+   [
+    "Háy János|Háy",
+    5
+   ],
+   [
+    "Darvasi László|Darvasi",
+    5
+   ],
+   [
+    "Závada Pál|Závada",
+    5
+   ],
+   [
+    "Bodor Ádám|Bodor",
+    5
+   ],
+   [
+    "Kodolányi János|Kodolányi",
+    5
+   ],
+   [
+    "Sánta Ferenc|Sánta",
+    5
+   ],
+   [
+    "Cholnoky László|Cholnoky",
+    6
+   ],
+   [
+    "Kaffka Margit|Kaffka",
+    6
+   ],
+   [
+    "Gelléri Andor Endre|Gelléri",
+    6
+   ],
+   [
+    "Hamvas Béla|Hamvas",
+    6
+   ],
+   [
+    "Szabó Dezső",
+    6
+   ],
+   [
+    "Lengyel Menyhért|Lengyel",
+    6
+   ],
+   [
+    "Krasznahorkai László|Krasznahorkai",
+    2
+   ],
+   [
+    "Eötvös József",
+    4
+   ],
+   [
+    "Moldova György|Moldova",
+    4
+   ],
+   [
+    "Herczeg Ferenc|Herczeg",
+    5
+   ],
+   [
+    "Kemény Zsigmond",
+    5
+   ],
+   [
+    "Jósika Miklós|Jósika",
+    5
+   ],
+   [
+    "Nyírő József|Nyírő",
+    5
+   ],
+   [
+    "Fejes Endre|Fejes",
+    5
+   ],
+   [
+    "Vámos Miklós|Vámos",
+    5
+   ],
+   [
+    "Grecsó Krisztián|Grecsó",
+    5
+   ],
+   [
+    "Nemere István|Nemere",
+    5
+   ],
+   [
+    "Dragomán György|Dragomán",
+    6
+   ],
+   [
+    "Bartis Attila|Bartis",
+    6
+   ],
+   [
+    "Arany János|Arany",
+    2
+   ],
+   [
+    "Ady Endre|Ady",
+    2
+   ],
+   [
+    "Radnóti Miklós|Radnóti",
+    3
+   ],
+   [
+    "Babits Mihály|Babits",
+    3
+   ],
+   [
+    "Juhász Gyula|Juhász",
+    4
+   ],
+   [
+    "Vörösmarty Mihály|Vörösmarty",
+    3
+   ],
+   [
+    "Kölcsey Ferenc|Kölcsey",
+    3
+   ],
+   [
+    "Madách Imre|Madách",
+    3
+   ],
+   [
+    "Balassi Bálint|Balassi",
+    4
+   ],
+   [
+    "Csokonai Vitéz Mihály|Csokonai",
+    4
+   ],
+   [
+    "Berzsenyi Dániel|Berzsenyi",
+    5
+   ],
+   [
+    "Kazinczy Ferenc|Kazinczy",
+    4
+   ],
+   [
+    "Katona József|Katona",
+    4
+   ],
+   [
+    "Bessenyei György|Bessenyei",
+    5
+   ],
+   [
+    "Kármán József|Kármán",
+    6
+   ],
+   [
+    "Fazekas Mihály|Fazekas",
+    5
+   ],
+   [
+    "Kisfaludy Sándor",
+    5
+   ],
+   [
+    "Kisfaludy Károly",
+    5
+   ],
+   [
+    "Tompa Mihály|Tompa",
+    6
+   ],
+   [
+    "Gyulai Pál|Gyulai",
+    6
+   ],
+   [
+    "Tolnai Lajos",
+    6
+   ],
+   [
+    "Vajda János|Vajda",
+    6
+   ],
+   [
+    "Reviczky Gyula|Reviczky",
+    6
+   ],
+   [
+    "Komjáthy Jenő|Komjáthy",
+    6
+   ],
+   [
+    "Tömörkény István|Tömörkény",
+    5
+   ],
+   [
+    "Tóth Árpád",
+    5
+   ],
+   [
+    "Szabó Lőrinc",
+    4
+   ],
+   [
+    "Illyés Gyula|Illyés",
+    3
+   ],
+   [
+    "Weöres Sándor|Weöres",
+    3
+   ],
+   [
+    "Pilinszky János|Pilinszky",
+    4
+   ],
+   [
+    "Nagy László",
+    5
+   ],
+   [
+    "Füst Milán|Füst",
+    5
+   ],
+   [
+    "Reményik Sándor|Reményik",
+    5
+   ],
+   [
+    "Áprily Lajos|Áprily",
+    5
+   ],
+   [
+    "Dsida Jenő|Dsida",
+    5
+   ],
+   [
+    "Kányádi Sándor|Kányádi",
+    4
+   ],
+   [
+    "Tandori Dezső|Tandori",
+    5
+   ],
+   [
+    "Orbán Ottó",
+    5
+   ],
+   [
+    "Nemes Nagy Ágnes|Nemes Nagy",
+    5
+   ],
+   [
+    "Szilágyi Domokos",
+    5
+   ],
+   [
+    "Váci Mihály",
+    5
+   ],
+   [
+    "Csoóri Sándor|Csoóri",
+    5
+   ],
+   [
+    "Parti Nagy Lajos|Parti Nagy",
+    5
+   ],
+   [
+    "Rakovszky Zsuzsa|Rakovszky",
+    5
+   ],
+   [
+    "Varró Dániel|Varró",
+    5
+   ],
+   [
+    "Kovács András Ferenc",
+    6
+   ],
+   [
+    "Petri György|Petri",
+    6
+   ],
+   [
+    "Térey János|Térey",
+    6
+   ],
+   [
+    "Takáts Gyula",
+    6
+   ],
+   [
+    "Zelk Zoltán|Zelk",
+    6
+   ],
+   [
+    "Kormos István|Kormos",
+    6
+   ],
+   [
+    "Gulyás Pál",
+    6
+   ],
+   [
+    "Erdélyi József",
+    6
+   ],
+   [
+    "Mikes Kelemen|Mikes",
+    4
+   ],
+   [
+    "Szomory Dezső|Szomory",
+    6
+   ],
+   [
+    "Surányi Miklós|Surányi",
+    6
+   ],
+   [
+    "Zilahy Lajos|Zilahy",
+    5
+   ],
+   [
+    "Cs. Szabó László|Cs. Szabó",
+    6
+   ],
+   [
+    "Illés Béla",
+    6
+   ],
+   [
+    "Karácsony Benő",
+    6
+   ],
+   [
+    "Zsolt Béla",
+    6
+   ],
+   [
+    "Heltai Jenő|Heltai",
+    5
+   ],
+   [
+    "Szabó Pál",
+    6
+   ],
+   [
+    "Veres Péter|Veres",
+    6
+   ],
+   [
+    "Illés Endre",
+    6
+   ],
+   [
+    "Sarkadi Imre|Sarkadi",
+    6
+   ],
+   [
+    "Sinka István|Sinka",
+    6
+   ],
+   [
+    "Mészöly Miklós|Mészöly",
+    5
+   ],
+   [
+    "Határ Győző|Határ",
+    6
+   ],
+   [
+    "Czakó Gábor|Czakó",
+    6
+   ],
+   [
+    "Dobai Péter",
+    6
+   ],
+   [
+    "Csáth Géza|Csáth",
+    5
+   ],
+   [
+    "Karinthy Ferenc",
+    5
+   ],
+   [
+    "Hajnóczy Péter|Hajnóczy",
+    6
+   ],
+   [
+    "Gion Nándor|Gion",
+    6
+   ],
+   [
+    "Tolnai Ottó",
+    6
+   ],
+   [
+    "Szilágyi István",
+    6
+   ],
+   [
+    "Kukorelly Endre|Kukorelly",
+    5
+   ],
+   [
+    "Garaczi László|Garaczi",
+    6
+   ],
+   [
+    "Berg Judit",
+    5
+   ],
+   [
+    "Leiner Laura|Leiner",
+    5
+   ],
+   [
+    "Bartos Erika|Bartos",
+    5
+   ],
+   [
+    "Janikovszky Éva|Janikovszky",
+    4
+   ],
+   [
+    "Csukás István|Csukás",
+    3
+   ],
+   [
+    "Marék Veronika|Marék",
+    5
+   ],
+   [
+    "Böszörményi Gyula|Böszörményi",
+    5
+   ],
+   [
+    "Passuth László|Passuth",
+    5
+   ],
+   [
+    "Féja Géza",
+    6
+   ],
+   [
+    "Szabó Zoltán",
+    6
+   ],
+   [
+    "Cseres Tibor",
+    6
+   ],
+   [
+    "Bereményi Géza|Bereményi",
+    5
+   ],
+   [
+    "Göncz Árpád",
+    5
+   ],
+   [
+    "Dalos György|Dalos",
+    6
+   ],
+   [
+    "Bächer Iván",
+    6
+   ],
+   [
+    "Szőcs Géza",
+    6
+   ],
+   [
+    "Bertha Bulcsú",
+    6
+   ],
+   [
+    "Gábor Andor",
+    6
+   ],
+   [
+    "Kellér Andor",
+    6
+   ],
+   [
+    "Tóth Krisztina",
+    5
+   ],
+   [
+    "Láng Zsolt",
+    6
+   ],
+   [
+    "Szvoren Edina",
+    6
+   ],
+   [
+    "Tompa Andrea",
+    5
+   ],
+   [
+    "Szentmihályi Szabó Péter",
+    6
+   ],
+   [
+    "Kertész Ákos",
+    6
+   ],
+   [
+    "Rákosi Viktor",
+    6
+   ],
+   [
+    "Ignotus|Ignotus Hugó",
+    6
+   ],
+   [
+    "Bornemisza Péter",
+    6
+   ],
+   [
+    "Pázmány Péter",
+    4
+   ],
+   [
+    "Zrínyi Miklós|Zrínyi",
+    4
+   ],
+   [
+    "Gyöngyösi István",
+    5
+   ],
+   [
+    "Tinódi Lantos Sebestyén|Tinódi",
+    5
+   ],
+   [
+    "Temesi Ferenc",
+    6
+   ],
+   [
+    "Kemény István",
+    6
+   ],
+   [
+    "Oravecz Imre",
+    6
+   ],
+   [
+    "Lackfi János",
+    6
+   ],
+   [
+    "Gerlóczy Márton",
+    6
+   ],
+   [
+    "Jónás Tamás",
+    6
+   ],
+   [
+    "József Attila",
+    2
+   ],
+   [
+    "Petőfi Sándor|Petőfi",
+    2
+   ]
+  ]
+ },
+ {
+  "id": "HU020",
+  "cat": "Híres magyarok",
+  "q": "Nevezz meg egy magyar zeneszerzőt!",
+  "hint": "Elég a vezetéknév.",
+  "a": [
+   [
+    "Liszt Ferenc|Liszt",
+    1
+   ],
+   [
+    "Bartók Béla|Bartók",
+    1
+   ],
+   [
+    "Kodály Zoltán|Kodály",
+    1
+   ],
+   [
+    "Erkel Ferenc|Erkel",
+    2
+   ],
+   [
+    "Lehár Ferenc|Lehár",
+    2
+   ],
+   [
+    "Kálmán Imre",
+    2
+   ],
+   [
+    "Ligeti György|Ligeti",
+    3
+   ],
+   [
+    "Kurtág György|Kurtág",
+    3
+   ],
+   [
+    "Dohnányi Ernő|Dohnányi",
+    3
+   ],
+   [
+    "Goldmark Károly|Goldmark",
+    3
+   ],
+   [
+    "Hubay Jenő|Hubay",
+    4
+   ],
+   [
+    "Mosonyi Mihály|Mosonyi",
+    4
+   ],
+   [
+    "Weiner Leó|Weiner",
+    4
+   ],
+   [
+    "Eötvös Péter",
+    4
+   ],
+   [
+    "Durkó Zsolt|Durkó",
+    4
+   ],
+   [
+    "Petrovics Emil|Petrovics",
+    4
+   ],
+   [
+    "Szokolay Sándor|Szokolay",
+    4
+   ],
+   [
+    "Doppler Ferenc|Doppler",
+    4
+   ],
+   [
+    "Rózsavölgyi Márk|Rózsavölgyi",
+    5
+   ],
+   [
+    "Mihály András",
+    5
+   ],
+   [
+    "Lajtha László|Lajtha",
+    5
+   ],
+   [
+    "Veress Sándor|Veress",
+    5
+   ],
+   [
+    "Farkas Ferenc|Farkas",
+    5
+   ],
+   [
+    "Járdányi Pál|Járdányi",
+    5
+   ],
+   [
+    "Kósa György|Kósa",
+    5
+   ],
+   [
+    "Szőnyi Erzsébet|Szőnyi",
+    6
+   ],
+   [
+    "Sárközy István|Sárközy",
+    6
+   ],
+   [
+    "Balassa Sándor",
+    6
+   ],
+   [
+    "Vidovszky László|Vidovszky",
+    6
+   ],
+   [
+    "Bozay Attila|Bozay",
+    6
+   ],
+   [
+    "Szervánszky Endre|Szervánszky",
+    6
+   ],
+   [
+    "Radnai Miklós|Radnai",
+    6
+   ],
+   [
+    "Kacsóh Pongrác|Kacsóh",
+    6
+   ],
+   [
+    "Huszka Jenő|Huszka",
+    6
+   ],
+   [
+    "Jacobi Viktor|Jacobi",
+    6
+   ],
+   [
+    "Szabados György|Szabados",
+    6
+   ],
+   [
+    "Presser Gábor|Presser",
+    4
+   ],
+   [
+    "Rózsa Miklós",
+    4
+   ],
+   [
+    "Ábrahám Pál|Ábrahám",
+    5
+   ],
+   [
+    "Fényes Szabolcs",
+    5
+   ],
+   [
+    "Szörényi Levente|Szörényi",
+    5
+   ],
+   [
+    "Bárdos Lajos|Bárdos",
+    5
+   ],
+   [
+    "Zerkovitz Béla|Zerkovitz",
+    6
+   ],
+   [
+    "Joachim József|Joachim",
+    6
+   ],
+   [
+    "Ránki György|Ránki",
+    6
+   ],
+   [
+    "Sugár Rezső|Sugár",
+    6
+   ],
+   [
+    "Kadosa Pál|Kadosa",
+    6
+   ],
+   [
+    "Szabó Ferenc",
+    6
+   ],
+   [
+    "Frid Géza|Frid",
+    6
+   ],
+   [
+    "Lavotta János|Lavotta",
+    5
+   ],
+   [
+    "Bihari János|Bihari",
+    5
+   ],
+   [
+    "Csermák Antal|Csermák",
+    6
+   ],
+   [
+    "Erkel Gyula",
+    6
+   ],
+   [
+    "Erkel Elek",
+    6
+   ],
+   [
+    "Erkel Sándor",
+    6
+   ],
+   [
+    "Reményi Ede|Reményi",
+    5
+   ],
+   [
+    "Popper Dávid|Popper",
+    5
+   ],
+   [
+    "Doppler Károly",
+    6
+   ],
+   [
+    "Seiber Mátyás|Seiber",
+    6
+   ],
+   [
+    "Szelényi István|Szelényi",
+    6
+   ],
+   [
+    "Dubrovay László|Dubrovay",
+    6
+   ],
+   [
+    "Madarász Iván",
+    6
+   ],
+   [
+    "Szőllősy András|Szőllősy",
+    6
+   ],
+   [
+    "Lendvay Kamilló|Lendvay",
+    6
+   ],
+   [
+    "Sári József",
+    6
+   ],
+   [
+    "Láng István",
+    6
+   ],
+   [
+    "Jeney Zoltán|Jeney",
+    6
+   ],
+   [
+    "Kocsár Miklós|Kocsár",
+    6
+   ],
+   [
+    "Orbán György",
+    6
+   ],
+   [
+    "Selmeczi György|Selmeczi",
+    6
+   ],
+   [
+    "Melis László|Melis",
+    6
+   ],
+   [
+    "Gryllus Vilmos|Gryllus",
+    5
+   ],
+   [
+    "Sebő Ferenc|Sebő",
+    6
+   ],
+   [
+    "Bródy János|Bródy",
+    5
+   ],
+   [
+    "Cseh Tamás|Cseh",
+    5
+   ],
+   [
+    "Demjén Ferenc|Demjén",
+    5
+   ],
+   [
+    "Eisemann Mihály|Eisemann",
+    5
+   ],
+   [
+    "Szirmai Albert|Szirmai",
+    5
+   ],
+   [
+    "Buttykay Ákos|Buttykay",
+    6
+   ],
+   [
+    "Márkus Alfréd",
+    6
+   ],
+   [
+    "Bakfark Bálint|Bakfark",
+    5
+   ],
+   [
+    "Balázs Árpád",
+    6
+   ],
+   [
+    "Wilheim András|Wilheim",
+    6
+   ],
+   [
+    "Szemző Tibor|Szemző",
+    6
+   ],
+   [
+    "Gárdonyi Zsolt|Gárdonyi",
+    6
+   ],
+   [
+    "Hidas Frigyes|Hidas",
+    6
+   ],
+   [
+    "Ruzitska József|Ruzitska",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU022",
+  "cat": "Híres magyarok",
+  "q": "Nevezz meg egy magyar festőt vagy képzőművészt!",
+  "hint": "Elég a vezetéknév.",
+  "a": [
+   [
+    "Munkácsy Mihály|Munkácsy",
+    1
+   ],
+   [
+    "Csontváry Kosztka Tivadar|Csontváry|Kosztka Tivadar",
+    1
+   ],
+   [
+    "Rippl-Rónai József|Rippl-Rónai",
+    2
+   ],
+   [
+    "Szinyei Merse Pál|Szinyei Merse|Szinyei",
+    2
+   ],
+   [
+    "Vasarely Viktor|Vasarely",
+    2
+   ],
+   [
+    "Moholy-Nagy László|Moholy-Nagy",
+    3
+   ],
+   [
+    "Paál László|Paál",
+    3
+   ],
+   [
+    "Székely Bertalan|Székely",
+    3
+   ],
+   [
+    "Madarász Viktor|Madarász",
+    3
+   ],
+   [
+    "Benczúr Gyula|Benczúr",
+    3
+   ],
+   [
+    "Mednyánszky László|Mednyánszky",
+    3
+   ],
+   [
+    "Gulácsy Lajos|Gulácsy",
+    3
+   ],
+   [
+    "Aba-Novák Vilmos|Aba-Novák",
+    3
+   ],
+   [
+    "Egry József|Egry",
+    3
+   ],
+   [
+    "Vaszary János|Vaszary",
+    3
+   ],
+   [
+    "Nagy István",
+    3
+   ],
+   [
+    "Derkovits Gyula|Derkovits",
+    3
+   ],
+   [
+    "Barcsay Jenő|Barcsay",
+    3
+   ],
+   [
+    "Zichy Mihály|Zichy",
+    4
+   ],
+   [
+    "Markó Károly|Markó",
+    4
+   ],
+   [
+    "Barabás Miklós|Barabás",
+    4
+   ],
+   [
+    "Than Mór",
+    4
+   ],
+   [
+    "Lotz Károly|Lotz",
+    4
+   ],
+   [
+    "Ferenczy Károly|Ferenczy",
+    4
+   ],
+   [
+    "Czóbel Béla|Czóbel",
+    4
+   ],
+   [
+    "Berény Róbert|Berény",
+    4
+   ],
+   [
+    "Kernstok Károly|Kernstok",
+    4
+   ],
+   [
+    "Márffy Ödön|Márffy",
+    4
+   ],
+   [
+    "Koszta József|Koszta",
+    4
+   ],
+   [
+    "Vajda Lajos",
+    4
+   ],
+   [
+    "Rudnay Gyula|Rudnay",
+    4
+   ],
+   [
+    "Kassák Lajos|Kassák",
+    5
+   ],
+   [
+    "Kondor Béla|Kondor",
+    5
+   ],
+   [
+    "Szőnyi István|Szőnyi",
+    5
+   ],
+   [
+    "Bernáth Aurél|Bernáth",
+    5
+   ],
+   [
+    "Anna Margit",
+    5
+   ],
+   [
+    "Kmetty János|Kmetty",
+    5
+   ],
+   [
+    "Medgyessy Ferenc|Medgyessy",
+    5
+   ],
+   [
+    "Hincz Gyula|Hincz",
+    6
+   ],
+   [
+    "Ámos Imre|Ámos",
+    6
+   ],
+   [
+    "Korniss Dezső|Korniss",
+    6
+   ],
+   [
+    "Czigány Dezső|Czigány",
+    6
+   ],
+   [
+    "Pór Bertalan|Pór",
+    6
+   ],
+   [
+    "Fényes Adolf|Fényes",
+    6
+   ],
+   [
+    "Tornyai János|Tornyai",
+    6
+   ],
+   [
+    "Feszty Árpád|Feszty",
+    3
+   ],
+   [
+    "Kovács Margit",
+    3
+   ],
+   [
+    "Csók István|Csók",
+    4
+   ],
+   [
+    "Hollósy Simon|Hollósy",
+    4
+   ],
+   [
+    "Mészöly Géza|Mészöly",
+    5
+   ],
+   [
+    "Ferenczy Béni",
+    5
+   ],
+   [
+    "Fadrusz János|Fadrusz",
+    5
+   ],
+   [
+    "Zala György",
+    5
+   ],
+   [
+    "Stróbl Alajos|Stróbl",
+    5
+   ],
+   [
+    "Varga Imre",
+    5
+   ],
+   [
+    "Borsos Miklós|Borsos",
+    5
+   ],
+   [
+    "Bortnyik Sándor|Bortnyik",
+    6
+   ],
+   [
+    "Telepy Katalin",
+    6
+   ],
+   [
+    "Ferenczy Valér",
+    6
+   ],
+   [
+    "Ferenczy Noémi",
+    5
+   ],
+   [
+    "Iványi-Grünwald Béla|Iványi-Grünwald",
+    5
+   ],
+   [
+    "Réti István|Réti",
+    6
+   ],
+   [
+    "Thorma János|Thorma",
+    5
+   ],
+   [
+    "Glatz Oszkár|Glatz",
+    6
+   ],
+   [
+    "Fried Pál",
+    6
+   ],
+   [
+    "Mattioni Eszter",
+    6
+   ],
+   [
+    "Gadányi Jenő|Gadányi",
+    6
+   ],
+   [
+    "Vajda Júlia",
+    6
+   ],
+   [
+    "Bálint Endre",
+    6
+   ],
+   [
+    "Szalay Lajos",
+    6
+   ],
+   [
+    "Kádár Béla",
+    6
+   ],
+   [
+    "Dési Huber István|Dési Huber",
+    6
+   ],
+   [
+    "Gross Arnold|Gross",
+    6
+   ],
+   [
+    "Orbán Dezső",
+    6
+   ],
+   [
+    "Tihanyi Lajos",
+    5
+   ],
+   [
+    "Pogány Móric",
+    6
+   ],
+   [
+    "Uitz Béla|Uitz",
+    6
+   ],
+   [
+    "Nemes Lampérth József|Nemes Lampérth",
+    6
+   ],
+   [
+    "Bokros Birman Dezső|Bokros Birman",
+    6
+   ],
+   [
+    "Vedres Márk|Vedres",
+    6
+   ],
+   [
+    "Perlrott-Csaba Vilmos|Perlrott-Csaba",
+    6
+   ],
+   [
+    "Pólya Tibor",
+    6
+   ],
+   [
+    "Lesznai Anna|Lesznai",
+    6
+   ],
+   [
+    "Patkó Károly|Patkó",
+    6
+   ],
+   [
+    "Molnár C. Pál|Molnár C. Pál",
+    5
+   ],
+   [
+    "Kisfaludi Strobl Zsigmond|Kisfaludi Strobl",
+    5
+   ],
+   [
+    "Ligeti Miklós",
+    6
+   ],
+   [
+    "Izsó Miklós|Izsó",
+    5
+   ],
+   [
+    "Huszár Adolf",
+    6
+   ],
+   [
+    "Donáth Gyula",
+    6
+   ],
+   [
+    "Szentgyörgyi István",
+    6
+   ],
+   [
+    "Vigh Tamás|Vigh",
+    5
+   ],
+   [
+    "Marton László",
+    6
+   ],
+   [
+    "Kő Pál",
+    6
+   ],
+   [
+    "Kiss István",
+    6
+   ],
+   [
+    "Somogyi József",
+    6
+   ],
+   [
+    "Szabó Iván",
+    6
+   ],
+   [
+    "Mikus Sándor",
+    6
+   ],
+   [
+    "Nicolas Schöffer|Schöffer Miklós|Schöffer",
+    5
+   ],
+   [
+    "Keserü Ilona|Keserü",
+    6
+   ],
+   [
+    "Deim Pál|Deim",
+    6
+   ],
+   [
+    "Lakner László|Lakner",
+    6
+   ],
+   [
+    "Fehér László",
+    6
+   ],
+   [
+    "Nádler István|Nádler",
+    6
+   ],
+   [
+    "Gyémánt László",
+    6
+   ],
+   [
+    "Bak Imre",
+    6
+   ],
+   [
+    "Erdély Miklós",
+    6
+   ],
+   [
+    "Maurer Dóra|Maurer",
+    6
+   ],
+   [
+    "Konkoly Gyula",
+    6
+   ],
+   [
+    "Szirtes János",
+    6
+   ],
+   [
+    "Ország Lili",
+    6
+   ],
+   [
+    "Gyarmathy Tihamér|Gyarmathy",
+    6
+   ],
+   [
+    "Hantai Simon|Hantaï Simon|Hantai",
+    6
+   ],
+   [
+    "Csernus Tibor|Csernus",
+    6
+   ],
+   [
+    "Würtz Ádám|Würtz",
+    6
+   ],
+   [
+    "Fajó János",
+    6
+   ],
+   [
+    "Gábor Marianne",
+    6
+   ],
+   [
+    "Szász Endre|Szász",
+    5
+   ],
+   [
+    "Brocky Károly|Brocky",
+    6
+   ],
+   [
+    "Ligeti Antal",
+    6
+   ],
+   [
+    "Marastoni Jakab|Marastoni",
+    6
+   ],
+   [
+    "Molnár József",
+    6
+   ],
+   [
+    "Peske Géza",
+    6
+   ],
+   [
+    "Paczka Ferenc",
+    6
+   ],
+   [
+    "Bruck Lajos",
+    6
+   ],
+   [
+    "Keleti Gusztáv",
+    6
+   ],
+   [
+    "Böhm Pál",
+    6
+   ],
+   [
+    "Kovács Mihály",
+    6
+   ],
+   [
+    "Jankó János",
+    6
+   ],
+   [
+    "Pataky László",
+    6
+   ],
+   [
+    "Vastagh György|Vastagh",
+    5
+   ],
+   [
+    "Roskovics Ignác|Roskovics",
+    6
+   ],
+   [
+    "Karlovszky Bertalan|Karlovszky",
+    6
+   ],
+   [
+    "Aggházy Gyula|Aggházy",
+    6
+   ],
+   [
+    "Beck Ö. Fülöp|Beck Fülöp",
+    6
+   ],
+   [
+    "Beck András",
+    6
+   ],
+   [
+    "Pátzay Pál|Pátzay",
+    6
+   ],
+   [
+    "Vilt Tibor",
+    6
+   ],
+   [
+    "Bartl József",
+    6
+   ],
+   [
+    "Bánovszky Miklós|Bánovszky",
+    6
+   ],
+   [
+    "Deli Antal",
+    6
+   ],
+   [
+    "Paizs Goebel Jenő|Paizs Goebel",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU025",
+  "cat": "Híres magyarok",
+  "q": "Nevezz meg egy magyar olimpiai bajnokot (nem labdarúgót)!",
+  "hint": "Elég a vezetéknév.",
+  "a": [
+   [
+    "Hosszú Katinka|Hosszú",
+    1
+   ],
+   [
+    "Egerszegi Krisztina|Egerszegi",
+    1
+   ],
+   [
+    "Darnyi Tamás|Darnyi",
+    2
+   ],
+   [
+    "Gyurta Dániel|Gyurta",
+    2
+   ],
+   [
+    "Kozák Danuta|Kozák",
+    2
+   ],
+   [
+    "Kolonics György|Kolonics",
+    3
+   ],
+   [
+    "Papp László|Papp",
+    3
+   ],
+   [
+    "Szilágyi Áron|Szilágyi",
+    3
+   ],
+   [
+    "Hajós Alfréd|Hajós",
+    3
+   ],
+   [
+    "Keleti Ágnes|Keleti",
+    3
+   ],
+   [
+    "Gyarmati Dezső|Gyarmati",
+    3
+   ],
+   [
+    "Gerevich Aladár|Gerevich",
+    3
+   ],
+   [
+    "Kárpáti Rudolf|Kárpáti",
+    3
+   ],
+   [
+    "Zsivótzky Gyula|Zsivótzky",
+    3
+   ],
+   [
+    "Balczó András|Balczó",
+    3
+   ],
+   [
+    "Benedek Tibor|Benedek",
+    3
+   ],
+   [
+    "Kásás Tamás|Kásás",
+    4
+   ],
+   [
+    "Märcz Tamás|Märcz",
+    4
+   ],
+   [
+    "Varga Dénes|Varga",
+    4
+   ],
+   [
+    "Risztov Éva|Risztov",
+    4
+   ],
+   [
+    "Czene Attila|Czene",
+    4
+   ],
+   [
+    "Magyar Zoltán",
+    4
+   ],
+   [
+    "Németh Miklós",
+    4
+   ],
+   [
+    "Nagy Tímea",
+    4
+   ],
+   [
+    "Kovács Ágnes",
+    4
+   ],
+   [
+    "Berki Krisztián|Berki",
+    4
+   ],
+   [
+    "Pars Krisztián|Pars",
+    4
+   ],
+   [
+    "Lőrincz Tamás|Lőrincz",
+    4
+   ],
+   [
+    "Fábián László|Fábián",
+    6
+   ],
+   [
+    "Kovács Pál",
+    6
+   ],
+   [
+    "Hegedűs Csaba|Hegedűs",
+    6
+   ],
+   [
+    "Milák Kristóf|Milák",
+    2
+   ],
+   [
+    "Rasovszky Kristóf|Rasovszky",
+    4
+   ],
+   [
+    "Kós Hubert|Kós",
+    4
+   ],
+   [
+    "Liu Shaoang|Liu Shaoang Sándor",
+    4
+   ],
+   [
+    "Liu Shaolin Sándor|Liu Sándor",
+    4
+   ],
+   [
+    "Márton Viviana",
+    4
+   ],
+   [
+    "Csipes Tamara|Csipes",
+    4
+   ],
+   [
+    "Kovács Katalin",
+    4
+   ],
+   [
+    "Janics Natasa|Janics|Douchev-Janics Natasa",
+    4
+   ],
+   [
+    "Storcz Botond|Storcz",
+    4
+   ],
+   [
+    "Szabó Gabriella",
+    5
+   ],
+   [
+    "Kammerer Zoltán|Kammerer",
+    5
+   ],
+   [
+    "Vereckei Ákos|Vereckei",
+    5
+   ],
+   [
+    "Biros Péter|Biros",
+    5
+   ],
+   [
+    "Molnár Tamás",
+    5
+   ],
+   [
+    "Kiss Gergely",
+    5
+   ],
+   [
+    "Steinmetz Barnabás|Steinmetz",
+    5
+   ],
+   [
+    "Igaly Diána|Igaly",
+    5
+   ],
+   [
+    "Kovács Antal",
+    5
+   ],
+   [
+    "Sike András|Sike",
+    5
+   ],
+   [
+    "Szabó Bence",
+    5
+   ],
+   [
+    "Repka Attila|Repka",
+    6
+   ],
+   [
+    "Csermák József|Csermák",
+    5
+   ],
+   [
+    "Németh Imre",
+    5
+   ],
+   [
+    "Fuchs Jenő|Fuchs",
+    5
+   ],
+   [
+    "Székely Éva|Székely",
+    4
+   ],
+   [
+    "Novák Ilona|Novák",
+    5
+   ],
+   [
+    "Szőke Katalin|Szőke",
+    5
+   ],
+   [
+    "Csollány Szilveszter|Csollány",
+    4
+   ],
+   [
+    "Ónodi Henrietta|Ónodi",
+    5
+   ],
+   [
+    "Bolvári Antal|Bolvári",
+    5
+   ],
+   [
+    "Kárpáti György",
+    5
+   ],
+   [
+    "Markovits Kálmán|Markovits",
+    5
+   ],
+   [
+    "Szívós István|Szívós",
+    5
+   ],
+   [
+    "Jeney László|Jeney",
+    5
+   ],
+   [
+    "Faragó Tamás|Faragó",
+    5
+   ],
+   [
+    "Török Ferenc|Török",
+    5
+   ],
+   [
+    "Burján Csaba|Burján",
+    5
+   ],
+   [
+    "Knoch Viktor|Knoch",
+    5
+   ],
+   [
+    "Csík Ferenc|Csík",
+    5
+   ],
+   [
+    "Kabos Endre|Kabos",
+    6
+   ],
+   [
+    "Halmay Zoltán|Halmay",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU029",
+  "cat": "Konyha",
+  "q": "Mondj egy Magyarországon termesztett szőlőfajtát!",
+  "hint": "",
+  "a": [
+   [
+    "Furmint",
+    1
+   ],
+   [
+    "Kékfrankos|Blaufränkisch",
+    1
+   ],
+   [
+    "Olaszrizling|Welschriesling|Rizling",
+    1
+   ],
+   [
+    "Hárslevelű",
+    2
+   ],
+   [
+    "Kadarka",
+    2
+   ],
+   [
+    "Cabernet Sauvignon",
+    2
+   ],
+   [
+    "Merlot",
+    2
+   ],
+   [
+    "Cserszegi fűszeres|Cserszegi",
+    2
+   ],
+   [
+    "Irsai Olivér|Irsai",
+    3
+   ],
+   [
+    "Királyleányka",
+    3
+   ],
+   [
+    "Szürkebarát|Pinot Gris|Pinot gris",
+    3
+   ],
+   [
+    "Chardonnay",
+    3
+   ],
+   [
+    "Rajnai rizling|Riesling",
+    3
+   ],
+   [
+    "Zweigelt",
+    3
+   ],
+   [
+    "Kékoportó|Portugieser|Oportó",
+    3
+   ],
+   [
+    "Cabernet Franc",
+    3
+   ],
+   [
+    "Pinot Noir|Kékburgundi",
+    3
+   ],
+   [
+    "Sauvignon Blanc|Sauvignon",
+    3
+   ],
+   [
+    "Tramini|Traminer|Gewürztraminer",
+    3
+   ],
+   [
+    "Zöld veltelini|Veltelini",
+    3
+   ],
+   [
+    "Juhfark",
+    4
+   ],
+   [
+    "Kéknyelű",
+    4
+   ],
+   [
+    "Ezerjó",
+    4
+   ],
+   [
+    "Leányka",
+    4
+   ],
+   [
+    "Sárgamuskotály|Muskotály",
+    4
+   ],
+   [
+    "Ottonel muskotály|Ottonel",
+    4
+   ],
+   [
+    "Kövidinka",
+    4
+   ],
+   [
+    "Zéta",
+    4
+   ],
+   [
+    "Bianca",
+    4
+   ],
+   [
+    "Syrah|Shiraz",
+    4
+   ],
+   [
+    "Kövérszőlő",
+    5
+   ],
+   [
+    "Budai zöld",
+    5
+   ],
+   [
+    "Csabagyöngye",
+    5
+   ],
+   [
+    "Hamburgi muskotály",
+    5
+   ],
+   [
+    "Nektár",
+    5
+   ],
+   [
+    "Generosa",
+    5
+   ],
+   [
+    "Cirfandli|Cirfandl",
+    5
+   ],
+   [
+    "Mézesfehér",
+    5
+   ],
+   [
+    "Rózsakő",
+    5
+   ],
+   [
+    "Turán",
+    5
+   ],
+   [
+    "Kármin",
+    5
+   ],
+   [
+    "Piros szlanka|Piros Slanka",
+    6
+   ],
+   [
+    "Bakator",
+    6
+   ],
+   [
+    "Menoire|Ménoire",
+    6
+   ],
+   [
+    "Pinot Blanc|Fehérburgundi",
+    4
+   ],
+   [
+    "Rizlingszilváni|Müller-Thurgau",
+    3
+   ],
+   [
+    "Kunleány",
+    5
+   ],
+   [
+    "Blauburger",
+    5
+   ],
+   [
+    "Zöldszilváni|Szilváni|Sylvaner",
+    5
+   ],
+   [
+    "Csókaszőlő",
+    6
+   ],
+   [
+    "Pölöskei muskotály",
+    6
+   ],
+   [
+    "Szerémi zöld",
+    6
+   ],
+   [
+    "Ezerfürtű",
+    5
+   ],
+   [
+    "Zalagyöngye",
+    5
+   ],
+   [
+    "Zenit",
+    5
+   ],
+   [
+    "Zengő",
+    5
+   ],
+   [
+    "Pannónia kincse",
+    5
+   ],
+   [
+    "Medina",
+    6
+   ],
+   [
+    "Duna gyöngye",
+    5
+   ],
+   [
+    "Alibernet",
+    5
+   ],
+   [
+    "Cabernet Dorsa|Dorsa",
+    5
+   ],
+   [
+    "Dornfelder",
+    5
+   ],
+   [
+    "Malbec",
+    5
+   ],
+   [
+    "Petit Verdot",
+    5
+   ],
+   [
+    "Viognier",
+    5
+   ],
+   [
+    "Kerner",
+    5
+   ],
+   [
+    "Bouvier",
+    6
+   ],
+   [
+    "Scheurebe",
+    6
+   ],
+   [
+    "Otelló",
+    6
+   ],
+   [
+    "Izabella",
+    6
+   ],
+   [
+    "Delaware",
+    6
+   ],
+   [
+    "Chasselas|Saszla|Fendant",
+    5
+   ],
+   [
+    "Rubintos",
+    6
+   ],
+   [
+    "Arany sárfehér",
+    6
+   ],
+   [
+    "Vörös veltelini|Roter Veltliner",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU030",
+  "cat": "Konyha",
+  "q": "Mondj egy gyümölcsöt, amiből pálinkát szoktak főzni!",
+  "hint": "",
+  "a": [
+   [
+    "Barack|Kajszi|Kajszibarack|Sárgabarack",
+    1
+   ],
+   [
+    "Szilva|Besztercei szilva|Besztercei",
+    1
+   ],
+   [
+    "Körte|Vilmoskörte|Vilmos körte|Vilmos",
+    1
+   ],
+   [
+    "Alma",
+    2
+   ],
+   [
+    "Cseresznye",
+    2
+   ],
+   [
+    "Meggy",
+    2
+   ],
+   [
+    "Őszibarack|Őszi barack",
+    2
+   ],
+   [
+    "Birs|Birsalma",
+    3
+   ],
+   [
+    "Szőlő|Törköly|Törkölypálinka",
+    3
+   ],
+   [
+    "Szeder",
+    3
+   ],
+   [
+    "Málna",
+    3
+   ],
+   [
+    "Eper",
+    3
+   ],
+   [
+    "Dió",
+    3
+   ],
+   [
+    "Kökény",
+    3
+   ],
+   [
+    "Som",
+    3
+   ],
+   [
+    "Ringló",
+    4
+   ],
+   [
+    "Bodza",
+    4
+   ],
+   [
+    "Füge",
+    4
+   ],
+   [
+    "Berkenye|Fekete berkenye",
+    4
+   ],
+   [
+    "Mandula",
+    5
+   ],
+   [
+    "Vörösribizli|Ribizli",
+    4
+   ],
+   [
+    "Egres",
+    4
+   ],
+   [
+    "Áfonya",
+    4
+   ],
+   [
+    "Mogyoró",
+    6
+   ],
+   [
+    "Fekete ribizli|Feketeribizli",
+    4
+   ],
+   [
+    "Boróka|Borókabogyó|Fenyővíz",
+    5
+   ],
+   [
+    "Cseresznyeszilva|Mirabella|Mirabolán",
+    4
+   ],
+   [
+    "Galagonya",
+    6
+   ],
+   [
+    "Csipkebogyó|Csipke",
+    6
+   ],
+   [
+    "Sárgadinnye|Dinnye",
+    5
+   ],
+   [
+    "Görögdinnye",
+    5
+   ],
+   [
+    "Naspolya",
+    6
+   ],
+   [
+    "Vadkörte",
+    5
+   ],
+   [
+    "Vadcseresznye|Madárcseresznye",
+    6
+   ],
+   [
+    "Vörösáfonya",
+    6
+   ],
+   [
+    "Kaki|Datolyaszilva",
+    6
+   ],
+   [
+    "Tőzegáfonya",
+    6
+   ]
+  ]
+ },
+ {
+  "id": "HU031",
+  "cat": "Hungarikum",
+  "q": "Mondj egy hungarikumot vagy hungarikum-jelölt magyar terméket!",
+  "hint": "",
+  "a": [
+   [
+    "Tokaji aszú|Tokaji|Aszú",
+    1
+   ],
+   [
+    "Pick szalámi|Szegedi szalámi|Pick|Pick Szeged|Téliszalámi|Téli szalámi",
+    1
+   ],
+   [
+    "Unicum|Zwack Unicum|Zwack",
+    1
+   ],
+   [
+    "Herendi porcelán|Herendi",
+    1
+   ],
+   [
+    "Pálinka",
+    1
+   ],
+   [
+    "Paprika|Szegedi paprika|Kalocsai paprika|Kalocsai fűszerpaprika|Fűszerpaprika",
+    1
+   ],
+   [
+    "Rubik-kocka",
+    2
+   ],
+   [
+    "Zsolnay porcelán|Zsolnay",
+    2
+   ],
+   [
+    "Kalocsai hímzés|Kalocsai|Kalocsai népművészet",
+    2
+   ],
+   [
+    "Matyó hímzés|Mezőkövesdi hímzés|Matyó",
+    2
+   ],
+   [
+    "Hollóházi porcelán|Hollóházi",
+    3
+   ],
+   [
+    "Halasi csipke|Kiskunhalasi csipke",
+    3
+   ],
+   [
+    "Gyulai kolbász|Gyulai",
+    3
+   ],
+   [
+    "Csabai kolbász|Csabai",
+    3
+   ],
+   [
+    "Mangalica|Mangalicasertés",
+    3
+   ],
+   [
+    "Magyar szürkemarha|Szürkemarha",
+    3
+   ],
+   [
+    "Komondor",
+    3
+   ],
+   [
+    "Puli",
+    3
+   ],
+   [
+    "Kuvasz",
+    4
+   ],
+   [
+    "Magyar vizsla|Vizsla",
+    3
+   ],
+   [
+    "Kodály-módszer|Kodály módszer",
+    4
+   ],
+   [
+    "Egri bikavér|Bikavér",
+    3
+   ],
+   [
+    "Hortobágyi Nemzeti Park|Hortobágy",
+    3
+   ],
+   [
+    "Hollókő",
+    4
+   ],
+   [
+    "Szent Korona|Magyar Szent Korona",
+    4
+   ],
+   [
+    "Pannonhalmi Apátság|Pannonhalma",
+    4
+   ],
+   [
+    "Budai Vár|Budavár",
+    4
+   ],
+   [
+    "Magyar kártya|Magyar kártyajáték",
+    6
+   ],
+   [
+    "Vizsolyi Biblia|Vizsolyi biblia",
+    6
+   ],
+   [
+    "Tokaji borvidék",
+    4
+   ],
+   [
+    "Tokaji szamorodni|Szamorodni",
+    4
+   ],
+   [
+    "Racka juh|Racka",
+    5
+   ],
+   [
+    "Mudi",
+    5
+   ],
+   [
+    "Pumi",
+    4
+   ],
+   [
+    "Magyar agár",
+    6
+   ],
+   [
+    "Gulyásleves|Gulyás",
+    2
+   ],
+   [
+    "Dobostorta|Dobos torta",
+    3
+   ],
+   [
+    "Kürtőskalács",
+    4
+   ],
+   [
+    "Lángos",
+    4
+   ],
+   [
+    "Kecskeméti barackpálinka|Barackpálinka|Kecskeméti barack",
+    4
+   ],
+   [
+    "Gönci barackpálinka",
+    5
+   ],
+   [
+    "Szatmári szilvapálinka|Szilvapálinka",
+    4
+   ],
+   [
+    "Magyar népzene|Népzene",
+    5
+   ],
+   [
+    "Táncház-módszer|Táncház",
+    5
+   ],
+   [
+    "Busójárás",
+    3
+   ],
+   [
+    "Makói hagyma|Makói vöröshagyma",
+    4
+   ],
+   [
+    "Béres csepp|Dr. Béres Csepp",
+    4
+   ],
+   [
+    "Libamáj|Hízott libamáj",
+    4
+   ],
+   [
+    "Szikvíz|Szódavíz",
+    4
+   ],
+   [
+    "Akácméz|Magyar akácméz",
+    4
+   ],
+   [
+    "Hévízi-tó|Hévíz",
+    4
+   ],
+   [
+    "Solymászat",
+    5
+   ],
+   [
+    "Lovasíjászat|Kassai-féle lovasíjászat",
+    5
+   ],
+   [
+    "Andrássy út|Andrássy út és történelmi környezete|Andrássy sugárút",
+    4
+   ],
+   [
+    "Millenniumi Földalatti Vasút|Kisföldalatti|Földalatti|M1-es metró|Millenniumi Földalatti",
+    5
+   ],
+   [
+    "Aggteleki-karszt|Aggtelek|Aggteleki cseppkőbarlang|Baradla|Baradla-barlang",
+    5
+   ],
+   [
+    "Halászlé|Szegedi halászlé|Bajai halászlé",
+    3
+   ],
+   [
+    "Túró Rudi",
+    4
+   ],
+   [
+    "Rigó Jancsi",
+    5
+   ],
+   [
+    "Eszterházy torta|Esterházy torta",
+    5
+   ],
+   [
+    "Újfehértói fürtös meggy|Fürtös meggy",
+    6
+   ],
+   [
+    "Pörkölt|Marhapörkölt",
+    4
+   ],
+   [
+    "Lecsó",
+    4
+   ],
+   [
+    "Töltött káposzta",
+    4
+   ],
+   [
+    "Rétes|Almás rétes|Túrós rétes",
+    4
+   ],
+   [
+    "Somlói galuska",
+    5
+   ],
+   [
+    "Gundel palacsinta",
+    5
+   ],
+   [
+    "Hortobágyi húsos palacsinta",
+    5
+   ],
+   [
+    "Székelykapu|Székely kapu",
+    5
+   ],
+   [
+    "Rovásírás|Magyar rovásírás|Székely rovásírás",
+    4
+   ],
+   [
+    "Cimbalom",
+    4
+   ],
+   [
+    "Tárogató",
+    5
+   ],
+   [
+    "Citera",
+    5
+   ],
+   [
+    "Csárdás",
+    5
+   ],
+   [
+    "Verbunkos",
+    6
+   ],
+   [
+    "Hortobágyi Kilenclyukú híd|Kilenclyukú híd",
+    5
+   ],
+   [
+    "Törley pezsgő|Törley",
+    6
+   ],
+   [
+    "Szekszárdi bikavér",
+    5
+   ],
+   [
+    "Villányi vörösbor|Villányi bor",
+    5
+   ],
+   [
+    "Furmint",
+    5
+   ],
+   [
+    "Eszencia|Tokaji eszencia",
+    5
+   ],
+   [
+    "Békési szilvapálinka|Békési szilva",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU032",
+  "cat": "Szokások",
+  "q": "Mondj egy magyar ünnepet vagy népszokást!",
+  "hint": "",
+  "a": [
+   [
+    "Karácsony",
+    1
+   ],
+   [
+    "Húsvét|Húsvétvasárnap|Húsvét vasárnap",
+    1
+   ],
+   [
+    "Március 15|Március tizenötödike|Nemzeti ünnep",
+    1
+   ],
+   [
+    "Szent István-nap|Augusztus 20|Államalapítás ünnepe",
+    1
+   ],
+   [
+    "Mikulás|Mikulásnap",
+    1
+   ],
+   [
+    "Szilveszter",
+    2
+   ],
+   [
+    "Újév",
+    2
+   ],
+   [
+    "Farsang|Farsangi bál|Farsangi mulatság",
+    2
+   ],
+   [
+    "Pünkösd",
+    2
+   ],
+   [
+    "Október 23|Nemzeti ünnep október 23",
+    2
+   ],
+   [
+    "Locsolkodás|Húsvéti locsolás",
+    2
+   ],
+   [
+    "Luca-nap|Luca napja|Luca|Lucázás|Luca-szék",
+    3
+   ],
+   [
+    "Busójárás|Busójárás Mohácson",
+    3
+   ],
+   [
+    "Betlehemezés",
+    3
+   ],
+   [
+    "Szüreti felvonulás|Szüreti bál|Szüret",
+    3
+   ],
+   [
+    "Májusfa állítás|Májusfa|Májusfaállítás",
+    3
+   ],
+   [
+    "Márton-nap|Szent Márton napja|Márton-napi libaevés|Libaevés",
+    3
+   ],
+   [
+    "Katalin-nap|Katalin napja",
+    3
+   ],
+   [
+    "Borbála-nap|Borbála napja",
+    3
+   ],
+   [
+    "András-nap|András napja",
+    3
+   ],
+   [
+    "Szent Iván-éj|Szent Iván napja|Iván-nap|Szent Iván-éji tűzugrás|Tűzugrás",
+    3
+   ],
+   [
+    "Halottak napja|Mindenszentek",
+    3
+   ],
+   [
+    "Aratóünnep|Aratónap|Aratás",
+    3
+   ],
+   [
+    "Anyák napja",
+    3
+   ],
+   [
+    "Nőnap",
+    3
+   ],
+   [
+    "Gyertyaszentelő|Gyertyaszentelő Boldogasszony",
+    4
+   ],
+   [
+    "Balázsolás|Balázs-nap",
+    4
+   ],
+   [
+    "Villőzés",
+    6
+   ],
+   [
+    "Regölés",
+    4
+   ],
+   [
+    "Kiszebáb|Kisze|Kiszejárás",
+    4
+   ],
+   [
+    "Gergely-járás|Gergelyjárás",
+    4
+   ],
+   [
+    "Dömötör-nap|Dömötör napja",
+    4
+   ],
+   [
+    "Pásztorjárás",
+    6
+   ],
+   [
+    "Vízkereszt",
+    4
+   ],
+   [
+    "Zöldágjárás|Zöldág",
+    6
+   ],
+   [
+    "Tojásfestés|Hímes tojás",
+    3
+   ],
+   [
+    "Szent László-nap|László-nap",
+    5
+   ],
+   [
+    "Bálint-nap|Bálint napja|Valentin-nap",
+    5
+   ],
+   [
+    "Szent György-nap|György-nap",
+    5
+   ],
+   [
+    "Medárd-nap|Medárd",
+    5
+   ],
+   [
+    "Pál fordulása|Pálfordulás",
+    6
+   ],
+   [
+    "Fülöp-Jakab-nap|Fülöp-Jakab",
+    6
+   ],
+   [
+    "Úrnapja|Úrnapi körmenet",
+    5
+   ],
+   [
+    "Nagypéntek",
+    4
+   ],
+   [
+    "Virágvasárnap",
+    4
+   ],
+   [
+    "Pünkösdi királyválasztás|Pünkösdölés",
+    5
+   ],
+   [
+    "Szent Mihály-nap|Mihály-nap|Szent Mihály napja",
+    5
+   ],
+   [
+    "Hamvazószerda",
+    4
+   ],
+   [
+    "Május 1|Munka ünnepe|Majális",
+    3
+   ],
+   [
+    "Disznóvágás|Disznótor",
+    3
+   ],
+   [
+    "Advent",
+    3
+   ],
+   [
+    "Gyereknap",
+    4
+   ],
+   [
+    "Október 6|Aradi vértanúk napja|Nemzeti gyásznap",
+    4
+   ],
+   [
+    "Lakodalom|Lagzi|Esküvő",
+    5
+   ],
+   [
+    "Tollfosztás",
+    5
+   ],
+   [
+    "Fonó|Fonóház",
+    5
+   ],
+   [
+    "Kukoricafosztás|Kukoricamorzsolás",
+    5
+   ],
+   [
+    "Kántálás",
+    5
+   ],
+   [
+    "Apák napja",
+    5
+   ],
+   [
+    "Nagyböjt",
+    5
+   ],
+   [
+    "Mátkázás|Komatálküldés",
+    6
+   ],
+   [
+    "Húsvéthétfő|Húsvét hétfő",
+    3
+   ],
+   [
+    "Nagycsütörtök|Nagy csütörtök",
+    5
+   ],
+   [
+    "Nagyszombat|Nagy szombat",
+    5
+   ],
+   [
+    "Pünkösdhétfő|Pünkösd hétfő",
+    4
+   ],
+   [
+    "Karácsonyfaállítás|Karácsonyfa állítás|Karácsonyfa",
+    4
+   ],
+   [
+    "Adventi koszorú",
+    4
+   ],
+   [
+    "Karácsonyi vacsora|Szenteste",
+    3
+   ],
+   [
+    "Éjféli mise",
+    4
+   ],
+   [
+    "Reformáció napja|Október 31",
+    4
+   ],
+   [
+    "Nemzeti Összetartozás Napja|Trianon évforduló|Június 4",
+    4
+   ],
+   [
+    "Magyar Kultúra Napja|Január 22",
+    4
+   ],
+   [
+    "Költészet napja|Április 11",
+    4
+   ],
+   [
+    "Hősök napja|Magyar Hősök Emlékünnepe",
+    5
+   ],
+   [
+    "Magyar Tudomány Napja|November 3",
+    5
+   ],
+   [
+    "Pedagógusnap",
+    5
+   ],
+   [
+    "Sarlós Boldogasszony",
+    5
+   ],
+   [
+    "Nagyboldogasszony|Nagyboldogasszony napja|Augusztus 15",
+    5
+   ],
+   [
+    "Kisboldogasszony|Szeptember 8",
+    5
+   ],
+   [
+    "Gyümölcsoltó Boldogasszony|Gyümölcsoltó",
+    5
+   ],
+   [
+    "Aprószentek|Aprószentek napja|Vesszőzés",
+    5
+   ],
+   [
+    "Szent Anna-nap|Anna-nap|Annák napja",
+    6
+   ],
+   [
+    "Szent Vendel-nap|Vendel-nap",
+    6
+   ],
+   [
+    "Szent Orbán-nap|Orbán-nap",
+    6
+   ],
+   [
+    "Szent Flórián-nap|Flórián-nap",
+    6
+   ],
+   [
+    "Szent Antal-nap|Antal-nap",
+    6
+   ],
+   [
+    "Mátyás-nap|Jégtörő Mátyás",
+    6
+   ],
+   [
+    "Sándor-József-Benedek|Zsákban hozzák a meleget",
+    6
+   ],
+   [
+    "Szent Erzsébet-nap|Erzsébet-nap",
+    6
+   ],
+   [
+    "Szent Lőrinc-nap|Lőrinc-nap",
+    6
+   ],
+   [
+    "Lucabúza|Lucabúza-ültetés|Luca-búza",
+    5
+   ],
+   [
+    "Borbála-ág|Barbara-ág|Borbála-napi ág",
+    5
+   ],
+   [
+    "Szalagavató",
+    4
+   ],
+   [
+    "Ballagás",
+    4
+   ],
+   [
+    "Névnap",
+    4
+   ],
+   [
+    "Keresztelő|Keresztelés",
+    5
+   ],
+   [
+    "Húshagyókedd|Húshagyó",
+    4
+   ],
+   [
+    "Torkos csütörtök",
+    5
+   ],
+   [
+    "Szentsír-látogatás|Szentsír",
+    5
+   ],
+   [
+    "Feltámadási körmenet",
+    5
+   ],
+   [
+    "Kakasütés",
+    6
+   ],
+   [
+    "Márton-napi lámpás felvonulás|Lámpás felvonulás",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU033",
+  "cat": "Szokások",
+  "q": "Mondj egy gyakori magyar vezetéknevet!",
+  "hint": "",
+  "a": [
+   [
+    "Nagy",
+    1
+   ],
+   [
+    "Kovács",
+    1
+   ],
+   [
+    "Tóth",
+    1
+   ],
+   [
+    "Szabó",
+    1
+   ],
+   [
+    "Horváth",
+    2
+   ],
+   [
+    "Varga",
+    2
+   ],
+   [
+    "Kiss",
+    2
+   ],
+   [
+    "Molnár",
+    2
+   ],
+   [
+    "Németh",
+    2
+   ],
+   [
+    "Farkas",
+    3
+   ],
+   [
+    "Balogh",
+    3
+   ],
+   [
+    "Papp",
+    3
+   ],
+   [
+    "Takács",
+    3
+   ],
+   [
+    "Juhász",
+    3
+   ],
+   [
+    "Lakatos",
+    3
+   ],
+   [
+    "Mészáros",
+    3
+   ],
+   [
+    "Oláh",
+    3
+   ],
+   [
+    "Simon",
+    3
+   ],
+   [
+    "Rácz",
+    3
+   ],
+   [
+    "Fekete",
+    3
+   ],
+   [
+    "Szilágyi",
+    3
+   ],
+   [
+    "Török",
+    3
+   ],
+   [
+    "Fehér",
+    3
+   ],
+   [
+    "Balázs",
+    3
+   ],
+   [
+    "Gál",
+    3
+   ],
+   [
+    "Kis",
+    3
+   ],
+   [
+    "Szűcs",
+    3
+   ],
+   [
+    "Fazekas",
+    3
+   ],
+   [
+    "Kocsis",
+    3
+   ],
+   [
+    "Pintér",
+    3
+   ],
+   [
+    "Sipos",
+    3
+   ],
+   [
+    "Fodor",
+    3
+   ],
+   [
+    "Katona",
+    3
+   ],
+   [
+    "Jakab",
+    4
+   ],
+   [
+    "Budai",
+    4
+   ],
+   [
+    "Kelemen",
+    4
+   ],
+   [
+    "Vincze",
+    4
+   ],
+   [
+    "Boros",
+    4
+   ],
+   [
+    "Deák",
+    4
+   ],
+   [
+    "Antal",
+    4
+   ],
+   [
+    "Bodnár",
+    4
+   ],
+   [
+    "Magyar",
+    4
+   ],
+   [
+    "Vass",
+    4
+   ],
+   [
+    "Lukács",
+    4
+   ],
+   [
+    "Sándor",
+    4
+   ],
+   [
+    "Gulyás",
+    4
+   ],
+   [
+    "Bognár",
+    4
+   ],
+   [
+    "Hegedűs",
+    4
+   ],
+   [
+    "Szalai",
+    4
+   ],
+   [
+    "Kerekes",
+    4
+   ],
+   [
+    "Bálint",
+    5
+   ],
+   [
+    "Kardos",
+    6
+   ],
+   [
+    "Bakos",
+    6
+   ],
+   [
+    "Csonka",
+    6
+   ],
+   [
+    "Barta",
+    5
+   ],
+   [
+    "Bíró|Biró",
+    3
+   ],
+   [
+    "Kozma",
+    4
+   ],
+   [
+    "Pásztor",
+    4
+   ],
+   [
+    "Orosz",
+    4
+   ],
+   [
+    "Lengyel",
+    4
+   ],
+   [
+    "Szekeres",
+    4
+   ],
+   [
+    "Fülöp",
+    4
+   ],
+   [
+    "Halász",
+    4
+   ],
+   [
+    "Somogyi",
+    4
+   ],
+   [
+    "Hajdu",
+    4
+   ],
+   [
+    "Pap",
+    4
+   ],
+   [
+    "Soós",
+    4
+   ],
+   [
+    "Pál",
+    4
+   ],
+   [
+    "Major",
+    5
+   ],
+   [
+    "Csizmadia",
+    5
+   ],
+   [
+    "Sárközi",
+    5
+   ],
+   [
+    "Szénási",
+    5
+   ],
+   [
+    "Orsós",
+    5
+   ],
+   [
+    "Lázár",
+    4
+   ],
+   [
+    "Illés",
+    4
+   ],
+   [
+    "Mezei",
+    4
+   ],
+   [
+    "Szántó",
+    4
+   ],
+   [
+    "Gábor",
+    4
+   ],
+   [
+    "Tamás",
+    4
+   ],
+   [
+    "Nemes",
+    4
+   ],
+   [
+    "Rózsa",
+    5
+   ],
+   [
+    "Dudás",
+    4
+   ],
+   [
+    "Faragó",
+    4
+   ],
+   [
+    "Rigó",
+    5
+   ],
+   [
+    "Virág",
+    4
+   ],
+   [
+    "Bozsik",
+    5
+   ],
+   [
+    "Szőke",
+    4
+   ],
+   [
+    "Barna",
+    4
+   ],
+   [
+    "Pataki",
+    4
+   ],
+   [
+    "Gáspár",
+    4
+   ],
+   [
+    "Bodó",
+    5
+   ],
+   [
+    "Ács",
+    5
+   ],
+   [
+    "Kalmár",
+    4
+   ],
+   [
+    "Bogdán",
+    5
+   ],
+   [
+    "Orbán",
+    4
+   ],
+   [
+    "Vörös",
+    4
+   ],
+   [
+    "Ferenc",
+    4
+   ],
+   [
+    "Lőrincz",
+    4
+   ],
+   [
+    "Máté",
+    4
+   ],
+   [
+    "Székely",
+    4
+   ],
+   [
+    "Váradi",
+    4
+   ],
+   [
+    "Mátyás",
+    4
+   ],
+   [
+    "Szalay",
+    5
+   ],
+   [
+    "Csáki",
+    5
+   ],
+   [
+    "Polgár",
+    4
+   ],
+   [
+    "Ónodi",
+    6
+   ],
+   [
+    "Szabados",
+    5
+   ],
+   [
+    "Szegedi",
+    4
+   ],
+   [
+    "Debreceni",
+    5
+   ],
+   [
+    "Pécsi",
+    5
+   ],
+   [
+    "Győri",
+    5
+   ],
+   [
+    "Pesti",
+    5
+   ],
+   [
+    "Balog",
+    4
+   ],
+   [
+    "Bartha",
+    4
+   ],
+   [
+    "Cseh",
+    4
+   ],
+   [
+    "Nyári",
+    5
+   ],
+   [
+    "Bencze",
+    5
+   ],
+   [
+    "Asztalos",
+    4
+   ],
+   [
+    "Csányi",
+    5
+   ],
+   [
+    "Dobos",
+    4
+   ],
+   [
+    "Kertész",
+    4
+   ],
+   [
+    "Tarr",
+    5
+   ],
+   [
+    "Gombos",
+    5
+   ],
+   [
+    "Árva",
+    6
+   ],
+   [
+    "Bakó",
+    5
+   ],
+   [
+    "Bán",
+    5
+   ],
+   [
+    "Bárány",
+    5
+   ],
+   [
+    "Bartók",
+    5
+   ],
+   [
+    "Berki",
+    5
+   ],
+   [
+    "Bodor",
+    5
+   ],
+   [
+    "Boda",
+    5
+   ],
+   [
+    "Bordás",
+    5
+   ],
+   [
+    "Borbély",
+    4
+   ],
+   [
+    "Both",
+    5
+   ],
+   [
+    "Búza",
+    5
+   ],
+   [
+    "Császár",
+    5
+   ],
+   [
+    "Csorba",
+    5
+   ],
+   [
+    "Demeter",
+    4
+   ],
+   [
+    "Dávid",
+    4
+   ],
+   [
+    "Dienes",
+    5
+   ],
+   [
+    "Domokos",
+    5
+   ],
+   [
+    "Dömötör",
+    5
+   ],
+   [
+    "Egri",
+    5
+   ],
+   [
+    "Erdélyi",
+    4
+   ],
+   [
+    "Erdős",
+    4
+   ],
+   [
+    "Fábián",
+    4
+   ],
+   [
+    "Fejes",
+    5
+   ],
+   [
+    "Fenyvesi",
+    5
+   ],
+   [
+    "Forgács",
+    4
+   ],
+   [
+    "Földes",
+    5
+   ],
+   [
+    "Gergely",
+    4
+   ],
+   [
+    "Gyenes",
+    5
+   ],
+   [
+    "Gyöngyösi",
+    5
+   ],
+   [
+    "Hajnal",
+    5
+   ],
+   [
+    "Halmos",
+    6
+   ],
+   [
+    "Hamar",
+    5
+   ],
+   [
+    "Hidas",
+    5
+   ],
+   [
+    "Holló",
+    5
+   ],
+   [
+    "Hosszú",
+    5
+   ],
+   [
+    "Imre",
+    4
+   ],
+   [
+    "Jónás",
+    5
+   ],
+   [
+    "Józsa",
+    5
+   ],
+   [
+    "Kádár",
+    4
+   ],
+   [
+    "Kalocsai",
+    5
+   ],
+   [
+    "Kállai",
+    5
+   ],
+   [
+    "Kálmán",
+    4
+   ],
+   [
+    "Kapás",
+    5
+   ],
+   [
+    "Karácsony",
+    5
+   ],
+   [
+    "Kasza",
+    5
+   ],
+   [
+    "Kerti",
+    5
+   ],
+   [
+    "Keresztes",
+    4
+   ],
+   [
+    "Kéri",
+    5
+   ],
+   [
+    "Koltai",
+    5
+   ],
+   [
+    "Komáromi",
+    5
+   ],
+   [
+    "Konrád",
+    5
+   ],
+   [
+    "Köves",
+    5
+   ],
+   [
+    "Kun",
+    4
+   ],
+   [
+    "Kurucz",
+    5
+   ],
+   [
+    "Kuti",
+    5
+   ],
+   [
+    "Lantos",
+    5
+   ],
+   [
+    "Madarász",
+    5
+   ],
+   [
+    "Márton",
+    4
+   ],
+   [
+    "Mátrai",
+    5
+   ],
+   [
+    "Mihály",
+    4
+   ],
+   [
+    "Mikó",
+    5
+   ],
+   [
+    "Nyíri",
+    5
+   ],
+   [
+    "Olasz",
+    5
+   ],
+   [
+    "Ország",
+    6
+   ],
+   [
+    "Ötvös",
+    5
+   ],
+   [
+    "Pete",
+    5
+   ],
+   [
+    "Péter",
+    4
+   ],
+   [
+    "Petrovics",
+    6
+   ],
+   [
+    "Pozsonyi",
+    5
+   ],
+   [
+    "Radics",
+    5
+   ],
+   [
+    "Ruzsa",
+    5
+   ],
+   [
+    "Sárkány",
+    5
+   ],
+   [
+    "Sebestyén",
+    4
+   ],
+   [
+    "Sólyom",
+    5
+   ],
+   [
+    "Sulyok",
+    5
+   ],
+   [
+    "Szakács",
+    4
+   ],
+   [
+    "Szendrei",
+    5
+   ],
+   [
+    "Szentpéteri",
+    6
+   ],
+   [
+    "Szőllősi",
+    5
+   ],
+   [
+    "Tálas",
+    6
+   ],
+   [
+    "Tar",
+    5
+   ],
+   [
+    "Tihanyi",
+    5
+   ],
+   [
+    "Timár",
+    5
+   ],
+   [
+    "Tőkés",
+    5
+   ],
+   [
+    "Ungvári",
+    5
+   ],
+   [
+    "Újvári",
+    5
+   ],
+   [
+    "Vadász",
+    5
+   ],
+   [
+    "Vajda",
+    4
+   ],
+   [
+    "Valkó",
+    6
+   ],
+   [
+    "Végh",
+    4
+   ],
+   [
+    "Veres",
+    4
+   ],
+   [
+    "Vida",
+    5
+   ],
+   [
+    "Vígh",
+    5
+   ],
+   [
+    "Zámbó",
+    5
+   ],
+   [
+    "Zsigmond",
+    5
+   ],
+   [
+    "Zsolnai",
+    6
+   ],
+   [
+    "Zakar",
+    6
+   ],
+   [
+    "Baranyai",
+    5
+   ],
+   [
+    "Szabolcsi",
+    5
+   ],
+   [
+    "Zalai",
+    5
+   ],
+   [
+    "Somlai",
+    5
+   ],
+   [
+    "Tolnai",
+    5
+   ],
+   [
+    "Nógrádi",
+    5
+   ],
+   [
+    "Borsos",
+    4
+   ],
+   [
+    "Szűts",
+    6
+   ],
+   [
+    "Vámos",
+    5
+   ]
+  ]
+ },
+ {
+  "id": "HU034",
+  "cat": "Híres magyarok",
+  "q": "Mondj egy őshonos magyar háziállat- vagy kutyafajtát!",
+  "hint": "",
+  "a": [
+   [
+    "Mangalica|Mangalicasertés|Mangalica sertés",
+    1
+   ],
+   [
+    "Komondor|Komondor kutya",
+    1
+   ],
+   [
+    "Puli|Puli kutya",
+    1
+   ],
+   [
+    "Vizsla|Magyar vizsla|Vizsla kutya",
+    1
+   ],
+   [
+    "Kuvasz|Kuvasz kutya",
+    2
+   ],
+   [
+    "Pumi|Pumi kutya",
+    2
+   ],
+   [
+    "Szürkemarha|Magyar szürkemarha",
+    2
+   ],
+   [
+    "Racka|Racka juh|Magyar racka|Fehér racka|Fehér racka juh|Fekete racka|Fekete racka juh",
+    2
+   ],
+   [
+    "Mudi|Mudi kutya",
+    3
+   ],
+   [
+    "Magyar agár|Magyar agár kutya",
+    3
+   ],
+   [
+    "Erdélyi kopó|Erdélyi kopó kutya|Kis erdélyi kopó|Kis kopó|Nagy erdélyi kopó|Nagy kopó",
+    3
+   ],
+   [
+    "Nonius|Nonius ló|Magyar nóniusz|Nóniusz|Nóniusz ló",
+    3
+   ],
+   [
+    "Gidrán|Gidrán ló",
+    3
+   ],
+   [
+    "Furioso-North Star|Furioso|Furioso North Star",
+    3
+   ],
+   [
+    "Shagya-arab|Shagya",
+    4
+   ],
+   [
+    "Hucul|Hucul ló|Magyar hucul|Hucul pónilovak|Hucul póni",
+    4
+   ],
+   [
+    "Magyar tarka|Magyar tarka szarvasmarha|Magyar tarka marha",
+    4
+   ],
+   [
+    "Cigája|Cigája juh",
+    4
+   ],
+   [
+    "Magyar parlagi tyúk|Parlagi tyúk",
+    4
+   ],
+   [
+    "Magyar sárga tyúk|Sárga tyúk",
+    4
+   ],
+   [
+    "Magyar parlagi kecske|Parlagi kecske",
+    5
+   ],
+   [
+    "Magyar bronzpulyka|Bronzpulyka",
+    5
+   ],
+   [
+    "Magyar szamár|Parlagi szamár",
+    5
+   ],
+   [
+    "Kisbéri félvér|Kisbéri",
+    5
+   ],
+   [
+    "Magyar hidegvérű|Hidegvérű",
+    6
+   ],
+   [
+    "Mura-közi ló|Muraközi ló|Muraközi",
+    6
+   ],
+   [
+    "Magyar lúd|Magyar fehér lúd",
+    6
+   ],
+   [
+    "Magyar rövidszőrű vizsla|Rövidszőrű vizsla",
+    4
+   ],
+   [
+    "Drótszőrű magyar vizsla|Drótszőrű vizsla",
+    4
+   ],
+   [
+    "Erdélyi kopasznyakú tyúk|Kopasznyakú tyúk",
+    5
+   ],
+   [
+    "Magyar kendermagos tyúk|Kendermagos tyúk",
+    5
+   ],
+   [
+    "Gyimesi racka",
+    6
+   ],
+   [
+    "Magyar fodros tollú lúd|Fodros lúd",
+    6
+   ],
+   [
+    "Fecskehasú mangalica|Fecskehasú mangalicasertés",
+    5
+   ],
+   [
+    "Vörös mangalica|Vörös mangalicasertés",
+    5
+   ],
+   [
+    "Szőke mangalica|Szőke mangalicasertés",
+    4
+   ],
+   [
+    "Cikta|Cikta juh",
+    5
+   ],
+   [
+    "Magyar merinó|Magyar merinó juh",
+    5
+   ],
+   [
+    "Mezőhegyesi félvér|Mezőhegyesi",
+    5
+   ]
+  ]
+ }
+]

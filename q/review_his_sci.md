@@ -1,0 +1,75 @@
+# Változásnapló – his.json, sci.json (his_sci)
+
+## his.json
+- HIS001 – hint: Caesar nem volt császár; Romulus Augustulus 6→5; +Augusztusz alias; +6 császár (Valens, Honorius, Maxentius stb.).
+- HIS002 – hiányzó Cleveland pótolva; Roosevelt/Grant aliasok.
+- HIS003 – aliasok (Artemis, Hestia, Gé…); +Prométheusz, Atlasz, Hébé.
+- HIS004 – Amor és Cupido ugyanaz az isten → összevonva; aliasok (Vulkán, Plútó, Merkur).
+- HIS005 – nemzetközi írásmód aliasok (Anubis, Thoth, Sobek, Sekhmet, Bes).
+- HIS006 – Narfi 4→6; +Valkűr, Hugin, Munin, Nidhögg.
+- HIS007 – +10 hiányzó filozófus (Erasmus, Hérakleitosz, Engels, Lukács…); Laozi, Kung-ce alias.
+- HIS008 – Peary 3→4; +Ibn Battúta, Vörös Erik, Teleki, Almásy, Zheng He.
+- HIS009 – magyar csaták tiere javítva (Muhi, Nándorfehérvár →3; Pákozd, Szentgotthárd →4); Lipcse/Rigómező alias; +Don-kanyar, El-Alamein, Somme, Dunkerque, Iwo Jima, Ypres, Isaszeg.
+- HIS010 – törölve: Maja Birodalom (nem volt birodalom), Szovjetunió (vitatott); "Beni" alias javítva Beninre; +Hun, Osztrák Császárság, Kalifátus, Pártus, Szászánida, Etióp.
+- HIS011 – KICSERÉLVE (a HU011 "magyar király" kérdés duplikátuma volt): "Nevezz meg egy szerzetes- vagy lovagrendet!" (37 válasz).
+- HIS012 – +FIFA, UEFA, WWF, Népszövetség, KGST, V4, CERN, BRICS, FÁK, Benelux, ESA, SCO.
+- HIS013 – törölve: Ateizmus (nem vallás/hitrendszer); +szunnita, síita, anglikán, baptista, zen stb.
+- HIS014 – Teleszkóp = Távcső → összevonva; tierek (Gőzmozdony, Gőzhajó, Ceruza 6→4 stb.); +mobiltelefon, távíró, kerékpár, írógép, vakcina…
+- HIS015 – hiányzó Leonardo da Vinci (2) pótolva; Puskás, Irinyi 5→4; +Arkhimédész, Siemens, Babbage, Kempelen stb.
+- HIS016 – aliasok (Agrigentum, Siracusa, Korfu, Knossos); +Eleusis, Nemea, Sounion, Massalia.
+- HIS017 – Brit Birodalom alias.
+- HIS018 – Tojo/Yamamoto magyar átírás; +Tito, Szálasi, Pétain, Csang Kaj-sek, Mannerheim, Quisling, Keitel, Antonescu.
+- HIS019 – +Kinizsi, Dobó, Görgei, Bem, Spartacus, Cromwell, Nagy Frigyes, Wallenstein stb.
+- HIS020 – "I. Károly" alias törölve V. Károlyról (Károly Róbert/angol I. Károly ütközés); hiányzó II. Erzsébet (1) pótolva, a puszta "Erzsébet" alias átkerült hozzá; +XVI. Lajos, III. Károly, II. Vilmos stb.
+- HIS021 – aliasok (Tutankhamon, Keopsz, Kefrén, Piye).
+- HIS022 – Bonaparte 6→4; +Szapolyai, Přemysl, Coburg, Oranje, Bragança stb.
+- HIS023 – "Cseh felkelés" pontosítva (cseh rendi felkelés); +Prágai tavasz, angol polgári, dicsőséges forradalom, varsói felkelés stb.
+- HIS024 – törölve: Magna Carta (nem nemzetközi egyezmény), Teheráni konferencia (nem született szerződés); München 1→2; +Párizsi béke (2), Schengen, Kiotó, Helsinki, Dayton stb.
+- HIS025 – hint: valós személy; kétes "Csing Ti" alias cserélve.
+- HIS026 – "Szellemhajó" túl általános alias → Bolygó hollandi; tierek (Bounty 1→2, Andrea Doria, Gustloff 6→5); +Costa Concordia, Kurszk, Exxon Valdez.
+- HIS027 – törölve: Angkor Vat, Machu Picchu, Chichen Itza (középkoriak, nem ókoriak); Agrigento → Templomok völgye; +Aquincum, Királyok völgye, Trója, Knósszosz, Herculaneum stb.
+- HIS028 – "Királyi Hedvig" helyett Hedvig királynő; +I. Erzsébet, II. Katalin, Szent Erzsébet, Szent Margit, Frida Kahlo, Coco Chanel.
+- HIS029 – hibás "Beniczky" alias törölve Vetter Antalról (külön személy, külön válaszként); +Haynau, Jellasics, Windischgrätz, Mészáros Lázár stb.
+- HIS030 – törölve: Hannó (karthágói, nem görög); +Arisztotelész (2), Empedoklész, Dioszkoridész.
+- HIS031 – +25 gyakori bibliai szereplő (Pilátus, Heródes, Keresztelő János, Mária Magdolna, apostolok stb.).
+- HIS032 – tierek (Videla, Suharto, Mobutu, Batista, Salazar túl alacsony; Mugabe túl magas); hiányzó Castro, Lenin, Rákosi (2), Tito pótolva.
+- HIS033 – KICSERÉLVE (a SCI012 "híres tudós" kérdés duplikátuma volt): "Nevezz meg egy híres ókori rómait, aki nem volt császár!" (48 válasz). A tudósok közül a hiányzók átkerültek SCI012-be.
+- HIS034 – törölve: Vikingek (nem ókori/népvándorlás kori); hiányzó Avarok (2) pótolva; +frankok, szlávok, kazárok, osztrogótok stb.
+- HIS035 – +XIII. Gergely, XI. Ince, II. Piusz.
+
+## sci.json
+- SCI001 – sok hiányzó gyakori emlős pótolva (tigris, egér, patkány, kecske, juh, szarvas, zebra, víziló stb.).
+- SCI002 – "méhész" alias → méhészmadár; +28 gyakori hazai madár (ölyv, vércse, csóka, fülemüle, vörösbegy…).
+- SCI003 – +bodorka, karikakeszeg, kősüllő, lápi póc stb.; tokhal, tükörponty alias.
+- SCI004 – +termesz, szentjánosbogár, poszméh, krumplibogár, cincér stb.
+- SCI005 – +erdeifenyő, cser, feketefenyő, eperfa, almafa, szilvafa stb.
+- SCI006 – +galambgomba, élesztőgomba, tölcsérgomba, enoki, csészegomba; aliasok.
+- SCI007 – a teljes 118 elemre bővítve; "tullium" helyesírás → túlium; wolfram alias.
+- SCI008 – Phobosz 1→2, Deimosz 1→3; +15 kisebb hold (6-os tier).
+- SCI009 – "Iránytű" → Tájoló (Pyxis magyar neve); +38 csillagkép.
+- SCI010 – félrevezető "comb" alias törölve; +csípőcsont (3), ujjperc, kéztő-, lábtőcsont stb.
+- SCI011 – törölve: here (nem belső szerv); +gerincvelő, kisagy, mandula, nyirokcsomó, csontvelő.
+- SCI012 – "Elég a vezetéknév" a kérdésszövegből a hintbe; +13 tudós (Semmelweis, Oppenheimer, Pavlov, Koch…).
+- SCI013 – 1 betűs "m" alias törölve; hiányzó Celsius-fok (2), centiméter (2) és további gyakori egységek pótolva.
+- SCI014 – törölve: bauxit (kőzet), limonit (keverék); "só" alias törölve; "szziderit" elírás javítva; +türkiz, berill, cirkon stb.
+- SCI015 – +achát, kalcedon, karneol, berill, krizoberill, gagát.
+- SCI016 – törölve: gyapjúvirág (bizonytalan név); sarkantyúka név; +orgona, krizantém, százszorszép, magnólia stb.
+- SCI017 – a HET003 fűszer-kérdéssel átfedett → "Mondj egy gyógynövényt!" lett; a tisztán konyhai fűszerek törölve; lestyán/orvosi lestyán duplikátum megszüntetve; +körömvirág (2), csalán, csipkebogyó, bodza, zsurló stb.
+- SCI020 – +pitbull, máltai, francia bulldog, border collie, corgi stb.
+- SCI021 – leguán alias; olm → barlangi vakgőte; +piton, anakonda, csörgőkígyó, hazai gyíkok/siklók.
+- SCI022 – triceratopsz alias.
+- SCI023 – muréna helyesírás; manta = óriás ördögrája alias; tierek (kalmár, pörölycápa 6→4, krill, ámbráscet 6→5); +bohóchal, fehér cápa, pingvin stb.
+- SCI024 – KICSERÉLVE (a HU016 "magyar tudós" kérdés duplikátuma volt): "Mondj egy betegséget, amit vírus okoz!" (35 válasz).
+- SCI025 – +informatika, orvostudomány, pszichológia, régészet stb.
+- SCI026 – hiányzó felhő (2) pótolva; +szélvihar, aszály, homokvihar, délibáb stb.
+- SCI027 – harmadkor/negyedkor alias; +fanerozoikum.
+- SCI028 – +agyag, kovakő, kréta, csillámpala, agyagpala, porfír stb.
+- SCI029 – pókvirág = zöldike → összevonva; "zamia" hibás (a ZZ-növény a Zamioculcas); kalanchoe 6→4; +mikulásvirág, páfrány, ciklámen, anthurium stb.
+- SCI030 – "ülőizom" nem bevett név → farizom alias lett; +ferde/egyenes hasizom stb.
+- SCI031 – köröm 6→3, fülcimpa 6→4, orrnyereg 6→5; +ajak, mell, fenék, vádli, alkar stb.
+- SCI032 – +9 ritka csillag (6-os tier).
+- SCI033 – hiányzó ISS (2), űrsikló pótolva; +Artemis, Starship, Dragon, Buran stb.
+- SCI034 – a "szirti sas" és a "kőszáli sas|aranysas" ugyanaz a faj → összevonva; +vándorsólyom, hóbagoly stb.
+- SCI035 – +DNS, hialuronsav, folsav, kéksav stb.
+- SCI036 – ÚJ: "Mondj egy macskafélét!" (36 válasz).
+- SCI037 – ÚJ: "Mondj egy főemlőst (majmot vagy makit)!" (38 válasz).

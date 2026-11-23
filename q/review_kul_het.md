@@ -1,0 +1,76 @@
+# Változásnapló – kul_het
+
+Minden kérdésben a válaszok tier szerint rendezve. Csak a változtatott kérdések szerepelnek.
+
+- HET001 – szamóca alias; +6 hiányzó (kókuszdió, galagonya stb.)
+- HET002 – aliasok; +5 hiányzó (újhagyma, lilahagyma stb.)
+- HET003 – aliasok (feketebors, pirospaprika); +5 hiányzó (fokhagyma stb.)
+- HET004 – brindza alias; +5 hiányzó (óvári, pannónia, burrata, túró)
+- HET005 – boza törölve (enyhén alkoholos); aliasok; +5 hiányzó (üdítő, alkoholmentes sör, Traubi stb.)
+- HET006 – aliasok; +7 hiányzó (fröccs, forralt bor, brandy, prosecco stb.)
+- HET007 – aliasok (vodka narancs, rum kóla); +8 hiányzó
+- HET008 – Trabant 4→3, Lotus 6→5; zsiguli alias; +6 hiányzó (BYD, Moszkvics stb.)
+- HET009 – kendő 5→4; aliasok; +14 hiányzó (trikó, melltartó, zakó, öltöny stb.)
+- HET010 – lovaglócsizma 3→4, ugg/bocskor 6→5; facipő alias; +10 hiányzó (mamusz, félcipő stb.)
+- HET011 – kasza/sarló/kapa/vasvilla 6→4; aliasok; +12 hiányzó (olló, satu, láncfűrész stb.)
+- HET012 – turmixgép dupla alias javítva; spatula 5→4; +20 hiányzó (tányér, tepsi, pohár, hűtő, mikró stb.)
+- HET013 – mészáros = hentes, összevonva; méhész dupla alias javítva, 6→4; fazekas/cipész/ács/kovács →4; +31 hiányzó foglalkozás
+- HET014 – tálalószekrény = tálaló, összevonva; +7 hiányzó
+- HET015 – aliasok (hoki, kosár, bicikli); +26 hiányzó (karate, autóverseny, bowling stb.)
+- HET016 – aliasok (futás, pingpong, kenu stb.); +3 (karate, krikett, nyílt vízi)
+- HET017 – skicross duplikátum összevonva síkrossal; homályos "kombinált" → alpesi kombináció; aliasok; +katonai járőr
+- HET018 – +40 hiányzó klub (magyar klubok, Bundesliga/Serie A/PL középcsapatok stb.)
+- HET019 – Klubnevek javítva: Salgótarjáni BTC (nem BTO), Ceglédi VSE (nem VSK), Lombard Pápa (bizonytalan "Pápai ELC" törölve); Siófok 3→4; +7 (Szeged, Budafok, Soroksár, Vác stb.)
+- HET020 – +27 hiányzó (Kournikova, Taróczy, Kerber, Wozniacki stb.)
+- HET021 – 2 betűs "rb" alias törölve; +Toleman
+- HET022 – +16 hiányzó (Ralf Schumacher, Alesi, Berger stb.)
+- HET023 – kényszerlépés = zugzwang, összevonva; magyar aliasok (vezércsel, csel); vezérgambit 6→4, szicíliai 6→5; +6 hiányzó (sakktábla, pásztormatt stb.)
+- HET024 – solitaire alias; +4 (lórum, Magic, Yu-Gi-Oh, kaszinó)
+- HET025 – vörös/arany/ezüst/türkiz/bordó 4→3; aliasok; +15 hiányzó
+- HET026 – gnocchi dupla alias javítva (+nyoki); spätzle beolvasztva a nokedlibe (ugyanaz az étel); +9 hiányzó magyar levestészta stb.
+- HET027 – aliasok; +24 hiányzó (csoki, kuglóf, piskóta, Túró Rudi, fagyi stb.)
+- HET028 – "gulyás" törölve (leves, a kérdés kizárja) + hint; székely gulyás = székelykáposzta, összevonva; kocsonya/fatányéros/tócsni 5→4; +10 hiányzó (rakott káposzta, zsíros kenyér, sólet stb.)
+- HET029 – kocsonya törölve (nem leves); +12 hiányzó (babgulyás, korhely, palóc, újházi stb.)
+- HET030 – 2 betűs "on" alias és "k2" törölve; +15 hiányzó (Jordan, Kalenji, Quechua, Everlast stb.)
+- HET031 – Ganz törölve (nem elektronikai/háztartásigép-márka); +27 hiányzó (Microsoft, Intel, Nvidia, Kodak, Epson stb.)
+- HET032 – "d&g" (2 betűs kulcs) alias törölve; +26 hiányzó (Pierre Cardin, Michael Kors, Gap, Shein stb.)
+- HET033 – Tuzex törölve (csehszlovák bolthálózat volt), Dehner törölve (nincs Magyarországon); +18 hiányzó (eMAG, Fornetti, Benu, Plus, Profi, Kaiser's stb.)
+- HET034 – nagy ádám dupla alias javítva; +21 hiányzó (Dárdai, Esterházy, Böde, Dibusz stb.)
+- HET035 – catan/gazdálkodj dupla alias javítva; Gazdálkodj okosan 3→2; Rizikó, ostábla alias; +9 hiányzó (Capitaly, Honfoglaló stb.)
+- KUL001 – +16 hiányzó (Peter Jackson, Woody Allen, Eastwood, Forman, Curtiz stb.)
+- KUL002 – +25 hiányzó gyakori Oscar-díjas (Crowe, Will Smith, Jolie, Bale, Ledger, Murphy stb.)
+- KUL003 – Bugs Bunny "Bolondos nyúl"→Tapsi Hapsi; Road Runner "Strucc"→Gyalogkakukk; Barney magyarul Béni (nem Barni); Dodó kacsa alias törölve; Kukori/Mekk Elek/Elmer lejjebb; +24 hiányzó (Micimackó, Kisvakond, Peppa, Simba, Törpapa stb.)
+- KUL004 – Coco törölve (Pixar, a KUL020-ba tartozik); Bolt 6→5; +6 hiányzó (Rontó Ralph, Hős6os stb.)
+- KUL005 – Magyar nevek pótolva (Sipor, Bimba, Lumpsluck, Vitrol, Göthe Salmander); +17 hiányzó (Fred, George, Mógus, Myrtle stb.)
+- KUL006 – +10 hiányzó (Paganini, Gershwin, Saint-Saëns...); Händel teljes név alias
+- KUL007 – +32 hiányzó gyakori zenekar (Imagine Dragons, Backstreet Boys, Spice Girls, Modern Talking, Bee Gees stb.)
+- KUL008 – +12 hiányzó (basszusgitár, üstdob, pánsíp stb.); aliasok (gordonka, mélyhegedű, kontrabasszus, harangjáték, keyboard)
+- KUL009 – +11 hiányzó (Banksy, Toulouse-Lautrec, Schiele...)
+- KUL010 – +8 hiányzó (Tompa, Madách, Varró stb.)
+- KUL011 – +8 hiányzó, köztük Krasznahorkai (2025-ös Nobel) tier 3
+- KUL012 – +31 hiányzó (Dan Brown, Conan Doyle, Wilde, Defoe, Dahl stb.)
+- KUL013 – aliasok (Romeo and Juliet, King Lear)
+- KUL014 – +11 hiányzó magyar népmese (Kiskakas gyémánt félkrajcárja, Kis gömböc stb.); A fenyőfa 5→6
+- KUL015 – +7 hiányzó (Ring, Walkür stb.)
+- KUL016 – Cím javítva: "Made in Hungary"→Made in Hungaria; +21 hiányzó (Indul a bakterház, Mágnás Miska, Csinibaba stb.)
+- KUL017 – +27 hiányzó (Bujtor, Kabos, Jávor, Csányi, Ruttkai stb.)
+- KUL018 – "CS" 2 betűs alias törölve; +26 hiányzó (Roblox, Candy Crush, Mario Kart, Battlefield stb.)
+- KUL020 – "Up" 2 betűs alias törölve; +9 hiányzó (Elemi, Z a hangya, Spirit stb.)
+- KUL021 – Bizonytalan magyar nevek cserélve (Torony→A Lény, Ciklon→Vihar, Vakmerő→Fenegyerek); +6 hiányzó
+- KUL022 – Bizonytalan Scampi, Zorall törölve; +24 hiányzó (Hooligans, Ossian, Wellhello, Halott Pénz stb.)
+- KUL023 – Magyar nevek (Szilszakáll, Banyapók); +13 hiányzó
+- KUL024 – Mando alias; +9 ritka szereplő
+- KUL025 – "ER" 2 betűs és hibás "Cobra 11 - A Autobahn-Polizei" alias javítva; Seinfeld, Tüskevár 6→5; +37 hiányzó (Szulejmán, X-akták, A mi kis falunk, Jóban Rosszban stb.)
+- KUL026 – +21 hiányzó Oscar-győztes (Száll a kakukk..., A muzsika hangja, Gettómilliomos stb.)
+- KUL027 – +4 ritka karakter
+- KUL028 – +26 hiányzó (Raichu, Pichu, legendásak, starterek)
+- KUL029 – "R&B" (2 betűs kulcs) helyett RnB|rhythm and blues; +21 hiányzó (mulatós, opera, rock and roll, elektronikus stb.)
+- KUL030 – aliasok (verbunk, tvist); +16 hiányzó (hastánc, néptánc, modern tánc stb.)
+- KUL031 – +10 hiányzó (Love Me Do, All My Loving stb.)
+- KUL032 – Sherlock alias; +14 hiányzó (Mulder, Scully, Dirty Harry stb.)
+- KUL033 – +13 hiányzó (Hundertwasser, Utzon, Feszl stb.)
+- KUL034 – Bizonytalan "Misi mókus kalandjai" törölve; Kockásfülű 6→5; +10 hiányzó (Vízipók-csodapók, Tévémaci, Leo és Fred stb.)
+- KUL036 – ÚJ kérdés: "Mondj egy musicalt vagy rockoperát!" – 65 válasz, tier 1–6
+- KUL037 – ÚJ kérdés: "Mondj egy magyar könnyűzenei énekest vagy énekesnőt!" – 88 válasz, tier 1–6
+
+Megjegyzés: témaátfedés más fájlokkal (nem javítva, nem az én fájljaim): KUL010≈HU019 (magyar költő), KUL017≈HU023 (magyar színész), KUL022≈HU021 (magyar zenekar), KUL016/KUL034≈HU035, HET027≈HU028, HET028≈HU027, HET029≈HU026, HET034≈HU024, HET003≈SCI017.
